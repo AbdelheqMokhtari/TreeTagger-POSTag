@@ -1,0 +1,102 @@
+Sentence | True Label | Predicted Tag
+------------------------------------------------------------
+I don’t like that shirt you’re wearing. | DT | DT
+Can you hand me that book? | DT | DT
+I remember visiting that house when I was a child. | DT | DT
+That car over there is mine. | DT | DT
+Do you know who lives in that apartment? | DT | DT
+I don’t think that idea will work. | DT | DT
+She borrowed that pen from my desk. | DT | DT
+Did you see that movie everyone’s talking about? | DT | IN
+We need to fix that problem immediately. | DT | DT
+That road leads to the town square. | DT | DT
+I love the taste of that cake. | DT | DT
+That dog has been barking all morning. | DT | DT
+He’s wearing that jacket again. | DT | DT
+Don’t touch that plate; it’s hot. | DT | DT
+That chair is broken and needs repair. | DT | DT
+Who owns that bike parked outside? | DT | IN
+I’ve been meaning to visit that museum. | DT | DT
+Did you hear that noise just now? | DT | DT
+She doesn’t like that dress anymore. | DT | DT
+I’ll never forget that day we spent at the beach. | DT | WDT
+That lamp needs a new bulb. | DT | DT
+Do you remember that song we used to sing? | DT | WDT
+That picture brings back so many memories. | DT | DT
+He always sits in that seat during meetings. | DT | DT
+That phone has been ringing nonstop. | DT | DT
+They said that hotel has great reviews. | DT | IN
+Please pick up that paper on the floor. | DT | DT
+That window won’t open properly. | DT | DT
+She’s the owner of that beautiful garden. | DT | DT
+Can you grab that bottle of water for me? | DT | DT
+I’ve been looking for that book everywhere. | DT | DT
+That cat keeps coming into our yard. | DT | DT
+Did you attend that conference last year? | DT | IN
+I’ll always remember that advice you gave me. | DT | WDT
+That flower smells amazing. | DT | DT
+The teacher wrote that word on the board. | DT | DT
+I think that restaurant serves the best pasta. | DT | IN
+That man is staring at us. | DT | DT
+Don’t forget to close that door when you leave. | DT | DT
+She painted that wall all by herself. | DT | DT
+I don’t understand why that rule exists. | DT | DT
+Can you turn off that light before you leave? | DT | DT
+That mountain is breathtaking. | DT | DT
+Do you see that bird perched on the tree? | DT | DT
+I don’t like that tone you’re using with me. | DT | DT
+We should explore that path next time. | DT | DT
+He’s been avoiding that topic all day. | DT | DT
+That child is very talented. | DT | DT
+Let’s not waste time discussing that issue again. | DT | DT
+She left her umbrella on that table. | DT | DT
+That car’s engine sounds strange. | DT | DT
+I’ll never forget that moment when we first met. | DT | DT
+Can you put that box on the shelf? | DT | DT
+That street is closed for repairs. | DT | DT
+She wore that scarf I gave her for her birthday. | DT | DT
+I’d like to visit that castle someday. | DT | DT
+That store is having a huge sale today. | DT | DT
+Do you like that necklace she’s wearing? | DT | IN
+I heard that train is always late. | DT | IN
+They’re tearing down that old building. | DT | DT
+That coffee smells delicious. | DT | DT
+I’ve been dreaming about that vacation for years. | DT | DT
+Don’t forget to water that plant. | DT | DT
+Who’s driving that truck? | DT | DT
+That bridge was built over a century ago. | DT | DT
+Have you ever been to that park by the river? | DT | DT
+That color looks great on you. | DT | DT
+Can you believe that speech he gave? | DT | WDT
+She owns that store on Main Street. | DT | IN
+Did you see that cloud shaped like a dragon? | DT | IN
+I love the pattern on that rug. | DT | DT
+That chair was a gift from my grandmother. | DT | DT
+Do you know who wrote that book? | DT | DT
+We stayed at that hotel during our trip. | DT | DT
+That sandwich looks delicious. | DT | DT
+He parked his car in that spot. | DT | DT
+I’d love to climb that hill one day. | DT | DT
+She bought that dress at a vintage store. | DT | DT
+That clock on the wall needs to be fixed. | DT | DT
+Can you see that star shining so brightly? | DT | DT
+I’ve always wanted to visit that country. | DT | DT
+That dog belongs to our neighbor. | DT | DT
+Don’t touch that wire; it’s dangerous. | DT | DT
+Have you seen that movie about space travel? | DT | DT
+She found that ring while cleaning the attic. | DT | DT
+I don’t understand that rule in the game. | DT | DT
+Do you know who painted that picture? | DT | DT
+We walked through that forest on our way here. | DT | DT
+That bakery makes the best chocolate cake. | DT | DT
+She sat on that bench for hours. | DT | DT
+Can you believe that storm last night? | DT | IN
+I’m not sure if that recipe will work. | DT | DT
+That hat really suits you. | DT | DT
+He used that tool to fix the broken pipe. | DT | DT
+I can’t stop thinking about that conversation we had. | DT | DT
+That house on the corner is for sale. | DT | DT
+I’ve been eyeing that jacket for weeks. | DT | DT
+That guitar sounds amazing. | DT | DT
+Did you notice that painting in the hallway? | DT | DT
+That story she told was incredible. | DT | DT

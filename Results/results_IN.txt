@@ -1,0 +1,102 @@
+Sentence | True Label | Predicted Tag
+------------------------------------------------------------
+She said that she would be late. | IN | IN
+I believe that he is telling the truth. | IN | IN
+They admitted that they made a mistake. | IN | IN
+He thinks that the movie is overrated. | IN | IN
+I heard that you got a promotion. | IN | IN
+She knows that I am her biggest supporter. | IN | IN
+He complained that the food was cold. | IN | IN
+We hope that you can join us for dinner. | IN | IN
+I remember that she mentioned your name. | IN | IN
+He forgot that he had a meeting today. | IN | IN
+She feared that she might fail the exam. | IN | IN
+I suspect that they are hiding something. | IN | IN
+He confirmed that the package had arrived. | IN | IN
+I understand that you are upset. | IN | IN
+She revealed that she is moving abroad. | IN | IN
+He promised that he would help me. | IN | IN
+I noticed that you were smiling. | IN | IN
+She insisted that she was right. | IN | IN
+He admitted that he was wrong. | IN | IN
+I assume that you’ve already finished. | IN | DT
+They declared that they would not surrender. | IN | IN
+I hoped that you would come early. | IN | IN
+She argued that the rules should change. | IN | IN
+He believes that his team will win. | IN | IN
+I doubt that she will agree. | IN | IN
+He mentioned that the weather would improve. | IN | IN
+She explained that she had to leave early. | IN | IN
+I imagined that you’d like this gift. | IN | IN
+He warned that the road might be closed. | IN | IN
+She agreed that the idea was brilliant. | IN | IN
+I suppose that you’ve heard the news. | IN | IN
+He emphasized that safety is the top priority. | IN | IN
+She observed that the room was too small. | IN | IN
+I concluded that the plan was feasible. | IN | IN
+He suspected that someone had taken his phone. | IN | IN
+She remarked that the party was enjoyable. | IN | IN
+I predict that the team will succeed. | IN | IN
+He confessed that he had lied. | IN | IN
+I realize that this is a sensitive issue. | IN | IN
+She acknowledged that she needed help. | IN | IN
+He reported that the system had crashed. | IN | IN
+I’ve heard that you’re moving next week. | IN | IN
+She hoped that everything would go smoothly. | IN | IN
+He declared that he was innocent. | IN | IN
+I suspect that they’re avoiding the truth. | IN | IN
+She suggested that we take a break. | IN | IN
+He reminded me that the deadline is tomorrow. | IN | IN
+I warned him that the train was delayed. | IN | IN
+She claimed that she had already paid. | IN | IN
+He asserted that he knew the answer. | IN | IN
+I insisted that you be included in the meeting. | IN | IN
+She doubted that he would finish on time. | IN | IN
+He explained that the rules had changed. | IN | IN
+I acknowledged that it was my fault. | IN | IN
+She believed that the results were accurate. | IN | IN
+He hinted that there might be more to the story. | IN | IN
+I denied that I had seen him before. | IN | IN
+She expressed that she was happy with the outcome. | IN | IN
+He assumed that everyone was on board. | IN | IN
+I accepted that I needed to improve. | IN | IN
+She concluded that the test was unfair. | IN | IN
+He noticed that the light was flickering. | IN | IN
+I maintained that my decision was correct. | IN | IN
+She reported that the noise came from the basement. | IN | IN
+He believed that honesty was the best policy. | IN | IN
+I understood that the instructions were confusing. | IN | IN
+She suggested that we meet earlier. | IN | IN
+He observed that the sky was turning red. | IN | IN
+I hoped that we could resolve this peacefully. | IN | IN
+She claimed that she had never met him. | IN | IN
+He argued that the proposal was flawed. | IN | IN
+I feared that we were running out of time. | IN | IN
+She promised that she would call me later. | IN | IN
+He hinted that he was considering resigning. | IN | IN
+I suspect that they are planning something big. | IN | IN
+She explained that the delay was unavoidable. | IN | IN
+He acknowledged that he had been careless. | IN | IN
+I remarked that the presentation was excellent. | IN | IN
+She emphasized that education is vital. | IN | IN
+He mentioned that the event was canceled. | IN | IN
+I remember that you helped me last year. | IN | IN
+She admitted that she was scared. | IN | IN
+He agreed that the budget was too tight. | IN | IN
+I suppose that everything will be fine. | IN | IN
+She assured me that the project was on track. | IN | IN
+He revealed that he had a hidden talent. | IN | IN
+I doubted that he would attend the meeting. | IN | IN
+She complained that the service was poor. | IN | IN
+He confessed that he felt nervous. | IN | IN
+I hoped that the weather would improve. | IN | IN
+She announced that she was engaged. | IN | IN
+He suggested that we review the document again. | IN | IN
+I confirmed that my application had been received. | IN | IN
+She insisted that her decision was final. | IN | IN
+He warned me that the road was slippery. | IN | IN
+I believe that you’ll succeed with effort. | IN | IN
+She concluded that the solution was effective. | IN | IN
+He explained that he couldn’t attend the meeting. | IN | IN
+I realized that I had forgotten my keys. | IN | IN
+She mentioned that she had spoken to the manager. | IN | IN

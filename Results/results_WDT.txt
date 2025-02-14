@@ -1,0 +1,102 @@
+Sentence | True Label | Predicted Tag
+------------------------------------------------------------
+The book that I borrowed from you is excellent. | WDT | IN
+This is the house that Jack built. | WDT | IN
+She’s the one that helped me yesterday. | WDT | WDT
+The cake that he baked was delicious. | WDT | IN
+The man that I saw at the park was tall. | WDT | IN
+This is the pen that I lost last week. | WDT | IN
+The movie that we watched was amazing. | WDT | IN
+The dog that barked all night belongs to our neighbor. | WDT | WDT
+The idea that she proposed was brilliant. | WDT | IN
+The dress that she wore was stunning. | WDT | IN
+The car that he drives is very expensive. | WDT | IN
+The team that won the game was very strong. | WDT | WDT
+I know the girl that lives next door. | WDT | WDT
+This is the song that I was telling you about. | WDT | IN
+The restaurant that they recommended was fantastic. | WDT | IN
+The problem that we discussed has been resolved. | WDT | IN
+The bus that I took was late. | WDT | IN
+The flowers that he gave me were beautiful. | WDT | IN
+The book that she’s reading is a bestseller. | WDT | IN
+The road that leads to the village is closed. | WDT | WDT
+The box that you left on the table is missing. | WDT | IN
+The child that you saw in the park is my nephew. | WDT | IN
+The project that we worked on won an award. | WDT | IN
+The house that they built is magnificent. | WDT | IN
+The man that I met yesterday is a famous author. | WDT | IN
+The recipe that she shared is easy to follow. | WDT | IN
+The song that she sang was beautiful. | WDT | IN
+The gift that I received was very thoughtful. | WDT | IN
+The photo that you took is stunning. | WDT | IN
+The chair that you’re sitting on is very old. | WDT | IN
+The girl that won the contest is very talented. | WDT | WDT
+The story that he told us was fascinating. | WDT | IN
+The meeting that we attended was productive. | WDT | IN
+The jacket that I bought is too big. | WDT | IN
+The decision that they made was surprising. | WDT | IN
+The cat that you adopted is very playful. | WDT | IN
+The letter that she sent arrived yesterday. | WDT | IN
+The movie that we’re going to watch starts at 7. | WDT | IN
+The building that they are constructing is enormous. | WDT | IN
+The question that he asked was difficult to answer. | WDT | IN
+The artist that painted this is very famous. | WDT | WDT
+The shoes that you’re wearing are stylish. | WDT | IN
+The park that we visited was peaceful. | WDT | IN
+The homework that I forgot to do is due today. | WDT | IN
+The man that called earlier left a message. | WDT | WDT
+The doctor that treated me was very kind. | WDT | WDT
+The computer that I bought last year is still fast. | WDT | IN
+The book that I’m reading is about history. | WDT | IN
+The train that we missed was delayed anyway. | WDT | IN
+The musician that performed was incredibly talented. | WDT | WDT
+The picture that you showed me was hilarious. | WDT | IN
+The shirt that he’s wearing is from Italy. | WDT | IN
+The teacher that inspired me most has retired. | WDT | WDT
+The restaurant that we dined at was expensive. | WDT | IN
+The advice that you gave me was helpful. | WDT | IN
+The city that I visited last summer was beautiful. | WDT | IN
+The team that scored the most points won the trophy. | WDT | WDT
+The movie that we’re talking about is a classic. | WDT | IN
+The car that broke down is still in the shop. | WDT | WDT
+The musician that played the violin was amazing. | WDT | WDT
+The house that burned down has been rebuilt. | WDT | IN
+The necklace that you gave her is gorgeous. | WDT | IN
+The man that spoke at the conference was inspiring. | WDT | WDT
+The river that runs through the city is polluted. | WDT | WDT
+The advice that he gave me changed my life. | WDT | IN
+The field that we crossed was muddy. | WDT | IN
+The child that you helped is very grateful. | WDT | IN
+The car that we rented broke down. | WDT | IN
+The bakery that we passed smelled amazing. | WDT | IN
+The jacket that she wore was very fashionable. | WDT | IN
+The book that he lent me is out of print. | WDT | IN
+The bridge that collapsed was very old. | WDT | WDT
+The company that she works for is international. | WDT | IN
+The painting that he sold was worth millions. | WDT | IN
+The city that I grew up in has changed a lot. | WDT | IN
+The play that we saw last night was fantastic. | WDT | IN
+The garden that she tends is blooming beautifully. | WDT | IN
+The box that he brought was full of surprises. | WDT | IN
+The trip that we planned was canceled. | WDT | IN
+The food that they served was delicious. | WDT | IN
+The story that he shared moved everyone. | WDT | IN
+The phone that I bought last month already broke. | WDT | IN
+The animal that we rescued is recovering well. | WDT | IN
+The chair that I fixed is sturdy now. | WDT | IN
+The road that we took was very scenic. | WDT | IN
+The teacher that taught us retired last year. | WDT | WDT
+The email that I sent hasn’t been answered yet. | WDT | IN
+The man that I spoke with was very polite. | WDT | IN
+The mountain that we climbed was steep. | WDT | IN
+The gift that she opened was a surprise. | WDT | IN
+The jacket that I borrowed is too small. | WDT | IN
+The fish that he caught was enormous. | WDT | IN
+The hotel that we stayed at was luxurious. | WDT | IN
+The question that she asked was thought-provoking. | WDT | IN
+The actor that starred in the film is very famous. | WDT | WDT
+The song that I love is on the radio. | WDT | IN
+The beach that we visited was crowded. | WDT | IN
+The book that I wrote is being published. | WDT | IN
+The story that you told made me laugh. | WDT | IN
+The decision that they announced surprised everyone. | WDT | IN
