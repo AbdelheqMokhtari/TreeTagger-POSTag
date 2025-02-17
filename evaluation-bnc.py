@@ -12,7 +12,7 @@ os.makedirs(output_folder, exist_ok=True)
 # Define file paths
 file_paths = {
     "AV0": os.path.join(data_folder, "that_adv.txt"),  # Adverb (RB in Penn)
-    "CST": os.path.join(data_folder, "that_conjunction.txt"),  # Preposition (IN in Penn)
+    "CJT": os.path.join(data_folder, "that_conjunction.txt"),  # Preposition (IN in Penn)
     "DT0": os.path.join(data_folder, "that_determiner.txt"),  # Determiner (DT in Penn)
     "CJT": os.path.join(data_folder, "that_pronoun.txt")  # Pronoun (WDT in Penn)
 }
