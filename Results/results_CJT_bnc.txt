@@ -1,0 +1,102 @@
+Sentence | True Label | Predicted Tag
+------------------------------------------------------------
+The book that I borrowed from you is excellent. | CJT | CJT
+This is the house that Jack built. | CJT | CJT
+She’s the one that helped me yesterday. | CJT | CJT
+The cake that he baked was delicious. | CJT | CJT
+The man that I saw at the park was tall. | CJT | CJT
+This is the pen that I lost last week. | CJT | CJT
+The movie that we watched was amazing. | CJT | CJT
+The dog that barked all night belongs to our neighbor. | CJT | CJT
+The idea that she proposed was brilliant. | CJT | CJT
+The dress that she wore was stunning. | CJT | CJT
+The car that he drives is very expensive. | CJT | CJT
+The team that won the game was very strong. | CJT | CJT
+I know the girl that lives next door. | CJT | CJT
+This is the song that I was telling you about. | CJT | CJT
+The restaurant that they recommended was fantastic. | CJT | CJT
+The problem that we discussed has been resolved. | CJT | CJT
+The bus that I took was late. | CJT | CJT
+The flowers that he gave me were beautiful. | CJT | CJT
+The book that she’s reading is a bestseller. | CJT | CJT
+The road that leads to the village is closed. | CJT | CJT
+The box that you left on the table is missing. | CJT | CJT
+The child that you saw in the park is my nephew. | CJT | CJT
+The project that we worked on won an award. | CJT | CJT
+The house that they built is magnificent. | CJT | CJT
+The man that I met yesterday is a famous author. | CJT | CJT
+The recipe that she shared is easy to follow. | CJT | CJT
+The song that she sang was beautiful. | CJT | CJT
+The gift that I received was very thoughtful. | CJT | CJT
+The photo that you took is stunning. | CJT | CJT
+The chair that you’re sitting on is very old. | CJT | DT0
+The girl that won the contest is very talented. | CJT | CJT
+The story that he told us was fascinating. | CJT | CJT
+The meeting that we attended was productive. | CJT | CJT
+The jacket that I bought is too big. | CJT | CJT
+The decision that they made was surprising. | CJT | CJT
+The cat that you adopted is very playful. | CJT | CJT
+The letter that she sent arrived yesterday. | CJT | CJT
+The movie that we’re going to watch starts at 7. | CJT | DT0
+The building that they are constructing is enormous. | CJT | CJT
+The question that he asked was difficult to answer. | CJT | CJT
+The artist that painted this is very famous. | CJT | CJT
+The shoes that you’re wearing are stylish. | CJT | CJT
+The park that we visited was peaceful. | CJT | CJT
+The homework that I forgot to do is due today. | CJT | CJT
+The man that called earlier left a message. | CJT | CJT
+The doctor that treated me was very kind. | CJT | CJT
+The computer that I bought last year is still fast. | CJT | CJT
+The book that I’m reading is about history. | CJT | CJT
+The train that we missed was delayed anyway. | CJT | CJT
+The musician that performed was incredibly talented. | CJT | CJT
+The picture that you showed me was hilarious. | CJT | CJT
+The shirt that he’s wearing is from Italy. | CJT | CJT
+The teacher that inspired me most has retired. | CJT | CJT
+The restaurant that we dined at was expensive. | CJT | CJT
+The advice that you gave me was helpful. | CJT | CJT
+The city that I visited last summer was beautiful. | CJT | CJT
+The team that scored the most points won the trophy. | CJT | CJT
+The movie that we’re talking about is a classic. | CJT | DT0
+The car that broke down is still in the shop. | CJT | CJT
+The musician that played the violin was amazing. | CJT | CJT
+The house that burned down has been rebuilt. | CJT | CJT
+The necklace that you gave her is gorgeous. | CJT | CJT
+The man that spoke at the conference was inspiring. | CJT | CJT
+The river that runs through the city is polluted. | CJT | CJT
+The advice that he gave me changed my life. | CJT | CJT
+The field that we crossed was muddy. | CJT | CJT
+The child that you helped is very grateful. | CJT | CJT
+The car that we rented broke down. | CJT | CJT
+The bakery that we passed smelled amazing. | CJT | CJT
+The jacket that she wore was very fashionable. | CJT | CJT
+The book that he lent me is out of print. | CJT | CJT
+The bridge that collapsed was very old. | CJT | CJT
+The company that she works for is international. | CJT | CJT
+The painting that he sold was worth millions. | CJT | CJT
+The city that I grew up in has changed a lot. | CJT | CJT
+The play that we saw last night was fantastic. | CJT | CJT
+The garden that she tends is blooming beautifully. | CJT | CJT
+The box that he brought was full of surprises. | CJT | CJT
+The trip that we planned was canceled. | CJT | CJT
+The food that they served was delicious. | CJT | CJT
+The story that he shared moved everyone. | CJT | CJT
+The phone that I bought last month already broke. | CJT | CJT
+The animal that we rescued is recovering well. | CJT | CJT
+The chair that I fixed is sturdy now. | CJT | CJT
+The road that we took was very scenic. | CJT | CJT
+The teacher that taught us retired last year. | CJT | CJT
+The email that I sent hasn’t been answered yet. | CJT | CJT
+The man that I spoke with was very polite. | CJT | CJT
+The mountain that we climbed was steep. | CJT | CJT
+The gift that she opened was a surprise. | CJT | CJT
+The jacket that I borrowed is too small. | CJT | CJT
+The fish that he caught was enormous. | CJT | CJT
+The hotel that we stayed at was luxurious. | CJT | CJT
+The question that she asked was thought-provoking. | CJT | CJT
+The actor that starred in the film is very famous. | CJT | CJT
+The song that I love is on the radio. | CJT | CJT
+The beach that we visited was crowded. | CJT | CJT
+The book that I wrote is being published. | CJT | CJT
+The story that you told made me laugh. | CJT | CJT
+The decision that they announced surprised everyone. | CJT | CJT

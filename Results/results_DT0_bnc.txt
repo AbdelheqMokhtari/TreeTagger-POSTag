@@ -1,0 +1,102 @@
+Sentence | True Label | Predicted Tag
+------------------------------------------------------------
+I don’t like that shirt you’re wearing. | DT0 | DT0
+Can you hand me that book? | DT0 | DT0
+I remember visiting that house when I was a child. | DT0 | DT0
+That car over there is mine. | DT0 | DT0
+Do you know who lives in that apartment? | DT0 | DT0
+I don’t think that idea will work. | DT0 | CJT
+She borrowed that pen from my desk. | DT0 | DT0
+Did you see that movie everyone’s talking about? | DT0 | CJT
+We need to fix that problem immediately. | DT0 | DT0
+That road leads to the town square. | DT0 | DT0
+I love the taste of that cake. | DT0 | DT0
+That dog has been barking all morning. | DT0 | DT0
+He’s wearing that jacket again. | DT0 | DT0
+Don’t touch that plate; it’s hot. | DT0 | DT0
+That chair is broken and needs repair. | DT0 | DT0
+Who owns that bike parked outside? | DT0 | CJT
+I’ve been meaning to visit that museum. | DT0 | DT0
+Did you hear that noise just now? | DT0 | DT0
+She doesn’t like that dress anymore. | DT0 | DT0
+I’ll never forget that day we spent at the beach. | DT0 | DT0
+That lamp needs a new bulb. | DT0 | DT0
+Do you remember that song we used to sing? | DT0 | DT0
+That picture brings back so many memories. | DT0 | DT0
+He always sits in that seat during meetings. | DT0 | DT0
+That phone has been ringing nonstop. | DT0 | DT0
+They said that hotel has great reviews. | DT0 | CJT
+Please pick up that paper on the floor. | DT0 | DT0
+That window won’t open properly. | DT0 | DT0
+She’s the owner of that beautiful garden. | DT0 | DT0
+Can you grab that bottle of water for me? | DT0 | DT0
+I’ve been looking for that book everywhere. | DT0 | DT0
+That cat keeps coming into our yard. | DT0 | DT0
+Did you attend that conference last year? | DT0 | DT0
+I’ll always remember that advice you gave me. | DT0 | DT0
+That flower smells amazing. | DT0 | DT0
+The teacher wrote that word on the board. | DT0 | DT0
+I think that restaurant serves the best pasta. | DT0 | CJT
+That man is staring at us. | DT0 | DT0
+Don’t forget to close that door when you leave. | DT0 | DT0
+She painted that wall all by herself. | DT0 | DT0
+I don’t understand why that rule exists. | DT0 | DT0
+Can you turn off that light before you leave? | DT0 | DT0
+That mountain is breathtaking. | DT0 | DT0
+Do you see that bird perched on the tree? | DT0 | DT0
+I don’t like that tone you’re using with me. | DT0 | DT0
+We should explore that path next time. | DT0 | DT0
+He’s been avoiding that topic all day. | DT0 | DT0
+That child is very talented. | DT0 | DT0
+Let’s not waste time discussing that issue again. | DT0 | DT0
+She left her umbrella on that table. | DT0 | DT0
+That car’s engine sounds strange. | DT0 | DT0
+I’ll never forget that moment when we first met. | DT0 | DT0
+Can you put that box on the shelf? | DT0 | DT0
+That street is closed for repairs. | DT0 | DT0
+She wore that scarf I gave her for her birthday. | DT0 | DT0
+I’d like to visit that castle someday. | DT0 | DT0
+That store is having a huge sale today. | DT0 | DT0
+Do you like that necklace she’s wearing? | DT0 | CJT
+I heard that train is always late. | DT0 | CJT
+They’re tearing down that old building. | DT0 | DT0
+That coffee smells delicious. | DT0 | DT0
+I’ve been dreaming about that vacation for years. | DT0 | DT0
+Don’t forget to water that plant. | DT0 | DT0
+Who’s driving that truck? | DT0 | DT0
+That bridge was built over a century ago. | DT0 | DT0
+Have you ever been to that park by the river? | DT0 | DT0
+That color looks great on you. | DT0 | DT0
+Can you believe that speech he gave? | DT0 | DT0
+She owns that store on Main Street. | DT0 | CJT
+Did you see that cloud shaped like a dragon? | DT0 | DT0
+I love the pattern on that rug. | DT0 | DT0
+That chair was a gift from my grandmother. | DT0 | DT0
+Do you know who wrote that book? | DT0 | DT0
+We stayed at that hotel during our trip. | DT0 | DT0
+That sandwich looks delicious. | DT0 | DT0
+He parked his car in that spot. | DT0 | DT0
+I’d love to climb that hill one day. | DT0 | CJT
+She bought that dress at a vintage store. | DT0 | DT0
+That clock on the wall needs to be fixed. | DT0 | DT0
+Can you see that star shining so brightly? | DT0 | DT0
+I’ve always wanted to visit that country. | DT0 | DT0
+That dog belongs to our neighbor. | DT0 | DT0
+Don’t touch that wire; it’s dangerous. | DT0 | DT0
+Have you seen that movie about space travel? | DT0 | DT0
+She found that ring while cleaning the attic. | DT0 | DT0
+I don’t understand that rule in the game. | DT0 | DT0
+Do you know who painted that picture? | DT0 | DT0
+We walked through that forest on our way here. | DT0 | DT0
+That bakery makes the best chocolate cake. | DT0 | DT0
+She sat on that bench for hours. | DT0 | DT0
+Can you believe that storm last night? | DT0 | DT0
+I’m not sure if that recipe will work. | DT0 | DT0
+That hat really suits you. | DT0 | DT0
+He used that tool to fix the broken pipe. | DT0 | DT0
+I can’t stop thinking about that conversation we had. | DT0 | DT0
+That house on the corner is for sale. | DT0 | DT0
+I’ve been eyeing that jacket for weeks. | DT0 | DT0
+That guitar sounds amazing. | DT0 | DT0
+Did you notice that painting in the hallway? | DT0 | DT0
+That story she told was incredible. | DT0 | DT0
