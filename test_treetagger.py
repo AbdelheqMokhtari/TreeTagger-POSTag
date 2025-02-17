@@ -2,10 +2,11 @@ import treetaggerwrapper
 
 
 # Initialize the TreeTagger instance
-tagger = treetaggerwrapper.TreeTagger(TAGLANG='en')
+tagger = treetaggerwrapper.TreeTagger(TAGPARFILE="/home/abdelhaq/treetagger/lib/english-bnc.par")
+
 
 # Sample text to tag
-text = "Hello world! This is a test sentence."
+text = "this"
 
 # Get the tagged output
 tags = tagger.tag_text(text)
