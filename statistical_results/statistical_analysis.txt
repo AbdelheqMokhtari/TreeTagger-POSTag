@@ -18,3 +18,76 @@ Category: That as a Relative Pronoun
 Number of sentences: 100
 Average sentence length: 8.21 words
 ----------------------------------------
+
+Further Analysis:
+========================================
+That as a Conjunction for a Noun:
+Lexical Diversity (Unique/Total words): 0.52
+Top 10 words:
+  realization: 13
+  might: 13
+  belief: 11
+  suggestion: 10
+  claim: 9
+  idea: 9
+  everyone: 9
+  hope: 9
+  didn’t: 9
+  assumption: 8
+----------------------------------------
+That as an Adverb:
+Lexical Diversity (Unique/Total words): 0.60
+Top 10 words:
+  wasn’t: 54
+  didn’t: 40
+  think: 5
+  long: 5
+  last: 4
+  expensive: 3
+  movie: 3
+  look: 3
+  quickly: 3
+  would: 2
+----------------------------------------
+That as a Conjunction for a Verb:
+Lexical Diversity (Unique/Total words): 0.75
+Top 10 words:
+  would: 10
+  mentioned: 4
+  meeting: 4
+  hoped: 4
+  explained: 4
+  admitted: 3
+  heard: 3
+  might: 3
+  suspect: 3
+  insisted: 3
+----------------------------------------
+That as a Singular Determiner:
+Lexical Diversity (Unique/Total words): 0.75
+Top 10 words:
+  don’t: 9
+  like: 6
+  i’ve: 5
+  see: 4
+  forget: 4
+  always: 4
+  wearing: 3
+  book: 3
+  remember: 3
+  know: 3
+----------------------------------------
+That as a Relative Pronoun:
+Lexical Diversity (Unique/Total words): 0.74
+Top 10 words:
+  last: 6
+  book: 5
+  man: 5
+  gave: 4
+  house: 3
+  yesterday: 3
+  saw: 3
+  park: 3
+  movie: 3
+  amazing: 3
+----------------------------------------
