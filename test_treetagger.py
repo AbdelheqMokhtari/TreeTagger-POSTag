@@ -6,7 +6,7 @@ tagger = treetaggerwrapper.TreeTagger(TAGPARFILE="/home/abdelhaq/treetagger/lib/
 
 
 # Sample text to tag
-text = "this"
+text = "I can't believe that happened"
 
 # Get the tagged output
 tags = tagger.tag_text(text)

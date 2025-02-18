@@ -12,7 +12,7 @@ os.makedirs(output_folder, exist_ok=True)
 
 # Define file paths
 file_paths = {
-    # "DT" : os.path.join(data_folder, "NNC_test_text.txt"),
+    "IN" : os.path.join(data_folder, "NNC_test_text.txt"),
     "RB" : os.path.join(data_folder, "that_adv.txt"),
     "IN" : os.path.join(data_folder, "that_conjunction.txt"),
     "DT" : os.path.join(data_folder, "that_determiner.txt"),
