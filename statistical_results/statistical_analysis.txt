@@ -1,0 +1,20 @@
+Category: That as a Conjunction for a Noun
+Number of sentences: 200
+Average sentence length: 9.29 words
+----------------------------------------
+Category: That as an Adverb
+Number of sentences: 100
+Average sentence length: 6.67 words
+----------------------------------------
+Category: That as a Conjunction for a Verb
+Number of sentences: 100
+Average sentence length: 7.32 words
+----------------------------------------
+Category: That as a Singular Determiner
+Number of sentences: 100
+Average sentence length: 7.16 words
+----------------------------------------
+Category: That as a Relative Pronoun
+Number of sentences: 100
+Average sentence length: 8.21 words
+----------------------------------------
