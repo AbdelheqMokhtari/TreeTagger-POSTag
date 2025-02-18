@@ -1,0 +1,202 @@
+Sentence | True Label | Predicted Tag
+------------------------------------------------------------
+The assumption that he was late turned out to be false. | IN | IN
+I ignored the rumor that she was quitting her job. | IN | IN
+His denial of the claim that he cheated was unconvincing. | IN | IN
+The idea that we could fail never crossed my mind. | IN | IN
+The belief that hard work guarantees success is widespread. | IN | IN
+I was relieved by the realization that everything was fine. | IN | IN
+They challenged the theory that the Earth was flat. | IN | IN
+Her insistence that she was right frustrated her team. | IN | IN
+The suggestion that we start over annoyed everyone. | IN | IN
+I questioned the validity of the statement that they were innocent. | IN | IN
+The concern that he wouldn’t recover was unfounded. | IN | IN
+I was surprised by the revelation that he had lied. | IN | IN
+The notion that money buys happiness is flawed. | IN | IN
+She rejected the claim that her report was inaccurate. | IN | IN
+I doubted the rumor that they were dating. | IN | IN
+The decision that he should lead the team was unanimous. | IN | IN
+His confession that he was wrong shocked us. | IN | IN
+I appreciated his recognition that teamwork is essential. | IN | IN
+The hope that the weather would clear up kept us going. | IN | IN
+She didn’t believe the story that he had saved a life. | IN | IN
+The fact that you called made me happy. | IN | IN
+They dismissed the suggestion that we leave early. | IN | IN
+Her concern that he might fail was genuine. | IN | IN
+I disagreed with the assumption that they would win. | IN | IN
+The belief that all people are equal is fundamental. | IN | IN
+His awareness that he made a mistake was refreshing. | IN | IN
+The announcement that we won surprised everyone. | IN | IN
+I wasn’t convinced by the argument that more money is needed. | IN | IN
+The evidence that she was lying was clear. | IN | IN
+The realization that you care means a lot to me. | IN | IN
+Her claim that she worked late was a lie. | IN | IN
+The fear that we’d miss the bus made us hurry. | IN | IN
+I admired her honesty that she had doubts. | IN | IN
+His acknowledgement that he needed help was brave. | IN | IN
+The assertion that the project was a failure was unfair. | IN | IN
+The belief that science will solve everything is naive. | IN | IN
+I’m grateful for the understanding that mistakes happen. | IN | IN
+The problem that no one explained the rules confused us. | IN | IN
+His hope that she would forgive him never faded. | IN | IN
+The possibility that they might cancel the event worried us. | IN | IN
+Her explanation that the meeting was rescheduled was clear. | IN | IN
+The evidence that he was guilty was overwhelming. | IN | IN
+I laughed at the idea that she could run a marathon. | IN | IN
+The theory that time is relative changed everything. | IN | IN
+Their belief that they’d succeed gave them strength. | IN | IN
+The chance that we might win excited the team. | IN | IN
+His realization that he’d left his phone behind was amusing. | IN | IN
+The complaint that the room was too small was valid. | IN | IN
+I rejected the argument that it wasn’t my responsibility. | IN | IN
+The suggestion that we postpone the trip was sensible. | IN | IN
+The proof that he forged the signature was undeniable. | IN | IN
+I ignored the thought that I might be wrong. | IN | IN
+Her confession that she broke the vase surprised me. | IN | IN
+The indication that the economy is recovering is promising. | IN | IN
+His regret that he hadn’t apologized was sincere. | IN | IN
+The fear that we’d lose everything was overwhelming. | IN | IN
+I found the conclusion that the experiment failed unconvincing. | IN | IN
+The assumption that they knew the answer was incorrect. | IN | IN
+His defense that he wasn’t there didn’t hold up. | IN | IN
+I appreciated the realization that we’re all human. | IN | IN
+Her refusal that she knew anything was suspicious. | IN | IN
+The acknowledgment that we needed change was long overdue. | IN | IN
+The claim that he invented the device is under dispute. | IN | IN
+The memory that we shared those moments warms my heart. | IN | IN
+The understanding that this will take time is vital. | IN | IN
+His insistence that the meeting was unnecessary annoyed me. | IN | IN
+The recognition that she’s talented was well deserved. | IN | IN
+I laughed at the notion that he could be a spy. | IN | IN
+The worry that they might not arrive in time lingered. | IN | IN
+Her excitement that the concert was near was contagious. | IN | IN
+The statement that he saw the crime was critical. | IN | IN
+His denial that he broke the rule was unconvincing. | IN | IN
+The idea that we could solve this together gave me hope. | IN | IN
+The objection that the plan was too risky delayed its approval. | IN | IN
+Her realization that she forgot the tickets caused a panic. | IN | IN
+The acknowledgment that progress was slow frustrated the team. | IN | IN
+I was moved by the notion that kindness matters. | IN | IN
+The certainty that they will win is inspiring. | IN | IN
+The claim that she invented the recipe is being investigated. | IN | IN
+The assumption that all kids learn the same way is flawed. | IN | IN
+The suggestion that we leave earlier was well received. | IN | IN
+I dismissed the thought that it might rain today. | IN | IN
+The announcement that the train was delayed frustrated commuters. | IN | IN
+His insistence that the test was unfair caused tension. | IN | IN
+The hope that they might find the missing child kept them going. | IN | IN
+The explanation that the machine broke down satisfied the customers. | IN | IN
+She embraced the idea that she could start over. | IN | IN
+His refusal that he needed help worried his friends. | IN | IN
+The memory that we spent summers at the lake brings me joy. | IN | IN
+The fear that they might lose funding was valid. | IN | IN
+I appreciated his acknowledgement that mistakes were made. | IN | IN
+The notion that life is easy is a myth. | IN | IN
+The confirmation that she was accepted to college brought tears. | IN | IN
+His belief that honesty is the best policy guides his decisions. | IN | IN
+The problem that no one prepared a backup plan caused chaos. | IN | IN
+Her regret that she didn’t say goodbye was painful. | IN | IN
+The awareness that change is inevitable is important. | IN | IN
+I questioned his claim that he finished the work on time. | IN | IN
+The report that the storm would be severe made everyone cautious. | IN | IN
+I struggled with the realization that I had failed. | IN | IN
+The assumption that he’d forget his promise was unfair. | IN | IN
+The decision that we expand our operations was unanimous. | IN | IN
+I rejected the idea that the meeting was unnecessary. | IN | IN
+The complaint that the service was slow was justified. | IN | IN
+His hope that he’d win the prize was dashed. | IN | IN
+The conclusion that the plan was flawed angered the team. | IN | IN
+The possibility that she might leave worried her family. | IN | IN
+I admired his insistence that everyone be treated equally. | IN | DT
+The belief that time heals all wounds gave her strength. | IN | IN
+The suggestion that they try again was reasonable. | IN | IN
+The awareness that he had a problem came too late. | IN | IN
+The evidence that he committed the crime was damning. | IN | IN
+The realization that she needed help was life-changing. | IN | IN
+His denial that he had lied only made things worse. | IN | IN
+I laughed at the notion that she could win the lottery. | IN | IN
+The objection that the project was too expensive delayed approval. | IN | IN
+The understanding that people make mistakes is crucial. | IN | IN
+His statement that he was innocent convinced no one. | IN | IN
+I dismissed the rumor that they were moving away. | IN | IN
+The assumption that I wasn’t interested was wrong. | IN | IN
+The confirmation that the package arrived was a relief. | IN | IN
+I appreciated his recognition that teamwork was essential. | IN | IN
+Her claim that she didn’t see anything was suspicious. | IN | IN
+The theory that the dinosaurs were wiped out by an asteroid is widely accepted. | IN | IN
+The announcement that the concert was canceled disappointed fans. | IN | IN
+His refusal that the terms were fair angered the negotiators. | IN | IN
+The hope that they might reconcile faded over time. | IN | IN
+The problem that the software was outdated caused delays. | IN | IN
+The realization that she was lost made her panic. | IN | IN
+The suggestion that they hire more staff was debated. | IN | IN
+The thought that he might not return haunted her. | IN | IN
+His regret that he didn’t call sooner was evident. | IN | IN
+The belief that kindness always wins gave her comfort. | IN | IN
+The awareness that he was being watched unnerved him. | IN | IN
+The objection that the rules were unclear was valid. | IN | IN
+Her assertion that she finished the work was a lie. | IN | IN
+The confirmation that the results were accurate was reassuring. | IN | IN
+I rejected the idea that success comes easily. | IN | IN
+The report that the bridge was unsafe led to its closure. | IN | IN
+His concern that the project was doomed proved true. | IN | IN
+The realization that they had underestimated the cost came too late. | IN | IN
+The decision that we cancel the trip upset everyone. | IN | IN
+The belief that she would recover kept them hopeful. | IN | IN
+The understanding that life isn’t fair is hard to accept. | IN | IN
+Her suggestion that they visit the museum was appreciated. | IN | IN
+His statement that the deal was off shocked his partners. | IN | IN
+The awareness that time was running out spurred them into action. | IN | IN
+The rumor that they were engaged was false. | IN | IN
+The memory that we danced all night still makes me smile. | IN | IN
+His denial that he was involved angered the investigators. | IN | IN
+The objection that the evidence was insufficient was overruled. | IN | IN
+The hope that he’d return safely kept them going. | IN | IN
+The confirmation that the payment was processed was comforting. | IN | IN
+The conclusion that they had failed was hard to accept. | IN | IN
+Her regret that she didn’t study harder was palpable. | IN | IN
+The suggestion that we hire more staff was sensible. | IN | IN
+The problem that the instructions were unclear delayed the process. | IN | IN
+His concern that she might leave was well founded. | IN | IN
+The assumption that they’d win easily proved false. | IN | IN
+The realization that he was out of time struck him suddenly. | IN | IN
+The announcement that the game was postponed disappointed fans. | IN | IN
+The belief that everything happens for a reason gave her peace. | IN | IN
+The rumor that he had won the lottery spread quickly. | IN | IN
+Her insistence that they follow the rules frustrated the group. | IN | IN
+The awareness that she had been wrong filled her with regret. | IN | IN
+The confirmation that the deal was final pleased everyone. | IN | IN
+His claim that he knew nothing about it was suspicious. | IN | IN
+The hope that things would improve kept them motivated. | IN | IN
+The understanding that the deadline was flexible helped. | IN | IN
+The objection that the terms were unfair led to renegotiation. | IN | IN
+The notion that success is guaranteed is misleading. | IN | IN
+Her realization that she forgot her wallet embarrassed her. | IN | IN
+The belief that honesty is the best policy guided her actions. | IN | IN
+The idea that they’d succeed seemed impossible. | IN | IN
+The fear that they wouldn’t make it was overwhelming. | IN | IN
+His statement that he didn’t know her shocked everyone. | IN | IN
+The decision that we’d take a break was wise. | IN | IN
+The assumption that everyone was ready was premature. | IN | IN
+The rumor that the shop was closing upset customers. | IN | IN
+Her suggestion that we split the work was fair. | IN | IN
+The realization that he was wrong hit him hard. | IN | IN
+The memory that we spent summers together still warms my heart. | IN | IN
+The conclusion that she was the best candidate was obvious. | IN | IN
+The thought that he might leave terrified her. | IN | IN
+The objection that the prices were too high delayed approval. | IN | IN
+His regret that he didn’t act sooner was genuine. | IN | IN
+The announcement that the parade was canceled saddened the crowd. | IN | IN
+Her claim that she had no idea about the plan wasn’t believable. | IN | IN
+The awareness that he had been careless filled him with shame. | IN | IN
+The confirmation that the test was negative relieved everyone. | IN | IN
+His belief that they’d win easily was naive. | IN | IN
+The suggestion that they try again was well received. | IN | IN
+Her refusal that the blame was hers angered her colleagues. | IN | IN
+The thought that they’d reunite made her smile. | IN | IN
+His hope that things would get better inspired the team. | IN | IN
+The idea that they could escape was ridiculous. | IN | IN
+The realization that he was lost terrified him. | IN | IN
+The objection that the deadline was unreasonable was valid. | IN | IN
+Her regret that she didn’t say goodbye lingered. | IN | IN
+The confirmation that the shipment had arrived brought relief. | IN | IN

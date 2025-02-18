@@ -1,0 +1,202 @@
+Sentence | True Label | Predicted Tag
+------------------------------------------------------------
+The assumption that he was late turned out to be false. | CJT | CJT
+I ignored the rumor that she was quitting her job. | CJT | CJT
+His denial of the claim that he cheated was unconvincing. | CJT | CJT
+The idea that we could fail never crossed my mind. | CJT | CJT
+The belief that hard work guarantees success is widespread. | CJT | CJT
+I was relieved by the realization that everything was fine. | CJT | CJT
+They challenged the theory that the Earth was flat. | CJT | CJT
+Her insistence that she was right frustrated her team. | CJT | CJT
+The suggestion that we start over annoyed everyone. | CJT | CJT
+I questioned the validity of the statement that they were innocent. | CJT | CJT
+The concern that he wouldn’t recover was unfounded. | CJT | CJT
+I was surprised by the revelation that he had lied. | CJT | CJT
+The notion that money buys happiness is flawed. | CJT | CJT
+She rejected the claim that her report was inaccurate. | CJT | CJT
+I doubted the rumor that they were dating. | CJT | CJT
+The decision that he should lead the team was unanimous. | CJT | CJT
+His confession that he was wrong shocked us. | CJT | CJT
+I appreciated his recognition that teamwork is essential. | CJT | CJT
+The hope that the weather would clear up kept us going. | CJT | CJT
+She didn’t believe the story that he had saved a life. | CJT | CJT
+The fact that you called made me happy. | CJT | CJT
+They dismissed the suggestion that we leave early. | CJT | CJT
+Her concern that he might fail was genuine. | CJT | CJT
+I disagreed with the assumption that they would win. | CJT | CJT
+The belief that all people are equal is fundamental. | CJT | CJT
+His awareness that he made a mistake was refreshing. | CJT | CJT
+The announcement that we won surprised everyone. | CJT | CJT
+I wasn’t convinced by the argument that more money is needed. | CJT | CJT
+The evidence that she was lying was clear. | CJT | CJT
+The realization that you care means a lot to me. | CJT | CJT
+Her claim that she worked late was a lie. | CJT | CJT
+The fear that we’d miss the bus made us hurry. | CJT | CJT
+I admired her honesty that she had doubts. | CJT | CJT
+His acknowledgement that he needed help was brave. | CJT | CJT
+The assertion that the project was a failure was unfair. | CJT | CJT
+The belief that science will solve everything is naive. | CJT | CJT
+I’m grateful for the understanding that mistakes happen. | CJT | CJT
+The problem that no one explained the rules confused us. | CJT | CJT
+His hope that she would forgive him never faded. | CJT | CJT
+The possibility that they might cancel the event worried us. | CJT | CJT
+Her explanation that the meeting was rescheduled was clear. | CJT | CJT
+The evidence that he was guilty was overwhelming. | CJT | CJT
+I laughed at the idea that she could run a marathon. | CJT | CJT
+The theory that time is relative changed everything. | CJT | CJT
+Their belief that they’d succeed gave them strength. | CJT | CJT
+The chance that we might win excited the team. | CJT | CJT
+His realization that he’d left his phone behind was amusing. | CJT | CJT
+The complaint that the room was too small was valid. | CJT | CJT
+I rejected the argument that it wasn’t my responsibility. | CJT | CJT
+The suggestion that we postpone the trip was sensible. | CJT | CJT
+The proof that he forged the signature was undeniable. | CJT | CJT
+I ignored the thought that I might be wrong. | CJT | CJT
+Her confession that she broke the vase surprised me. | CJT | CJT
+The indication that the economy is recovering is promising. | CJT | CJT
+His regret that he hadn’t apologized was sincere. | CJT | CJT
+The fear that we’d lose everything was overwhelming. | CJT | CJT
+I found the conclusion that the experiment failed unconvincing. | CJT | CJT
+The assumption that they knew the answer was incorrect. | CJT | CJT
+His defense that he wasn’t there didn’t hold up. | CJT | CJT
+I appreciated the realization that we’re all human. | CJT | CJT
+Her refusal that she knew anything was suspicious. | CJT | CJT
+The acknowledgment that we needed change was long overdue. | CJT | CJT
+The claim that he invented the device is under dispute. | CJT | CJT
+The memory that we shared those moments warms my heart. | CJT | CJT
+The understanding that this will take time is vital. | CJT | CJT
+His insistence that the meeting was unnecessary annoyed me. | CJT | CJT
+The recognition that she’s talented was well deserved. | CJT | CJT
+I laughed at the notion that he could be a spy. | CJT | CJT
+The worry that they might not arrive in time lingered. | CJT | CJT
+Her excitement that the concert was near was contagious. | CJT | CJT
+The statement that he saw the crime was critical. | CJT | CJT
+His denial that he broke the rule was unconvincing. | CJT | CJT
+The idea that we could solve this together gave me hope. | CJT | CJT
+The objection that the plan was too risky delayed its approval. | CJT | CJT
+Her realization that she forgot the tickets caused a panic. | CJT | CJT
+The acknowledgment that progress was slow frustrated the team. | CJT | CJT
+I was moved by the notion that kindness matters. | CJT | CJT
+The certainty that they will win is inspiring. | CJT | CJT
+The claim that she invented the recipe is being investigated. | CJT | CJT
+The assumption that all kids learn the same way is flawed. | CJT | CJT
+The suggestion that we leave earlier was well received. | CJT | CJT
+I dismissed the thought that it might rain today. | CJT | CJT
+The announcement that the train was delayed frustrated commuters. | CJT | CJT
+His insistence that the test was unfair caused tension. | CJT | CJT
+The hope that they might find the missing child kept them going. | CJT | CJT
+The explanation that the machine broke down satisfied the customers. | CJT | CJT
+She embraced the idea that she could start over. | CJT | CJT
+His refusal that he needed help worried his friends. | CJT | CJT
+The memory that we spent summers at the lake brings me joy. | CJT | CJT
+The fear that they might lose funding was valid. | CJT | CJT
+I appreciated his acknowledgement that mistakes were made. | CJT | CJT
+The notion that life is easy is a myth. | CJT | CJT
+The confirmation that she was accepted to college brought tears. | CJT | CJT
+His belief that honesty is the best policy guides his decisions. | CJT | CJT
+The problem that no one prepared a backup plan caused chaos. | CJT | CJT
+Her regret that she didn’t say goodbye was painful. | CJT | CJT
+The awareness that change is inevitable is important. | CJT | CJT
+I questioned his claim that he finished the work on time. | CJT | CJT
+The report that the storm would be severe made everyone cautious. | CJT | CJT
+I struggled with the realization that I had failed. | CJT | CJT
+The assumption that he’d forget his promise was unfair. | CJT | CJT
+The decision that we expand our operations was unanimous. | CJT | CJT
+I rejected the idea that the meeting was unnecessary. | CJT | CJT
+The complaint that the service was slow was justified. | CJT | CJT
+His hope that he’d win the prize was dashed. | CJT | DT0
+The conclusion that the plan was flawed angered the team. | CJT | CJT
+The possibility that she might leave worried her family. | CJT | CJT
+I admired his insistence that everyone be treated equally. | CJT | CJT
+The belief that time heals all wounds gave her strength. | CJT | CJT
+The suggestion that they try again was reasonable. | CJT | CJT
+The awareness that he had a problem came too late. | CJT | CJT
+The evidence that he committed the crime was damning. | CJT | CJT
+The realization that she needed help was life-changing. | CJT | CJT
+His denial that he had lied only made things worse. | CJT | CJT
+I laughed at the notion that she could win the lottery. | CJT | CJT
+The objection that the project was too expensive delayed approval. | CJT | CJT
+The understanding that people make mistakes is crucial. | CJT | CJT
+His statement that he was innocent convinced no one. | CJT | CJT
+I dismissed the rumor that they were moving away. | CJT | CJT
+The assumption that I wasn’t interested was wrong. | CJT | CJT
+The confirmation that the package arrived was a relief. | CJT | CJT
+I appreciated his recognition that teamwork was essential. | CJT | CJT
+Her claim that she didn’t see anything was suspicious. | CJT | CJT
+The theory that the dinosaurs were wiped out by an asteroid is widely accepted. | CJT | CJT
+The announcement that the concert was canceled disappointed fans. | CJT | CJT
+His refusal that the terms were fair angered the negotiators. | CJT | CJT
+The hope that they might reconcile faded over time. | CJT | CJT
+The problem that the software was outdated caused delays. | CJT | CJT
+The realization that she was lost made her panic. | CJT | CJT
+The suggestion that they hire more staff was debated. | CJT | CJT
+The thought that he might not return haunted her. | CJT | CJT
+His regret that he didn’t call sooner was evident. | CJT | CJT
+The belief that kindness always wins gave her comfort. | CJT | DT0
+The awareness that he was being watched unnerved him. | CJT | CJT
+The objection that the rules were unclear was valid. | CJT | CJT
+Her assertion that she finished the work was a lie. | CJT | CJT
+The confirmation that the results were accurate was reassuring. | CJT | CJT
+I rejected the idea that success comes easily. | CJT | CJT
+The report that the bridge was unsafe led to its closure. | CJT | CJT
+His concern that the project was doomed proved true. | CJT | CJT
+The realization that they had underestimated the cost came too late. | CJT | CJT
+The decision that we cancel the trip upset everyone. | CJT | CJT
+The belief that she would recover kept them hopeful. | CJT | CJT
+The understanding that life isn’t fair is hard to accept. | CJT | CJT
+Her suggestion that they visit the museum was appreciated. | CJT | CJT
+His statement that the deal was off shocked his partners. | CJT | CJT
+The awareness that time was running out spurred them into action. | CJT | CJT
+The rumor that they were engaged was false. | CJT | CJT
+The memory that we danced all night still makes me smile. | CJT | CJT
+His denial that he was involved angered the investigators. | CJT | CJT
+The objection that the evidence was insufficient was overruled. | CJT | CJT
+The hope that he’d return safely kept them going. | CJT | CJT
+The confirmation that the payment was processed was comforting. | CJT | CJT
+The conclusion that they had failed was hard to accept. | CJT | CJT
+Her regret that she didn’t study harder was palpable. | CJT | CJT
+The suggestion that we hire more staff was sensible. | CJT | CJT
+The problem that the instructions were unclear delayed the process. | CJT | CJT
+His concern that she might leave was well founded. | CJT | CJT
+The assumption that they’d win easily proved false. | CJT | CJT
+The realization that he was out of time struck him suddenly. | CJT | CJT
+The announcement that the game was postponed disappointed fans. | CJT | CJT
+The belief that everything happens for a reason gave her peace. | CJT | CJT
+The rumor that he had won the lottery spread quickly. | CJT | CJT
+Her insistence that they follow the rules frustrated the group. | CJT | CJT
+The awareness that she had been wrong filled her with regret. | CJT | CJT
+The confirmation that the deal was final pleased everyone. | CJT | CJT
+His claim that he knew nothing about it was suspicious. | CJT | CJT
+The hope that things would improve kept them motivated. | CJT | CJT
+The understanding that the deadline was flexible helped. | CJT | CJT
+The objection that the terms were unfair led to renegotiation. | CJT | CJT
+The notion that success is guaranteed is misleading. | CJT | CJT
+Her realization that she forgot her wallet embarrassed her. | CJT | CJT
+The belief that honesty is the best policy guided her actions. | CJT | CJT
+The idea that they’d succeed seemed impossible. | CJT | CJT
+The fear that they wouldn’t make it was overwhelming. | CJT | CJT
+His statement that he didn’t know her shocked everyone. | CJT | CJT
+The decision that we’d take a break was wise. | CJT | CJT
+The assumption that everyone was ready was premature. | CJT | CJT
+The rumor that the shop was closing upset customers. | CJT | CJT
+Her suggestion that we split the work was fair. | CJT | CJT
+The realization that he was wrong hit him hard. | CJT | CJT
+The memory that we spent summers together still warms my heart. | CJT | CJT
+The conclusion that she was the best candidate was obvious. | CJT | CJT
+The thought that he might leave terrified her. | CJT | CJT
+The objection that the prices were too high delayed approval. | CJT | CJT
+His regret that he didn’t act sooner was genuine. | CJT | CJT
+The announcement that the parade was canceled saddened the crowd. | CJT | CJT
+Her claim that she had no idea about the plan wasn’t believable. | CJT | CJT
+The awareness that he had been careless filled him with shame. | CJT | CJT
+The confirmation that the test was negative relieved everyone. | CJT | CJT
+His belief that they’d win easily was naive. | CJT | CJT
+The suggestion that they try again was well received. | CJT | CJT
+Her refusal that the blame was hers angered her colleagues. | CJT | CJT
+The thought that they’d reunite made her smile. | CJT | CJT
+His hope that things would get better inspired the team. | CJT | CJT
+The idea that they could escape was ridiculous. | CJT | CJT
+The realization that he was lost terrified him. | CJT | CJT
+The objection that the deadline was unreasonable was valid. | CJT | CJT
+Her regret that she didn’t say goodbye lingered. | CJT | CJT
+The confirmation that the shipment had arrived brought relief. | CJT | CJT
