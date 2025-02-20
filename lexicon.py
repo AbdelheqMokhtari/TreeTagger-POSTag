@@ -13,7 +13,7 @@ lemmatizer = WordNetLemmatizer()
 # Function to get the lemma using NLTK's WordNetLemmatizer
 def get_lemma(token, tag):
     # Map CLaws8 tags to WordNet POS tags
-    if tag.startswith('VB'):
+    if tag.startswith('VV'):
         pos = wordnet.VERB
     elif tag.startswith('JJ'):
         pos = wordnet.ADJ
@@ -69,10 +69,11 @@ def write_lexicon_to_file(lexicon, output_file):
 
 # List of your training files (modify with your actual filenames)
 training_files = [
-    'dataset/formatted_train_files/adverb_formatted.txt',
-    'dataset/formatted_train_files/conjuction_formatted.txt',
-    'dataset/formatted_train_files/determiner_formatted.txt',
-    'dataset/formatted_train_files/pronoun_formatted.txt'
+    'dataset/formatted_train_files_claws8/adverb_formatted.txt',
+    'dataset/formatted_train_files_claws8/noun_conjunction_formatted.txt',
+    'dataset/formatted_train_files_claws8/verb_conjunction_formatted.txt',
+    'dataset/formatted_train_files_claws8/determiner_formatted.txt',
+    'dataset/formatted_train_files_claws8/pronoun_formatted.txt'
 ]
 
 # Output lexicon file name

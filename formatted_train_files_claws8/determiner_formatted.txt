@@ -1,0 +1,825 @@
+We	PRP
+stayed	VVD
+at	IN
+That	WPR
+hotel	NN
+during	IN
+our	PRP
+trip	NN
+
+She	PRP
+noticed	VVD
+that	DD1
+The	AT
+book	NN
+was	VVD
+on	IN
+The	AT
+table	NN
+
+I	PRP
+believe	VBP
+that	DD1
+this	DT
+idea	NN
+could	MD
+work	VV0
+
+He	PRP
+was	VVD
+convinced	VBN
+that	DD1
+The	AT
+decision	NN
+was	VVD
+correct	JJ
+
+They	PRP
+decided	VVD
+that	DD1
+The	AT
+meeting	NN
+should	MD
+be	VV0
+rescheduled	VBN
+
+It	PRP
+was	VVD
+clear	JJ
+that	DD1
+The	AT
+process	NN
+had	VVD
+been	VBN
+improved	VBN
+
+She	PRP
+insisted	VVD
+that	DD1
+The	AT
+project	NN
+needed	VVD
+more	RBR
+attention	NN
+
+We	PRP
+agreed	VVD
+that	DD1
+this	DT
+course	NN
+of	IN
+action	NN
+was	VVD
+best	JJ
+
+He	PRP
+wondered	VVD
+whether	IN
+That	WPR
+approach	NN
+was	VVD
+effective	JJ
+
+They	PRP
+confirmed	VVD
+that	DD1
+The	AT
+room	NN
+was	VVD
+available	JJ
+
+I	PRP
+don’t	RB
+think	VV0
+that	DD1
+this	DT
+plan	NN
+will	MD
+work	VV0
+
+She	PRP
+said	VVD
+that	DD1
+The	AT
+test	NN
+was	VVD
+difficult	JJ
+
+We	PRP
+found	VVD
+that	DD1
+The	AT
+results	NNS
+were	VVD
+accurate	JJ
+
+He	PRP
+agreed	VVD
+that	DD1
+The	AT
+decision	NN
+was	VVD
+final	JJ
+
+They	PRP
+discovered	VVD
+that	DD1
+That	WPR
+idea	NN
+was	VVD
+flawed	JJ
+
+I	PRP
+realized	VVD
+that	DD1
+The	AT
+solution	NN
+was	VVD
+simple	JJ
+
+She	PRP
+mentioned	VVD
+that	DD1
+The	AT
+task	NN
+was	VVD
+urgent	JJ
+
+We	PRP
+noticed	VVD
+that	DD1
+The	AT
+food	NN
+was	VVD
+delicious	JJ
+
+He	PRP
+acknowledged	VVD
+that	DD1
+The	AT
+meeting	NN
+was	VVD
+necessary	JJ
+
+They	PRP
+admitted	VVD
+that	DD1
+The	AT
+work	NN
+was	VVD
+difficult	JJ
+
+I	PRP
+suggested	VVD
+that	DD1
+The	AT
+team	NN
+should	MD
+collaborate	VV0
+more	RB
+
+She	PRP
+acknowledged	VVD
+that	DD1
+The	AT
+problem	NN
+was	VVD
+complicated	JJ
+
+We	PRP
+determined	VVD
+that	DD1
+The	AT
+report	NN
+was	VVD
+accurate	JJ
+
+He	PRP
+observed	VVD
+that	DD1
+The	AT
+sky	NN
+was	VVD
+clear	JJ
+
+They	PRP
+recognized	VVD
+that	DD1
+The	AT
+process	NN
+needed	VVD
+adjustment	NN
+
+I	PRP
+discovered	VVD
+that	DD1
+That	WPR
+information	NN
+was	VVD
+incorrect	JJ
+
+She	PRP
+claimed	VVD
+that	DD1
+The	AT
+method	NN
+was	VVD
+effective	JJ
+
+We	PRP
+concluded	VVD
+that	DD1
+The	AT
+idea	NN
+was	VVD
+worth	IN
+pursuing	VVG
+
+He	PRP
+doubted	VVD
+that	DD1
+The	AT
+project	NN
+was	VVD
+feasible	JJ
+
+They	PRP
+promised	VVD
+that	DD1
+The	AT
+system	NN
+would	MD
+be	VV0
+improved	VBN
+
+I	PRP
+was	VBP
+sure	JJ
+that	DD1
+That	WPR
+was	VVD
+The	AT
+right	JJ
+decision	NN
+
+She	PRP
+explained	VVD
+that	DD1
+The	AT
+task	NN
+required	VVD
+patience	NN
+
+We	PRP
+assumed	VVD
+that	DD1
+The	AT
+project	NN
+was	VVD
+on	IN
+track	NN
+
+He	PRP
+confirmed	VVD
+that	DD1
+The	AT
+meeting	NN
+was	VVD
+scheduled	VBN
+
+They	PRP
+acknowledged	VVD
+that	DD1
+The	AT
+error	NN
+was	VVD
+their	PRP
+fault	NN
+
+I	PRP
+remembered	VVD
+that	DD1
+The	AT
+deadline	NN
+was	VVD
+approaching	VVG
+
+She	PRP
+believed	VVD
+that	DD1
+The	AT
+strategy	NN
+was	VVD
+effective	JJ
+
+We	PRP
+discussed	VVD
+that	DD1
+The	AT
+new	JJ
+software	NN
+was	VVD
+ready	JJ
+
+He	PRP
+hoped	VVD
+that	DD1
+The	AT
+problem	NN
+could	MD
+be	VV0
+solved	VBN
+
+They	PRP
+agreed	VVD
+that	DD1
+The	AT
+rules	NNS
+were	VVD
+clear	JJ
+
+I	PRP
+noticed	VVD
+that	DD1
+That	WPR
+solution	NN
+wasn’t	VBZ
+working	VVG
+
+She	PRP
+said	VVD
+that	DD1
+That	WPR
+approach	NN
+was	VVD
+better	JJ
+
+We	PRP
+realized	VVD
+that	DD1
+That	WPR
+option	NN
+was	VVD
+The	AT
+best	JJ
+
+He	PRP
+reported	VVD
+that	DD1
+That	WPR
+method	NN
+was	VVD
+effective	JJ
+
+They	PRP
+suggested	VVD
+that	DD1
+That	WPR
+idea	NN
+should	MD
+be	VV0
+tested	VBN
+
+I	PRP
+noticed	VVD
+that	DD1
+That	WPR
+part	NN
+of	IN
+The	AT
+project	NN
+was	VVD
+incomplete	JJ
+
+She	PRP
+realized	VVD
+that	DD1
+That	WPR
+strategy	NN
+was	VVD
+flawed	JJ
+
+We	PRP
+agreed	VVD
+that	DD1
+That	WPR
+change	NN
+was	VVD
+necessary	JJ
+
+He	PRP
+mentioned	VVD
+that	DD1
+That	WPR
+service	NN
+was	VVD
+available	JJ
+
+They	PRP
+suggested	VVD
+that	DD1
+That	WPR
+rule	NN
+be	VV0
+revised	VBN
+
+I	PRP
+hoped	VVD
+that	DD1
+That	WPR
+issue	NN
+would	MD
+be	VV0
+resolved	VBN
+
+She	PRP
+suggested	VVD
+that	DD1
+That	WPR
+plan	NN
+was	VVD
+The	AT
+best	JJ
+
+We	PRP
+assumed	VVD
+that	DD1
+That	WPR
+method	NN
+would	MD
+work	VV0
+
+He	PRP
+observed	VVD
+that	DD1
+That	WPR
+decision	NN
+was	VVD
+wise	JJ
+
+They	PRP
+concluded	VVD
+that	DD1
+That	WPR
+experiment	NN
+was	VVD
+successful	JJ
+
+I	PRP
+proposed	VVD
+that	DD1
+That	WPR
+rule	NN
+should	MD
+be	VV0
+applied	VBN
+
+She	PRP
+admitted	VVD
+that	DD1
+That	WPR
+task	NN
+was	VVD
+time-consuming	JJ
+
+We	PRP
+recognized	VVD
+that	DD1
+That	WPR
+method	NN
+needed	VVD
+improvement	NN
+
+He	PRP
+suggested	VVD
+that	DD1
+That	WPR
+choice	NN
+was	VVD
+wrong	JJ
+
+They	PRP
+confirmed	VVD
+that	DD1
+That	WPR
+point	NN
+was	VVD
+important	JJ
+
+I	PRP
+noticed	VVD
+that	DD1
+That	WPR
+location	NN
+was	VVD
+perfect	JJ
+
+She	PRP
+pointed	VVD
+out	RP
+that	DD1
+That	WPR
+idea	NN
+needed	VVD
+revision	NN
+
+We	PRP
+concluded	VVD
+that	DD1
+That	WPR
+model	NN
+worked	VVD
+well	RB
+
+He	PRP
+realized	VVD
+that	DD1
+That	WPR
+conclusion	NN
+was	VVD
+wrong	JJ
+
+They	PRP
+admitted	VVD
+that	DD1
+That	WPR
+solution	NN
+wasn’t	VBZ
+ideal	JJ
+
+I	PRP
+realized	VVD
+that	DD1
+That	WPR
+option	NN
+wasn’t	VBZ
+feasible	JJ
+
+She	PRP
+assured	VVD
+me	PRP
+that	DD1
+That	WPR
+method	NN
+was	VVD
+secure	JJ
+
+We	PRP
+noticed	VVD
+that	DD1
+That	WPR
+part	NN
+was	VVD
+missing	VVG
+
+He	PRP
+acknowledged	VVD
+that	DD1
+That	WPR
+feature	NN
+was	VVD
+unique	JJ
+
+They	PRP
+explained	VVD
+that	DD1
+That	WPR
+change	NN
+was	VVD
+critical	JJ
+
+I	PRP
+wondered	VVD
+if	IN
+That	WPR
+rule	NN
+applied	VVD
+here	RB
+
+She	PRP
+suggested	VVD
+that	DD1
+That	WPR
+approach	NN
+was	VVD
+more	RBR
+effective	JJ
+
+We	PRP
+recognized	VVD
+that	DD1
+That	WPR
+issue	NN
+needed	VVD
+attention	NN
+
+He	PRP
+believed	VVD
+that	DD1
+That	WPR
+choice	NN
+was	VVD
+best	JJ
+
+They	PRP
+insisted	VVD
+that	DD1
+That	WPR
+rule	NN
+be	VV0
+followed	VBN
+
+I	PRP
+realized	VVD
+that	DD1
+That	WPR
+information	NN
+was	VVD
+critical	JJ
+
+She	PRP
+questioned	VVD
+whether	IN
+That	WPR
+approach	NN
+was	VVD
+valid	JJ
+
+We	PRP
+acknowledged	VVD
+that	DD1
+That	WPR
+deadline	NN
+was	VVD
+tight	JJ
+
+He	PRP
+explained	VVD
+that	DD1
+That	WPR
+decision	NN
+was	VVD
+final	JJ
+
+They	PRP
+proposed	VVD
+that	DD1
+That	WPR
+model	NN
+be	VV0
+tested	VBN
+
+I	PRP
+suggested	VVD
+that	DD1
+That	WPR
+path	NN
+was	VVD
+dangerous	JJ
+
+She	PRP
+agreed	VVD
+that	DD1
+That	WPR
+method	NN
+was	VVD
+best	JJ
+
+We	PRP
+doubted	VVD
+that	DD1
+That	WPR
+strategy	NN
+would	MD
+work	VV0
+
+He	PRP
+was	VVD
+convinced	VBN
+that	DD1
+That	WPR
+route	NN
+was	VVD
+safer	JJ
+
+They	PRP
+stated	VVD
+that	DD1
+That	WPR
+project	NN
+was	VVD
+urgent	JJ
+
+I	PRP
+confirmed	VVD
+that	DD1
+That	WPR
+document	NN
+was	VVD
+signed	VBN
+
+She	PRP
+observed	VVD
+that	DD1
+That	WPR
+choice	NN
+was	VVD
+risky	JJ
+
+We	PRP
+concluded	VVD
+that	DD1
+That	WPR
+report	NN
+was	VVD
+unnecessary	JJ
+
+He	PRP
+claimed	VVD
+that	DD1
+That	WPR
+rule	NN
+was	VVD
+outdated	JJ
+
+They	PRP
+realized	VVD
+that	DD1
+That	WPR
+requirement	NN
+was	VVD
+essential	JJ
+
+I	PRP
+believed	VVD
+that	DD1
+That	WPR
+explanation	NN
+was	VVD
+adequate	JJ
+
+She	PRP
+confirmed	VVD
+that	DD1
+That	WPR
+procedure	NN
+was	VVD
+correct	JJ
+
+We	PRP
+thought	VVD
+that	DD1
+That	WPR
+project	NN
+would	MD
+succeed	VV0
+
+They	PRP
+wondered	VVD
+whether	IN
+That	WPR
+decision	NN
+was	VVD
+right	JJ
+
+I	PRP
+doubted	VVD
+that	DD1
+That	WPR
+course	NN
+was	VVD
+The	AT
+best	JJ
+
+She	PRP
+insisted	VVD
+that	DD1
+That	WPR
+change	NN
+be	VV0
+made	VBN
+
+We	PRP
+hoped	VVD
+that	DD1
+That	WPR
+method	NN
+would	MD
+succeed	VV0
+
+He	PRP
+confirmed	VVD
+that	DD1
+That	WPR
+explanation	NN
+was	VVD
+clear	JJ
+
+They	PRP
+agreed	VVD
+that	DD1
+That	WPR
+action	NN
+was	VVD
+necessary	JJ
+

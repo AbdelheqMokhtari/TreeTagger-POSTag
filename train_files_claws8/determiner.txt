@@ -28,7 +28,7 @@ She PRP claimed VVD that DD1 The AT method NN was VVD effective JJ
 We PRP concluded VVD that DD1 The AT idea NN was VVD worth IN pursuing VVG 
 He PRP doubted VVD that DD1 The AT project NN was VVD feasible JJ 
 They PRP promised VVD that DD1 The AT system NN would MD be VV0 improved VBN 
-I PRP was VBP sure JJ that DD1 That WPR was VVD The AT right JJ decision NN 
+I PRP was VVD sure JJ that DD1 That WPR was VVD The AT right JJ decision NN 
 She PRP explained VVD that DD1 The AT task NN required VVD patience NN 
 We PRP assumed VVD that DD1 The AT project NN was VVD on IN track NN 
 He PRP confirmed VVD that DD1 The AT meeting NN was VVD scheduled VBN 
@@ -38,7 +38,7 @@ She PRP believed VVD that DD1 The AT strategy NN was VVD effective JJ
 We PRP discussed VVD that DD1 The AT new JJ software NN was VVD ready JJ 
 He PRP hoped VVD that DD1 The AT problem NN could MD be VV0 solved VBN 
 They PRP agreed VVD that DD1 The AT rules NNS were VVD clear JJ 
-I PRP noticed VVD that DD1 That WPR solution NN wasn’t VBZ working VVG 
+I PRP noticed VVD that DD1 That WPR solution NN wasn’t VVD working VVG 
 She PRP said VVD that DD1 That WPR approach NN was VVD better JJ 
 We PRP realized VVD that DD1 That WPR option NN was VVD The AT best JJ 
 He PRP reported VVD that DD1 That WPR method NN was VVD effective JJ 
@@ -62,8 +62,8 @@ I PRP noticed VVD that DD1 That WPR location NN was VVD perfect JJ
 She PRP pointed VVD out RP that DD1 That WPR idea NN needed VVD revision NN 
 We PRP concluded VVD that DD1 That WPR model NN worked VVD well RB 
 He PRP realized VVD that DD1 That WPR conclusion NN was VVD wrong JJ 
-They PRP admitted VVD that DD1 That WPR solution NN wasn’t VBZ ideal JJ 
-I PRP realized VVD that DD1 That WPR option NN wasn’t VBZ feasible JJ 
+They PRP admitted VVD that DD1 That WPR solution NN wasn’t VVD ideal JJ 
+I PRP realized VVD that DD1 That WPR option NN wasn’t VVD feasible JJ 
 She PRP assured VVD me PRP that DD1 That WPR method NN was VVD secure JJ 
 We PRP noticed VVD that DD1 That WPR part NN was VVD missing VVG 
 He PRP acknowledged VVD that DD1 That WPR feature NN was VVD unique JJ 
