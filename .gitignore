@@ -2,5 +2,6 @@ test_treetagger.py
 venv/
 tagging_results.txt
 Tagsets/
+confusion-matrix.py
 
 

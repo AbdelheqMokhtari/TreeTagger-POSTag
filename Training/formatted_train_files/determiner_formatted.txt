@@ -1,0 +1,825 @@
+We	PRP
+stayed	VBD
+at	IN
+that	DT
+hotel	NN
+during	IN
+our	PRP
+trip	NN
+
+She	PRP
+noticed	VBD
+that	IN
+the	DT
+book	NN
+was	VBD
+on	IN
+the	DT
+table	NN
+
+I	PRP
+believe	VBP
+that	IN
+this	DT
+idea	NN
+could	MD
+work	VB
+
+He	PRP
+was	VBD
+convinced	VBN
+that	IN
+the	DT
+decision	NN
+was	VBD
+correct	JJ
+
+They	PRP
+decided	VBD
+that	IN
+the	DT
+meeting	NN
+should	MD
+be	VB
+rescheduled	VBN
+
+It	PRP
+was	VBD
+clear	JJ
+that	IN
+the	DT
+process	NN
+had	VBD
+been	VBN
+improved	VBN
+
+She	PRP
+insisted	VBD
+that	IN
+the	DT
+project	NN
+needed	VBD
+more	RBR
+attention	NN
+
+We	PRP
+agreed	VBD
+that	IN
+this	DT
+course	NN
+of	IN
+action	NN
+was	VBD
+best	JJ
+
+He	PRP
+wondered	VBD
+whether	IN
+that	DT
+approach	NN
+was	VBD
+effective	JJ
+
+They	PRP
+confirmed	VBD
+that	IN
+the	DT
+room	NN
+was	VBD
+available	JJ
+
+I	PRP
+don’t	RB
+think	VB
+that	IN
+this	DT
+plan	NN
+will	MD
+work	VB
+
+She	PRP
+said	VBD
+that	IN
+the	DT
+test	NN
+was	VBD
+difficult	JJ
+
+We	PRP
+found	VBD
+that	IN
+the	DT
+results	NNS
+were	VBD
+accurate	JJ
+
+He	PRP
+agreed	VBD
+that	IN
+the	DT
+decision	NN
+was	VBD
+final	JJ
+
+They	PRP
+discovered	VBD
+that	IN
+that	DT
+idea	NN
+was	VBD
+flawed	JJ
+
+I	PRP
+realized	VBD
+that	IN
+the	DT
+solution	NN
+was	VBD
+simple	JJ
+
+She	PRP
+mentioned	VBD
+that	IN
+the	DT
+task	NN
+was	VBD
+urgent	JJ
+
+We	PRP
+noticed	VBD
+that	IN
+the	DT
+food	NN
+was	VBD
+delicious	JJ
+
+He	PRP
+acknowledged	VBD
+that	IN
+the	DT
+meeting	NN
+was	VBD
+necessary	JJ
+
+They	PRP
+admitted	VBD
+that	IN
+the	DT
+work	NN
+was	VBD
+difficult	JJ
+
+I	PRP
+suggested	VBD
+that	IN
+the	DT
+team	NN
+should	MD
+collaborate	VB
+more	RB
+
+She	PRP
+acknowledged	VBD
+that	IN
+the	DT
+problem	NN
+was	VBD
+complicated	JJ
+
+We	PRP
+determined	VBD
+that	IN
+the	DT
+report	NN
+was	VBD
+accurate	JJ
+
+He	PRP
+observed	VBD
+that	IN
+the	DT
+sky	NN
+was	VBD
+clear	JJ
+
+They	PRP
+recognized	VBD
+that	IN
+the	DT
+process	NN
+needed	VBD
+adjustment	NN
+
+I	PRP
+discovered	VBD
+that	IN
+that	DT
+information	NN
+was	VBD
+incorrect	JJ
+
+She	PRP
+claimed	VBD
+that	IN
+the	DT
+method	NN
+was	VBD
+effective	JJ
+
+We	PRP
+concluded	VBD
+that	IN
+the	DT
+idea	NN
+was	VBD
+worth	IN
+pursuing	VBG
+
+He	PRP
+doubted	VBD
+that	IN
+the	DT
+project	NN
+was	VBD
+feasible	JJ
+
+They	PRP
+promised	VBD
+that	IN
+the	DT
+system	NN
+would	MD
+be	VB
+improved	VBN
+
+I	PRP
+was	VBP
+sure	JJ
+that	IN
+that	DT
+was	VBD
+the	DT
+right	JJ
+decision	NN
+
+She	PRP
+explained	VBD
+that	IN
+the	DT
+task	NN
+required	VBD
+patience	NN
+
+We	PRP
+assumed	VBD
+that	IN
+the	DT
+project	NN
+was	VBD
+on	IN
+track	NN
+
+He	PRP
+confirmed	VBD
+that	IN
+the	DT
+meeting	NN
+was	VBD
+scheduled	VBN
+
+They	PRP
+acknowledged	VBD
+that	IN
+the	DT
+error	NN
+was	VBD
+their	PRP
+fault	NN
+
+I	PRP
+remembered	VBD
+that	IN
+the	DT
+deadline	NN
+was	VBD
+approaching	VBG
+
+She	PRP
+believed	VBD
+that	IN
+the	DT
+strategy	NN
+was	VBD
+effective	JJ
+
+We	PRP
+discussed	VBD
+that	IN
+the	DT
+new	JJ
+software	NN
+was	VBD
+ready	JJ
+
+He	PRP
+hoped	VBD
+that	IN
+the	DT
+problem	NN
+could	MD
+be	VB
+solved	VBN
+
+They	PRP
+agreed	VBD
+that	IN
+the	DT
+rules	NNS
+were	VBD
+clear	JJ
+
+I	PRP
+noticed	VBD
+that	IN
+that	DT
+solution	NN
+wasn’t	VBZ
+working	VBG
+
+She	PRP
+said	VBD
+that	IN
+that	DT
+approach	NN
+was	VBD
+better	JJ
+
+We	PRP
+realized	VBD
+that	IN
+that	DT
+option	NN
+was	VBD
+the	DT
+best	JJ
+
+He	PRP
+reported	VBD
+that	IN
+that	DT
+method	NN
+was	VBD
+effective	JJ
+
+They	PRP
+suggested	VBD
+that	IN
+that	DT
+idea	NN
+should	MD
+be	VB
+tested	VBN
+
+I	PRP
+noticed	VBD
+that	IN
+that	DT
+part	NN
+of	IN
+the	DT
+project	NN
+was	VBD
+incomplete	JJ
+
+She	PRP
+realized	VBD
+that	IN
+that	DT
+strategy	NN
+was	VBD
+flawed	JJ
+
+We	PRP
+agreed	VBD
+that	IN
+that	DT
+change	NN
+was	VBD
+necessary	JJ
+
+He	PRP
+mentioned	VBD
+that	IN
+that	DT
+service	NN
+was	VBD
+available	JJ
+
+They	PRP
+suggested	VBD
+that	IN
+that	DT
+rule	NN
+be	VB
+revised	VBN
+
+I	PRP
+hoped	VBD
+that	IN
+that	DT
+issue	NN
+would	MD
+be	VB
+resolved	VBN
+
+She	PRP
+suggested	VBD
+that	IN
+that	DT
+plan	NN
+was	VBD
+the	DT
+best	JJ
+
+We	PRP
+assumed	VBD
+that	IN
+that	DT
+method	NN
+would	MD
+work	VB
+
+He	PRP
+observed	VBD
+that	IN
+that	DT
+decision	NN
+was	VBD
+wise	JJ
+
+They	PRP
+concluded	VBD
+that	IN
+that	DT
+experiment	NN
+was	VBD
+successful	JJ
+
+I	PRP
+proposed	VBD
+that	IN
+that	DT
+rule	NN
+should	MD
+be	VB
+applied	VBN
+
+She	PRP
+admitted	VBD
+that	IN
+that	DT
+task	NN
+was	VBD
+time-consuming	JJ
+
+We	PRP
+recognized	VBD
+that	IN
+that	DT
+method	NN
+needed	VBD
+improvement	NN
+
+He	PRP
+suggested	VBD
+that	IN
+that	DT
+choice	NN
+was	VBD
+wrong	JJ
+
+They	PRP
+confirmed	VBD
+that	IN
+that	DT
+point	NN
+was	VBD
+important	JJ
+
+I	PRP
+noticed	VBD
+that	IN
+that	DT
+location	NN
+was	VBD
+perfect	JJ
+
+She	PRP
+pointed	VBD
+out	RP
+that	IN
+that	DT
+idea	NN
+needed	VBD
+revision	NN
+
+We	PRP
+concluded	VBD
+that	IN
+that	DT
+model	NN
+worked	VBD
+well	RB
+
+He	PRP
+realized	VBD
+that	IN
+that	DT
+conclusion	NN
+was	VBD
+wrong	JJ
+
+They	PRP
+admitted	VBD
+that	IN
+that	DT
+solution	NN
+wasn’t	VBZ
+ideal	JJ
+
+I	PRP
+realized	VBD
+that	IN
+that	DT
+option	NN
+wasn’t	VBZ
+feasible	JJ
+
+She	PRP
+assured	VBD
+me	PRP
+that	IN
+that	DT
+method	NN
+was	VBD
+secure	JJ
+
+We	PRP
+noticed	VBD
+that	IN
+that	DT
+part	NN
+was	VBD
+missing	VBG
+
+He	PRP
+acknowledged	VBD
+that	IN
+that	DT
+feature	NN
+was	VBD
+unique	JJ
+
+They	PRP
+explained	VBD
+that	IN
+that	DT
+change	NN
+was	VBD
+critical	JJ
+
+I	PRP
+wondered	VBD
+if	IN
+that	DT
+rule	NN
+applied	VBD
+here	RB
+
+She	PRP
+suggested	VBD
+that	IN
+that	DT
+approach	NN
+was	VBD
+more	RBR
+effective	JJ
+
+We	PRP
+recognized	VBD
+that	IN
+that	DT
+issue	NN
+needed	VBD
+attention	NN
+
+He	PRP
+believed	VBD
+that	IN
+that	DT
+choice	NN
+was	VBD
+best	JJ
+
+They	PRP
+insisted	VBD
+that	IN
+that	DT
+rule	NN
+be	VB
+followed	VBN
+
+I	PRP
+realized	VBD
+that	IN
+that	DT
+information	NN
+was	VBD
+critical	JJ
+
+She	PRP
+questioned	VBD
+whether	IN
+that	DT
+approach	NN
+was	VBD
+valid	JJ
+
+We	PRP
+acknowledged	VBD
+that	IN
+that	DT
+deadline	NN
+was	VBD
+tight	JJ
+
+He	PRP
+explained	VBD
+that	IN
+that	DT
+decision	NN
+was	VBD
+final	JJ
+
+They	PRP
+proposed	VBD
+that	IN
+that	DT
+model	NN
+be	VB
+tested	VBN
+
+I	PRP
+suggested	VBD
+that	IN
+that	DT
+path	NN
+was	VBD
+dangerous	JJ
+
+She	PRP
+agreed	VBD
+that	IN
+that	DT
+method	NN
+was	VBD
+best	JJ
+
+We	PRP
+doubted	VBD
+that	IN
+that	DT
+strategy	NN
+would	MD
+work	VB
+
+He	PRP
+was	VBD
+convinced	VBN
+that	IN
+that	DT
+route	NN
+was	VBD
+safer	JJ
+
+They	PRP
+stated	VBD
+that	IN
+that	DT
+project	NN
+was	VBD
+urgent	JJ
+
+I	PRP
+confirmed	VBD
+that	IN
+that	DT
+document	NN
+was	VBD
+signed	VBN
+
+She	PRP
+observed	VBD
+that	IN
+that	DT
+choice	NN
+was	VBD
+risky	JJ
+
+We	PRP
+concluded	VBD
+that	IN
+that	DT
+report	NN
+was	VBD
+unnecessary	JJ
+
+He	PRP
+claimed	VBD
+that	IN
+that	DT
+rule	NN
+was	VBD
+outdated	JJ
+
+They	PRP
+realized	VBD
+that	IN
+that	DT
+requirement	NN
+was	VBD
+essential	JJ
+
+I	PRP
+believed	VBD
+that	IN
+that	DT
+explanation	NN
+was	VBD
+adequate	JJ
+
+She	PRP
+confirmed	VBD
+that	IN
+that	DT
+procedure	NN
+was	VBD
+correct	JJ
+
+We	PRP
+thought	VBD
+that	IN
+that	DT
+project	NN
+would	MD
+succeed	VB
+
+They	PRP
+wondered	VBD
+whether	IN
+that	DT
+decision	NN
+was	VBD
+right	JJ
+
+I	PRP
+doubted	VBD
+that	IN
+that	DT
+course	NN
+was	VBD
+the	DT
+best	JJ
+
+She	PRP
+insisted	VBD
+that	IN
+that	DT
+change	NN
+be	VB
+made	VBN
+
+We	PRP
+hoped	VBD
+that	IN
+that	DT
+method	NN
+would	MD
+succeed	VB
+
+He	PRP
+confirmed	VBD
+that	IN
+that	DT
+explanation	NN
+was	VBD
+clear	JJ
+
+They	PRP
+agreed	VBD
+that	IN
+that	DT
+action	NN
+was	VBD
+necessary	JJ
+

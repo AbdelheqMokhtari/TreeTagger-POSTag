@@ -1,0 +1,642 @@
+The	DT
+movie	NN
+wasn’t	VBD
+that	RB
+scary	JJ
+
+I	PRP
+didn’t	VBD
+think	VB
+it	PRP
+was	VBD
+that	RB
+expensive	JJ
+
+She	PRP
+didn’t	VBD
+run	VB
+that	RB
+fast	JJ
+
+The	DT
+soup	NN
+wasn’t	VBD
+that	RB
+hot	JJ
+
+I	PRP
+didn’t	VBD
+feel	VB
+that	RB
+tired	JJ
+after	IN
+the	DT
+workout	NN
+
+He	PRP
+didn’t	VBD
+seem	VB
+that	RB
+interested	JJ
+
+The	DT
+problem	NN
+wasn’t	VBD
+that	RB
+complicated	JJ
+
+It	PRP
+wasn’t	VBD
+that	RB
+important	JJ
+to	IN
+me	PRP
+
+I	PRP
+don’t	VBP
+think	VB
+the	DT
+book	NN
+is	VBZ
+that	RB
+long	JJ
+
+The	DT
+music	NN
+wasn’t	VBD
+that	RB
+loud	JJ
+
+Her	PRP
+speech	NN
+wasn’t	VBD
+that	RB
+inspiring	JJ
+
+The	DT
+test	NN
+wasn’t	VBD
+that	RB
+difficult	JJ
+
+I	PRP
+wasn’t	VBD
+that	RB
+hungry	JJ
+at	IN
+lunch	NN
+
+The	DT
+house	NN
+wasn’t	VBD
+that	RB
+big	JJ
+
+I	PRP
+wasn’t	VBD
+that	RB
+excited	JJ
+about	IN
+the	DT
+trip	NN
+
+She	PRP
+wasn’t	VBD
+that	RB
+happy	JJ
+with	IN
+the	DT
+results	NNS
+
+The	DT
+weather	NN
+wasn’t	VBD
+that	RB
+cold	JJ
+today	NN
+
+I	PRP
+wasn’t	VBD
+that	RB
+interested	JJ
+in	IN
+the	DT
+topic	NN
+
+The	DT
+dress	NN
+wasn’t	VBD
+that	RB
+pretty	JJ
+
+His	PRP
+idea	NN
+wasn’t	VBD
+that	RB
+original	JJ
+
+The	DT
+road	NN
+wasn’t	VBD
+that	RB
+long	JJ
+
+She	PRP
+wasn’t	VBD
+that	RB
+upset	JJ
+about	IN
+the	DT
+news	NN
+
+The	DT
+water	NN
+wasn’t	VBD
+that	RB
+deep	JJ
+
+The	DT
+cake	NN
+wasn’t	VBD
+that	RB
+sweet	JJ
+
+His	PRP
+explanation	NN
+wasn’t	VBD
+that	RB
+clear	JJ
+
+The	DT
+painting	NN
+wasn’t	VBD
+that	RB
+beautiful	JJ
+
+The	DT
+hike	NN
+wasn’t	VBD
+that	RB
+tough	JJ
+
+Her	PRP
+voice	NN
+wasn’t	VBD
+that	RB
+loud	JJ
+
+The	DT
+answer	NN
+wasn’t	VBD
+that	RB
+obvious	JJ
+
+The	DT
+food	NN
+wasn’t	VBD
+that	RB
+spicy	JJ
+
+The	DT
+sunset	NN
+wasn’t	VBD
+that	RB
+colorful	JJ
+
+The	DT
+car	NN
+wasn’t	VBD
+that	RB
+fast	JJ
+
+He	PRP
+wasn’t	VBD
+that	RB
+tall	JJ
+
+The	DT
+story	NN
+wasn’t	VBD
+that	RB
+funny	JJ
+
+The	DT
+book	NN
+wasn’t	VBD
+that	RB
+interesting	JJ
+
+The	DT
+beach	NN
+wasn’t	VBD
+that	RB
+crowded	JJ
+
+The	DT
+coffee	NN
+wasn’t	VBD
+that	RB
+strong	JJ
+
+Her	PRP
+handwriting	NN
+wasn’t	VBD
+that	RB
+neat	JJ
+
+The	DT
+movie	NN
+wasn’t	VBD
+that	RB
+long	JJ
+
+The	DT
+joke	NN
+wasn’t	VBD
+that	RB
+funny	JJ
+
+The	DT
+rain	NN
+wasn’t	VBD
+that	RB
+heavy	JJ
+
+The	DT
+flight	NN
+wasn’t	VBD
+that	RB
+expensive	JJ
+
+The	DT
+service	NN
+wasn’t	VBD
+that	RB
+slow	JJ
+
+The	DT
+park	NN
+wasn’t	VBD
+that	RB
+busy	JJ
+
+The	DT
+street	NN
+wasn’t	VBD
+that	RB
+noisy	JJ
+
+The	DT
+museum	NN
+wasn’t	VBD
+that	RB
+boring	JJ
+
+The	DT
+mountain	NN
+wasn’t	VBD
+that	RB
+steep	JJ
+
+The	DT
+bridge	NN
+wasn’t	VBD
+that	RB
+high	JJ
+
+The	DT
+hotel	NN
+wasn’t	VBD
+that	RB
+luxurious	JJ
+
+The	DT
+instructions	NNS
+weren’t	VBD
+that	RB
+confusing	JJ
+
+The	DT
+interview	NN
+wasn’t	VBD
+that	RB
+stressful	JJ
+
+The	DT
+meeting	NN
+wasn’t	VBD
+that	RB
+long	JJ
+
+The	DT
+traffic	NN
+wasn’t	VBD
+that	RB
+bad	JJ
+
+The	DT
+soup	NN
+wasn’t	VBD
+that	RB
+salty	JJ
+
+The	DT
+water	NN
+wasn’t	VBD
+that	RB
+warm	JJ
+
+The	DT
+song	NN
+wasn’t	VBD
+that	RB
+catchy	JJ
+
+The	DT
+road	NN
+wasn’t	VBD
+that	RB
+rough	JJ
+
+The	DT
+neighborhood	NN
+wasn’t	VBD
+that	RB
+dangerous	JJ
+
+The	DT
+sky	NN
+wasn’t	VBD
+that	RB
+cloudy	JJ
+
+The	DT
+phone	NN
+wasn’t	VBD
+that	RB
+expensive	JJ
+
+The	DT
+chair	NN
+wasn’t	VBD
+that	RB
+comfortable	JJ
+
+The	DT
+project	NN
+wasn’t	VBD
+that	RB
+challenging	JJ
+
+The	DT
+exam	NN
+wasn’t	VBD
+that	RB
+easy	JJ
+
+The	DT
+festival	NN
+wasn’t	VBD
+that	RB
+lively	JJ
+
+The	DT
+beach	NN
+wasn’t	VBD
+that	RB
+clean	JJ
+
+The	DT
+tower	NN
+wasn’t	VBD
+that	RB
+tall	JJ
+
+The	DT
+dog	NN
+wasn’t	VBD
+that	RB
+friendly	JJ
+
+The	DT
+play	NN
+wasn’t	VBD
+that	RB
+dramatic	JJ
+
+The	DT
+cat	NN
+wasn’t	VBD
+that	RB
+energetic	JJ
+
+The	DT
+novel	NN
+wasn’t	VBD
+that	RB
+deep	JJ
+
+The	DT
+stadium	NN
+wasn’t	VBD
+that	RB
+crowded	JJ
+
+The	DT
+rain	NN
+wasn’t	VBD
+that	RB
+cold	JJ
+
+The	DT
+restaurant	NN
+wasn’t	VBD
+that	RB
+expensive	JJ
+
+The	DT
+trip	NN
+wasn’t	VBD
+that	RB
+tiring	JJ
+
+The	DT
+dessert	NN
+wasn’t	VBD
+that	RB
+sweet	JJ
+
+The	DT
+coffee	NN
+wasn’t	VBD
+that	RB
+bitter	JJ
+
+The	DT
+phone	NN
+wasn’t	VBD
+that	RB
+slow	JJ
+
+The	DT
+experience	NN
+wasn’t	VBD
+that	RB
+thrilling	JJ
+
+The	DT
+sunset	NN
+wasn’t	VBD
+that	RB
+bright	JJ
+
+The	DT
+hallway	NN
+wasn’t	VBD
+that	RB
+dark	JJ
+
+The	DT
+room	NN
+wasn’t	VBD
+that	RB
+small	JJ
+
+The	DT
+competition	NN
+wasn’t	VBD
+that	RB
+fierce	JJ
+
+The	DT
+journey	NN
+wasn’t	VBD
+that	RB
+exhausting	JJ
+
+The	DT
+grass	NN
+wasn’t	VBD
+that	RB
+green	JJ
+
+The	DT
+floor	NN
+wasn’t	VBD
+that	RB
+slippery	JJ
+
+The	DT
+weather	NN
+wasn’t	VBD
+that	RB
+humid	JJ
+
+The	DT
+shoes	NNS
+weren’t	VBD
+that	RB
+comfortable	JJ
+
+The	DT
+machine	NN
+wasn’t	VBD
+that	RB
+noisy	JJ
+
+The	DT
+balloon	NN
+wasn’t	VBD
+that	RB
+colorful	JJ
+
+The	DT
+snow	NN
+wasn’t	VBD
+that	RB
+deep	JJ
+
+The	DT
+mirror	NN
+wasn’t	VBD
+that	RB
+clean	JJ
+
+The	DT
+fridge	NN
+wasn’t	VBD
+that	RB
+empty	JJ
+
+The	DT
+laptop	NN
+wasn’t	VBD
+that	RB
+light	JJ
+
+The	DT
+festival	NN
+wasn’t	VBD
+that	RB
+crowded	JJ
+
+The	DT
+game	NN
+wasn’t	VBD
+that	RB
+competitive	JJ
+
+The	DT
+tea	NN
+wasn’t	VBD
+that	RB
+warm	JJ
+
+The	DT
+river	NN
+wasn’t	VBD
+that	RB
+wide	JJ
+
+The	DT
+market	NN
+wasn’t	VBD
+that	RB
+busy	JJ
+
+The	DT
+discussion	NN
+wasn’t	VBD
+that	RB
+heated	JJ
+
+The	DT
+car	NN
+wasn’t	VBD
+that	RB
+noisy	JJ
+
+The	DT
+book	NN
+wasn’t	VBD
+that	RB
+sad	JJ
+
+The	DT
+lake	NN
+wasn’t	VBD
+that	RB
+cold	JJ
+
+The	DT
+curtains	NNS
+weren’t	VBD
+that	RB
+dark	JJ
+
+The	DT
+flowers	NNS
+weren’t	VBD
+that	RB
+fresh	JJ
+
