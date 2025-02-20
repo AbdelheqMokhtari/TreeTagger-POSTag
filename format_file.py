@@ -38,14 +38,15 @@ def process_all_files(training_files, output_dir):
 
 # List of input training files
 training_files = [
-    'dataset/train_files/adverb.txt',
-    'dataset/train_files/conjuction.txt',
-    'dataset/train_files/determiner.txt',
-    'dataset/train_files/pronoun.txt'
+    'dataset/train_files_claws8/adverb.txt',
+    'dataset/train_files_claws8/verb_conjunction.txt',
+    'dataset/train_files_claws8/noun_conjunction.txt',
+    'dataset/train_files_claws8/determiner.txt',
+    'dataset/train_files_claws8/pronoun.txt'
 ]
 
 # Path for the output formatted files
-output_dir = 'dataset/formatted_train_files/'
+output_dir = 'dataset/formatted_train_files_claws8/'
 
 # Process all files
 process_all_files(training_files, output_dir)
