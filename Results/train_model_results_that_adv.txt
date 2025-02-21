@@ -1,0 +1,102 @@
+Sentence | True Label | Predicted Tag
+------------------------------------------------------------
+I didn’t think it would be that hard. | RA | RA
+It wasn’t that expensive after all. | RA | DD1
+She’s never been that interested in sports. | RA | DD1
+He didn’t run that fast. | RA | RA
+I didn’t know it was that far. | RA | CJT
+It doesn’t hurt that much. | RA | RA
+I wasn’t that tired last night. | RA | DD1
+The movie wasn’t that good. | RA | RA
+She didn’t seem that upset about it. | RA | RA
+It wasn’t that big of a deal. | RA | DD1
+The weather wasn’t that bad. | RA | RA
+I didn’t realize the book was that old. | RA | RA
+He’s not that tall compared to his brother. | RA | RA
+I don’t think it’s that important. | RA | RA
+The cake didn’t taste that sweet. | RA | RA
+She wasn’t that impressed with the presentation. | RA | DD1
+The car wasn’t that expensive to fix. | RA | RA
+He didn’t speak that loudly during the meeting. | RA | RA
+I wasn’t that worried about the exam. | RA | DD1
+It wasn’t that late when I left. | RA | DD1
+The hotel wasn’t that luxurious, but it was nice. | RA | RA
+He didn’t look that tired after the marathon. | RA | RA
+It wasn’t that surprising to hear the news. | RA | DD1
+The soup wasn’t that hot when I tried it. | RA | RA
+I didn’t know the city was that crowded. | RA | RA
+She didn’t arrive that early for the party. | RA | RA
+He didn’t finish the project that quickly. | RA | CST
+The trip wasn’t that enjoyable, to be honest. | RA | RA
+It wasn’t that easy to solve the puzzle. | RA | DD1
+He didn’t play that well in the game. | RA | RA
+The book wasn’t that interesting. | RA | RA
+I didn’t think it would be that complicated. | RA | RA
+She didn’t sound that enthusiastic. | RA | RA
+The problem wasn’t that serious. | RA | RA
+He didn’t run that far during his jog. | RA | RA
+It wasn’t that cold outside. | RA | DD1
+The story wasn’t that funny. | RA | RA
+The dish didn’t turn out that tasty. | RA | RA
+She didn’t work that hard on the project. | RA | RA
+The water wasn’t that deep near the shore. | RA | RA
+The journey didn’t take that long. | RA | RA
+I didn’t think he’d get that upset. | RA | RA
+The dog wasn’t barking that loudly. | RA | RA
+It wasn’t that surprising when she quit. | RA | DD1
+The lecture wasn’t that boring. | RA | RA
+I didn’t feel that cold during the winter hike. | RA | DD1
+He didn’t play the piano that well. | RA | CST
+The test wasn’t that challenging. | RA | RA
+The road wasn’t that bumpy. | RA | DD1
+She didn’t look that happy in the photo. | RA | RA
+The movie didn’t last that long. | RA | RA
+It wasn’t that expensive to buy a ticket. | RA | DD1
+The traffic wasn’t that heavy on the way home. | RA | RA
+He didn’t seem that confident during the interview. | RA | DD1
+The coffee wasn’t that strong. | RA | RA
+The sky didn’t look that cloudy. | RA | RA
+The sunset wasn’t that spectacular. | RA | RA
+She didn’t sing that beautifully during the performance. | RA | RA
+It wasn’t that dark in the forest. | RA | DD1
+The food wasn’t that spicy. | RA | RA
+He didn’t speak that fluently in French. | RA | DD1
+The meeting didn’t last that long. | RA | RA
+I didn’t find the joke that funny. | RA | CST
+The crowd wasn’t that big at the concert. | RA | RA
+The hike wasn’t that exhausting. | RA | RA
+He didn’t argue that much about the issue. | RA | RA
+The storm wasn’t that severe. | RA | RA
+The hill wasn’t that steep to climb. | RA | RA
+The water wasn’t that clear in the lake. | RA | RA
+The room wasn’t that messy. | RA | DD1
+The dessert wasn’t that rich. | RA | RA
+She didn’t drive that recklessly. | RA | RA
+The sound wasn’t that loud during the fireworks. | RA | DD1
+The night wasn’t that quiet in the countryside. | RA | RA
+He didn’t act that responsibly at the event. | RA | RA
+The workout wasn’t that intense. | RA | RA
+The meal wasn’t that filling. | RA | RA
+She didn’t wait that long for her turn. | RA | RA
+The delay wasn’t that frustrating. | RA | RA
+The answer wasn’t that obvious. | RA | RA
+I didn’t think it was that urgent to finish. | RA | CJT
+The dog wasn’t barking that aggressively. | RA | RA
+The room wasn’t that warm during the winter. | RA | DD1
+The movie wasn’t that scary. | RA | RA
+The rain didn’t last that long. | RA | RA
+She didn’t respond that quickly to the email. | RA | RA
+The flowers weren’t that colorful. | RA | RA
+He didn’t climb that high on the mountain. | RA | RA
+The wind wasn’t blowing that strongly. | RA | RA
+The song wasn’t that catchy. | RA | RA
+The ice cream didn’t melt that quickly. | RA | RA
+The service wasn’t that slow at the restaurant. | RA | RA
+The carpet wasn’t that dirty. | RA | RA
+The children weren’t that noisy during class. | RA | RA
+The bike ride wasn’t that tiring. | RA | RA
+The painting wasn’t that vibrant. | RA | RA
+The speech wasn’t that inspiring. | RA | RA
+The heat wasn’t that unbearable. | RA | RA
+She didn’t explain the issue that clearly. | RA | CST
+The cake didn’t rise that evenly in the oven. | RA | RA

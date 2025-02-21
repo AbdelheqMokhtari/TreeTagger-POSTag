@@ -1,0 +1,102 @@
+Sentence | True Label | Predicted Tag
+------------------------------------------------------------
+She said that she would be late. | CJT | CST
+I believe that he is telling the truth. | CJT | CST
+They admitted that they made a mistake. | CJT | CST
+He thinks that the movie is overrated. | CJT | CST
+I heard that you got a promotion. | CJT | CST
+She knows that I am her biggest supporter. | CJT | CST
+He complained that the food was cold. | CJT | CST
+We hope that you can join us for dinner. | CJT | CST
+I remember that she mentioned your name. | CJT | CST
+He forgot that he had a meeting today. | CJT | CST
+She feared that she might fail the exam. | CJT | CST
+I suspect that they are hiding something. | CJT | CST
+He confirmed that the package had arrived. | CJT | CST
+I understand that you are upset. | CJT | CST
+She revealed that she is moving abroad. | CJT | CST
+He promised that he would help me. | CJT | CST
+I noticed that you were smiling. | CJT | CST
+She insisted that she was right. | CJT | CST
+He admitted that he was wrong. | CJT | CST
+I assume that you’ve already finished. | CJT | CST
+They declared that they would not surrender. | CJT | CST
+I hoped that you would come early. | CJT | CST
+She argued that the rules should change. | CJT | CST
+He believes that his team will win. | CJT | CST
+I doubt that she will agree. | CJT | CST
+He mentioned that the weather would improve. | CJT | CST
+She explained that she had to leave early. | CJT | CST
+I imagined that you’d like this gift. | CJT | CST
+He warned that the road might be closed. | CJT | CST
+She agreed that the idea was brilliant. | CJT | CST
+I suppose that you’ve heard the news. | CJT | CST
+He emphasized that safety is the top priority. | CJT | CST
+She observed that the room was too small. | CJT | CST
+I concluded that the plan was feasible. | CJT | CST
+He suspected that someone had taken his phone. | CJT | CST
+She remarked that the party was enjoyable. | CJT | CST
+I predict that the team will succeed. | CJT | CST
+He confessed that he had lied. | CJT | CST
+I realize that this is a sensitive issue. | CJT | CST
+She acknowledged that she needed help. | CJT | CST
+He reported that the system had crashed. | CJT | CST
+I’ve heard that you’re moving next week. | CJT | CST
+She hoped that everything would go smoothly. | CJT | CST
+He declared that he was innocent. | CJT | CST
+I suspect that they’re avoiding the truth. | CJT | CST
+She suggested that we take a break. | CJT | CST
+He reminded me that the deadline is tomorrow. | CJT | CST
+I warned him that the train was delayed. | CJT | CST
+She claimed that she had already paid. | CJT | CST
+He asserted that he knew the answer. | CJT | CST
+I insisted that you be included in the meeting. | CJT | CST
+She doubted that he would finish on time. | CJT | CST
+He explained that the rules had changed. | CJT | CST
+I acknowledged that it was my fault. | CJT | CST
+She believed that the results were accurate. | CJT | CST
+He hinted that there might be more to the story. | CJT | CST
+I denied that I had seen him before. | CJT | CST
+She expressed that she was happy with the outcome. | CJT | CST
+He assumed that everyone was on board. | CJT | CST
+I accepted that I needed to improve. | CJT | CST
+She concluded that the test was unfair. | CJT | CST
+He noticed that the light was flickering. | CJT | CST
+I maintained that my decision was correct. | CJT | CST
+She reported that the noise came from the basement. | CJT | CST
+He believed that honesty was the best policy. | CJT | CST
+I understood that the instructions were confusing. | CJT | CST
+She suggested that we meet earlier. | CJT | CST
+He observed that the sky was turning red. | CJT | CST
+I hoped that we could resolve this peacefully. | CJT | CST
+She claimed that she had never met him. | CJT | CST
+He argued that the proposal was flawed. | CJT | CST
+I feared that we were running out of time. | CJT | CST
+She promised that she would call me later. | CJT | CST
+He hinted that he was considering resigning. | CJT | CST
+I suspect that they are planning something big. | CJT | CST
+She explained that the delay was unavoidable. | CJT | CST
+He acknowledged that he had been careless. | CJT | CST
+I remarked that the presentation was excellent. | CJT | CST
+She emphasized that education is vital. | CJT | CST
+He mentioned that the event was canceled. | CJT | CST
+I remember that you helped me last year. | CJT | CST
+She admitted that she was scared. | CJT | CST
+He agreed that the budget was too tight. | CJT | CST
+I suppose that everything will be fine. | CJT | CST
+She assured me that the project was on track. | CJT | CST
+He revealed that he had a hidden talent. | CJT | CST
+I doubted that he would attend the meeting. | CJT | CST
+She complained that the service was poor. | CJT | CST
+He confessed that he felt nervous. | CJT | CST
+I hoped that the weather would improve. | CJT | CST
+She announced that she was engaged. | CJT | CST
+He suggested that we review the document again. | CJT | CST
+I confirmed that my application had been received. | CJT | CST
+She insisted that her decision was final. | CJT | CST
+He warned me that the road was slippery. | CJT | CST
+I believe that you’ll succeed with effort. | CJT | CST
+She concluded that the solution was effective. | CJT | CST
+He explained that he couldn’t attend the meeting. | CJT | CST
+I realized that I had forgotten my keys. | CJT | CST
+She mentioned that she had spoken to the manager. | CJT | CST

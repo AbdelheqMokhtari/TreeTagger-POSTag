@@ -1,0 +1,102 @@
+Sentence | True Label | Predicted Tag
+------------------------------------------------------------
+I don’t like that shirt you’re wearing. | DD1 | CJT
+Can you hand me that book? | DD1 | CJT
+I remember visiting that house when I was a child. | DD1 | CJT
+That car over there is mine. | DD1 | CJT
+Do you know who lives in that apartment? | DD1 | CJT
+I don’t think that idea will work. | DD1 | CJT
+She borrowed that pen from my desk. | DD1 | CJT
+Did you see that movie everyone’s talking about? | DD1 | CJT
+We need to fix that problem immediately. | DD1 | CJT
+That road leads to the town square. | DD1 | CJT
+I love the taste of that cake. | DD1 | CJT
+That dog has been barking all morning. | DD1 | CJT
+He’s wearing that jacket again. | DD1 | CJT
+Don’t touch that plate; it’s hot. | DD1 | CJT
+That chair is broken and needs repair. | DD1 | CJT
+Who owns that bike parked outside? | DD1 | CJT
+I’ve been meaning to visit that museum. | DD1 | CJT
+Did you hear that noise just now? | DD1 | CJT
+She doesn’t like that dress anymore. | DD1 | CJT
+I’ll never forget that day we spent at the beach. | DD1 | CJT
+That lamp needs a new bulb. | DD1 | CJT
+Do you remember that song we used to sing? | DD1 | CJT
+That picture brings back so many memories. | DD1 | CJT
+He always sits in that seat during meetings. | DD1 | CJT
+That phone has been ringing nonstop. | DD1 | CJT
+They said that hotel has great reviews. | DD1 | CJT
+Please pick up that paper on the floor. | DD1 | CJT
+That window won’t open properly. | DD1 | CJT
+She’s the owner of that beautiful garden. | DD1 | CJT
+Can you grab that bottle of water for me? | DD1 | CJT
+I’ve been looking for that book everywhere. | DD1 | CJT
+That cat keeps coming into our yard. | DD1 | CJT
+Did you attend that conference last year? | DD1 | CJT
+I’ll always remember that advice you gave me. | DD1 | CJT
+That flower smells amazing. | DD1 | CJT
+The teacher wrote that word on the board. | DD1 | CJT
+I think that restaurant serves the best pasta. | DD1 | CJT
+That man is staring at us. | DD1 | CJT
+Don’t forget to close that door when you leave. | DD1 | CJT
+She painted that wall all by herself. | DD1 | CJT
+I don’t understand why that rule exists. | DD1 | CJT
+Can you turn off that light before you leave? | DD1 | CJT
+That mountain is breathtaking. | DD1 | CJT
+Do you see that bird perched on the tree? | DD1 | CJT
+I don’t like that tone you’re using with me. | DD1 | CJT
+We should explore that path next time. | DD1 | CJT
+He’s been avoiding that topic all day. | DD1 | CJT
+That child is very talented. | DD1 | CJT
+Let’s not waste time discussing that issue again. | DD1 | CJT
+She left her umbrella on that table. | DD1 | CJT
+That car’s engine sounds strange. | DD1 | CJT
+I’ll never forget that moment when we first met. | DD1 | CJT
+Can you put that box on the shelf? | DD1 | CJT
+That street is closed for repairs. | DD1 | CJT
+She wore that scarf I gave her for her birthday. | DD1 | CJT
+I’d like to visit that castle someday. | DD1 | CJT
+That store is having a huge sale today. | DD1 | CJT
+Do you like that necklace she’s wearing? | DD1 | CJT
+I heard that train is always late. | DD1 | CJT
+They’re tearing down that old building. | DD1 | CJT
+That coffee smells delicious. | DD1 | CJT
+I’ve been dreaming about that vacation for years. | DD1 | CJT
+Don’t forget to water that plant. | DD1 | CJT
+Who’s driving that truck? | DD1 | CJT
+That bridge was built over a century ago. | DD1 | CJT
+Have you ever been to that park by the river? | DD1 | CJT
+That color looks great on you. | DD1 | CJT
+Can you believe that speech he gave? | DD1 | CJT
+She owns that store on Main Street. | DD1 | CJT
+Did you see that cloud shaped like a dragon? | DD1 | CJT
+I love the pattern on that rug. | DD1 | CJT
+That chair was a gift from my grandmother. | DD1 | CJT
+Do you know who wrote that book? | DD1 | CJT
+We stayed at that hotel during our trip. | DD1 | CJT
+That sandwich looks delicious. | DD1 | CJT
+He parked his car in that spot. | DD1 | CJT
+I’d love to climb that hill one day. | DD1 | CJT
+She bought that dress at a vintage store. | DD1 | CJT
+That clock on the wall needs to be fixed. | DD1 | CJT
+Can you see that star shining so brightly? | DD1 | CJT
+I’ve always wanted to visit that country. | DD1 | CJT
+That dog belongs to our neighbor. | DD1 | CJT
+Don’t touch that wire; it’s dangerous. | DD1 | CJT
+Have you seen that movie about space travel? | DD1 | CJT
+She found that ring while cleaning the attic. | DD1 | CJT
+I don’t understand that rule in the game. | DD1 | CJT
+Do you know who painted that picture? | DD1 | CJT
+We walked through that forest on our way here. | DD1 | CJT
+That bakery makes the best chocolate cake. | DD1 | CJT
+She sat on that bench for hours. | DD1 | CJT
+Can you believe that storm last night? | DD1 | CJT
+I’m not sure if that recipe will work. | DD1 | CJT
+That hat really suits you. | DD1 | CJT
+He used that tool to fix the broken pipe. | DD1 | CJT
+I can’t stop thinking about that conversation we had. | DD1 | CJT
+That house on the corner is for sale. | DD1 | CJT
+I’ve been eyeing that jacket for weeks. | DD1 | CJT
+That guitar sounds amazing. | DD1 | CJT
+Did you notice that painting in the hallway? | DD1 | CJT
+That story she told was incredible. | DD1 | CJT

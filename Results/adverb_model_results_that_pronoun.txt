@@ -1,0 +1,102 @@
+Sentence | True Label | Predicted Tag
+------------------------------------------------------------
+The book that I borrowed from you is excellent. | WPR | RA
+This is the house that Jack built. | WPR | RA
+She’s the one that helped me yesterday. | WPR | RA
+The cake that he baked was delicious. | WPR | RA
+The man that I saw at the park was tall. | WPR | RA
+This is the pen that I lost last week. | WPR | RA
+The movie that we watched was amazing. | WPR | RA
+The dog that barked all night belongs to our neighbor. | WPR | RA
+The idea that she proposed was brilliant. | WPR | RA
+The dress that she wore was stunning. | WPR | RA
+The car that he drives is very expensive. | WPR | RA
+The team that won the game was very strong. | WPR | RA
+I know the girl that lives next door. | WPR | RA
+This is the song that I was telling you about. | WPR | RA
+The restaurant that they recommended was fantastic. | WPR | RA
+The problem that we discussed has been resolved. | WPR | RA
+The bus that I took was late. | WPR | RA
+The flowers that he gave me were beautiful. | WPR | RA
+The book that she’s reading is a bestseller. | WPR | RA
+The road that leads to the village is closed. | WPR | RA
+The box that you left on the table is missing. | WPR | RA
+The child that you saw in the park is my nephew. | WPR | RA
+The project that we worked on won an award. | WPR | RA
+The house that they built is magnificent. | WPR | RA
+The man that I met yesterday is a famous author. | WPR | RA
+The recipe that she shared is easy to follow. | WPR | RA
+The song that she sang was beautiful. | WPR | RA
+The gift that I received was very thoughtful. | WPR | RA
+The photo that you took is stunning. | WPR | RA
+The chair that you’re sitting on is very old. | WPR | RA
+The girl that won the contest is very talented. | WPR | RA
+The story that he told us was fascinating. | WPR | RA
+The meeting that we attended was productive. | WPR | RA
+The jacket that I bought is too big. | WPR | RA
+The decision that they made was surprising. | WPR | RA
+The cat that you adopted is very playful. | WPR | RA
+The letter that she sent arrived yesterday. | WPR | RA
+The movie that we’re going to watch starts at 7. | WPR | RA
+The building that they are constructing is enormous. | WPR | RA
+The question that he asked was difficult to answer. | WPR | RA
+The artist that painted this is very famous. | WPR | RA
+The shoes that you’re wearing are stylish. | WPR | RA
+The park that we visited was peaceful. | WPR | RA
+The homework that I forgot to do is due today. | WPR | RA
+The man that called earlier left a message. | WPR | RA
+The doctor that treated me was very kind. | WPR | RA
+The computer that I bought last year is still fast. | WPR | RA
+The book that I’m reading is about history. | WPR | RA
+The train that we missed was delayed anyway. | WPR | RA
+The musician that performed was incredibly talented. | WPR | RA
+The picture that you showed me was hilarious. | WPR | RA
+The shirt that he’s wearing is from Italy. | WPR | RA
+The teacher that inspired me most has retired. | WPR | RA
+The restaurant that we dined at was expensive. | WPR | RA
+The advice that you gave me was helpful. | WPR | RA
+The city that I visited last summer was beautiful. | WPR | RA
+The team that scored the most points won the trophy. | WPR | RA
+The movie that we’re talking about is a classic. | WPR | RA
+The car that broke down is still in the shop. | WPR | RA
+The musician that played the violin was amazing. | WPR | RA
+The house that burned down has been rebuilt. | WPR | RA
+The necklace that you gave her is gorgeous. | WPR | RA
+The man that spoke at the conference was inspiring. | WPR | RA
+The river that runs through the city is polluted. | WPR | RA
+The advice that he gave me changed my life. | WPR | RA
+The field that we crossed was muddy. | WPR | RA
+The child that you helped is very grateful. | WPR | RA
+The car that we rented broke down. | WPR | RA
+The bakery that we passed smelled amazing. | WPR | RA
+The jacket that she wore was very fashionable. | WPR | RA
+The book that he lent me is out of print. | WPR | RA
+The bridge that collapsed was very old. | WPR | RA
+The company that she works for is international. | WPR | RA
+The painting that he sold was worth millions. | WPR | RA
+The city that I grew up in has changed a lot. | WPR | RA
+The play that we saw last night was fantastic. | WPR | RA
+The garden that she tends is blooming beautifully. | WPR | RA
+The box that he brought was full of surprises. | WPR | RA
+The trip that we planned was canceled. | WPR | RA
+The food that they served was delicious. | WPR | RA
+The story that he shared moved everyone. | WPR | RA
+The phone that I bought last month already broke. | WPR | RA
+The animal that we rescued is recovering well. | WPR | RA
+The chair that I fixed is sturdy now. | WPR | RA
+The road that we took was very scenic. | WPR | RA
+The teacher that taught us retired last year. | WPR | RA
+The email that I sent hasn’t been answered yet. | WPR | RA
+The man that I spoke with was very polite. | WPR | RA
+The mountain that we climbed was steep. | WPR | RA
+The gift that she opened was a surprise. | WPR | RA
+The jacket that I borrowed is too small. | WPR | RA
+The fish that he caught was enormous. | WPR | RA
+The hotel that we stayed at was luxurious. | WPR | RA
+The question that she asked was thought-provoking. | WPR | RA
+The actor that starred in the film is very famous. | WPR | RA
+The song that I love is on the radio. | WPR | RA
+The beach that we visited was crowded. | WPR | RA
+The book that I wrote is being published. | WPR | RA
+The story that you told made me laugh. | WPR | RA
+The decision that they announced surprised everyone. | WPR | RA
