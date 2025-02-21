@@ -39,42 +39,42 @@ def map_tag(nltk_tag):
     Map NLTK (Penn Treebank) tags to custom CLAWS8-like tags.
     """
     mapping = {
-        "CC": "CC",      
-        "CD": "CD",      
-        "DT": "AT",      
-        "EX": "EX",      
-        "FW": "FW",      
-        "IN": "IN",      
-        "JJ": "JJ",      
-        "JJR": "JJ",     
-        "JJS": "JJ",     
-        "LS": "LS",      
-        "MD": "MD",      
-        "NN": "NN",      
-        "NNS": "NNS",    
-        "NNP": "NN",     
-        "NNPS": "NNS",   
-        "PDT": "PDT",    
-        "POS": "POS",    
-        "PRP": "PRP",    
-        "PRP$": "PRP",   
-        "RB": "RB",      
-        "RBR": "RB",     
-        "RBS": "RB",     
-        "RP": "RP",      
-        "SYM": "SYM",    
-        "TO": "TO",      
-        "UH": "UH",      
-        "VB": "VV0",     
-        "VBD": "VVD",    
-        "VBG": "VV0",    
-        "VBN": "VV0",    
-        "VBP": "VV0",    
-        "VBZ": "VV0",    
-        "WDT": "WDT",    
-        "WP": "PRP",     
-        "WP$": "PRP",    
-        "WRB": "RB"
+        "CC": "CC",        # Coordinating conjunction
+        "CD": "CD",        # Cardinal number
+        "DT": "AT0",       # Determiner/article (CLAWS8 uses AT0 for articles)
+        "EX": "EX",        # Existential there
+        "FW": "FW",        # Foreign word
+        "IN": "II",        # Preposition or subordinating conjunction (may require disambiguation)
+        "JJ": "AJ0",       # Adjective, positive degree
+        "JJR": "AJC",      # Adjective, comparative
+        "JJS": "AJS",      # Adjective, superlative
+        "LS": "LS",        # List marker
+        "MD": "MD",        # Modal
+        "NN": "NN1",       # Singular common noun
+        "NNS": "NN2",      # Plural common noun
+        "NNP": "NP",       # Singular proper noun
+        "NNPS": "NPS",     # Plural proper noun
+        "PDT": "DD0",      # Pre-determiner
+        "POS": "POS",      # Possessive ending
+        "PRP": "PP",       # Personal pronoun
+        "PRP$": "PP$",     # Possessive pronoun
+        "RB": "RG0",       # Adverb, base form
+        "RBR": "RGC",      # Adverb, comparative
+        "RBS": "RGS",      # Adverb, superlative
+        "RP": "RP",        # Particle
+        "SYM": "SYM",      # Symbol
+        "TO": "TO",        # To (infinitive marker)
+        "UH": "UH",        # Interjection
+        "VB": "VVB",       # Verb, base form
+        "VBD": "VVD",      # Verb, past tense
+        "VBG": "VVG",      # Verb, present participle/gerund
+        "VBN": "VVN",      # Verb, past participle
+        "VBP": "VVP",      # Verb, non-3rd person singular present
+        "VBZ": "VVZ",      # Verb, 3rd person singular present
+        "WDT": "WDT",      # Wh-determiner
+        "WP": "WP",        # Wh-pronoun
+        "WP$": "WPS",      # Possessive wh-pronoun
+        "WRB": "WRB"       # Wh-adverb
     }
     return mapping.get(nltk_tag, nltk_tag)
 
