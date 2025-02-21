@@ -1,0 +1,22 @@
+{
+    "NNC_test_text": {
+        "accuracy": 60.0,
+        "num_sentences": 200
+    },
+    "that_adv": {
+        "accuracy": 81.0,
+        "num_sentences": 100
+    },
+    "that_conjunction": {
+        "accuracy": 89.0,
+        "num_sentences": 100
+    },
+    "that_determiner": {
+        "accuracy": 97.0,
+        "num_sentences": 100
+    },
+    "that_pronoun": {
+        "accuracy": 89.0,
+        "num_sentences": 100
+    }
+}
