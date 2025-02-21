@@ -11,21 +11,33 @@ nltk.download("wordnet")
 
 lemmatizer = WordNetLemmatizer()
 
-def get_wordnet_pos(treebank_tag):
-    """Map Treebank tags to WordNet POS tags for lemmatization."""
-    if treebank_tag.startswith('J'):
-        return wordnet.ADJ
-    elif treebank_tag.startswith('V'):
-        return wordnet.VERB
-    elif treebank_tag.startswith('N'):
-        return wordnet.NOUN
-    elif treebank_tag.startswith('R'):
-        return wordnet.ADV
+def get_lemma(token, tag):
+    """
+    Get the lemma of a token using the WordNet lemmatizer.
+    The function maps custom (CLAWS8-like) tags to the corresponding WordNet POS.
+    """
+    if tag.startswith('VV'):
+        pos = wordnet.VERB
+    elif tag.startswith('JJ'):
+        pos = wordnet.ADJ
+    elif tag.startswith('NN'):
+        pos = wordnet.NOUN
+    elif tag.startswith('RB'):
+        pos = wordnet.ADV
+    elif tag.startswith('PRP') or tag.startswith('PRP$'):
+        pos = wordnet.NOUN  # Treat pronouns as nouns
+    elif tag.startswith('DT') or tag.startswith('WDT'):
+        pos = wordnet.NOUN  # Treat determiners as nouns
+    elif tag.startswith('IN'):
+        pos = wordnet.ADV  # Treat prepositions/conjunctions as adverbs
     else:
-        return wordnet.NOUN
+        pos = wordnet.NOUN
+    return lemmatizer.lemmatize(token.lower(), pos)
 
 def map_tag(nltk_tag):
-    """Map NLTK tags to your custom tags."""
+    """
+    Map NLTK (Penn Treebank) tags to custom CLAWS8-like tags.
+    """
     mapping = {
         "CC": "CC",      
         "CD": "CD",      
@@ -68,14 +80,14 @@ def map_tag(nltk_tag):
 
 def process_file(input_filename, output_filename, that_override_tag, lexicon):
     """
-    Process a file: read it line by line (each line as a sentence), tokenize and tag the text,
-    override "that" tags as needed, compute the lemma for each word, and update the lexicon dictionary.
-    Returns the set of custom tags used in this file.
+    Process a file: for each line (sentence), tokenize and POS-tag the text,
+    override "that" tags as needed, compute the lemma using get_lemma, and update the lexicon.
+    Returns the set of custom tags used in the file.
     """
     with open(input_filename, "r", encoding="utf-8") as infile:
         lines = infile.readlines()
 
-    # Treat each non-empty line as a sentence.
+    # Consider each non-empty line as a sentence.
     sentences = [line.strip() for line in lines if line.strip()]
     processed_lines = []
     file_tags = set()
@@ -89,23 +101,23 @@ def process_file(input_filename, output_filename, that_override_tag, lexicon):
                 custom_tag = that_override_tag
             else:
                 custom_tag = map_tag(tag)
-            # Compute lemma using WordNet lemmatizer
-            lemma = lemmatizer.lemmatize(word, pos=get_wordnet_pos(tag))
+            # Compute lemma using the custom get_lemma function
+            lemma = get_lemma(word, custom_tag)
             processed_lines.append(f"{word}\t{custom_tag}")
             file_tags.add(custom_tag)
-            # Update lexicon: add (custom_tag, lemma) for the word.
+            # Update the lexicon: add a (custom_tag, lemma) pair for the word.
             if word in lexicon:
                 lexicon[word].add((custom_tag, lemma))
             else:
                 lexicon[word] = {(custom_tag, lemma)}
-        # Append one empty string for a blank line between sentences.
+        # Append a blank line between sentences.
         processed_lines.append("")
 
     with open(output_filename, "w", encoding="utf-8") as outfile:
         outfile.write("\n".join(processed_lines))
     return file_tags
 
-# Define input and output directories
+# Define input and output directories.
 input_dir = "Data/Train/"
 output_dir = "Training/"
 os.makedirs(output_dir, exist_ok=True)
@@ -113,7 +125,7 @@ os.makedirs(output_dir, exist_ok=True)
 all_tags = set()
 global_lexicon = {}
 
-# List of files to process: (input_filename, output_filename, override tag)
+# List of files to process: (input_filename, output_filename, override tag for "that")
 files_to_process = [
     ("that_as_adverb.txt", "adverb_formatted.txt", "RA"),
     ("that_conjunction_noun.txt", "conjunction_noun_formatted.txt", "CST"),
@@ -122,31 +134,27 @@ files_to_process = [
     ("that_singular_determiner.txt", "determiner_formatted.txt", "DD1")
 ]
 
-# Process each file, update all_tags and the global lexicon
+# Process each file, updating the set of all custom tags and the global lexicon.
 for infile_name, outfile_name, override in files_to_process:
     input_path = os.path.join(input_dir, infile_name)
     output_path = os.path.join(output_dir, outfile_name)
     tags = process_file(input_path, output_path, override, global_lexicon)
     all_tags.update(tags)
 
-# Write openCLs.txt with all unique tags (sorted)
+# Write openCLs.txt containing all unique tags (sorted)
 opencls_path = os.path.join(output_dir, "openCLs.txt")
 with open(opencls_path, "w", encoding="utf-8") as tag_file:
     tag_file.write(" ".join(sorted(all_tags)))
 
 # Write lexicon.txt:
-# For each word, list the word followed by its tag–lemma pairs (tab separated).
-# If a word has multiple pairs, list them all on one line.
-# Finally, append a punctuation line: ".	SENT	."
+# Each line contains a word followed by its tag–lemma pairs (tab separated).
+# Finally, append a punctuation line.
 lexicon_path = os.path.join(output_dir, "lexicon.txt")
 with open(lexicon_path, "w", encoding="utf-8") as lex_file:
     for word in sorted(global_lexicon.keys(), key=lambda x: x.lower()):
         pairs = sorted(global_lexicon[word])
-        pair_strs = []
-        for tag, lemma in pairs:
-            pair_strs.append(f"{tag}\t{lemma}")
+        pair_strs = [f"{tag}\t{lemma}" for tag, lemma in pairs]
         lex_file.write(f"{word}\t" + "\t".join(pair_strs) + "\n")
-    # Append the punctuation entry
     lex_file.write(".\tSENT\t.\n")
 
 # Concatenate the contents of all processed files into train.txt
@@ -157,6 +165,6 @@ with open(train_file_path, "w", encoding="utf-8") as train_file:
         with open(file_path, "r", encoding="utf-8") as infile:
             content = infile.read()
             train_file.write(content)
-            train_file.write("\n")  # newline between files
+            train_file.write("\n")  # Separate files with a newline
 
 print("Processing complete. Files have been saved in the 'Training/' directory.")
