@@ -6,7 +6,8 @@ all	AT
 night	NN
 kept	VVD
 everyone	NN
-awake	VV0
+awake	NN
+
 The	AT
 girl	NN
 that	WPR
@@ -15,6 +16,7 @@ beautifully	RB
 won	VVD
 the	AT
 contest	NN
+
 The	AT
 movie	NN
 that	WPR
@@ -24,6 +26,7 @@ last	JJ
 night	NN
 was	VVD
 thrilling	VV0
+
 The	AT
 teacher	NN
 that	WPR
@@ -31,7 +34,8 @@ explains	VV0
 concepts	NNS
 clearly	RB
 is	VV0
-admired	VV0
+admired	JJ
+
 The	AT
 house	NN
 that	WPR
@@ -41,6 +45,7 @@ has	VV0
 a	AT
 large	JJ
 garden	NN
+
 The	AT
 car	NN
 that	WPR
@@ -49,6 +54,7 @@ drives	VV0
 is	VV0
 very	RB
 fast	RB
+
 The	AT
 book	NN
 that	WPR
@@ -56,7 +62,8 @@ I	PRP
 read	VV0
 was	VVD
 very	RB
-inspiring	VV0
+inspiring	JJ
+
 The	AT
 computer	NN
 that	WPR
@@ -65,6 +72,7 @@ bought	VVD
 is	VV0
 incredibly	RB
 powerful	JJ
+
 The	AT
 cake	NN
 that	WPR
@@ -72,6 +80,7 @@ she	PRP
 baked	VVD
 tasted	JJ
 delicious	JJ
+
 The	AT
 park	NN
 that	WPR
@@ -81,6 +90,7 @@ was	VVD
 full	JJ
 of	IN
 children	NNS
+
 The	AT
 phone	NN
 that	WPR
@@ -90,6 +100,7 @@ yesterday	NN
 was	VVD
 a	AT
 gift	NN
+
 The	AT
 painting	NN
 that	WPR
@@ -98,7 +109,8 @@ in	IN
 the	AT
 gallery	NN
 is	VV0
-priceless	IN
+priceless	JJ
+
 The	AT
 song	NN
 that	WPR
@@ -107,6 +119,7 @@ wrote	VVD
 became	VVD
 a	AT
 hit	NN
+
 The	AT
 man	NN
 that	WPR
@@ -116,6 +129,7 @@ car	NN
 is	VV0
 very	RB
 skilled	JJ
+
 The	AT
 restaurant	NN
 that	WPR
@@ -125,6 +139,7 @@ at	IN
 had	VVD
 great	JJ
 service	NN
+
 The	AT
 letter	NN
 that	WPR
@@ -134,6 +149,7 @@ was	VVD
 full	JJ
 of	IN
 emotion	NN
+
 The	AT
 flower	NN
 that	WPR
@@ -143,6 +159,7 @@ the	AT
 garden	NN
 is	VV0
 rare	JJ
+
 The	AT
 river	NN
 that	WPR
@@ -152,6 +169,7 @@ the	AT
 valley	NN
 is	VV0
 wide	JJ
+
 The	AT
 building	NN
 that	WPR
@@ -161,6 +179,7 @@ the	AT
 corner	NN
 is	VV0
 historic	JJ
+
 The	AT
 student	NN
 that	WPR
@@ -171,6 +190,7 @@ correctly	RB
 won	VVD
 a	AT
 prize	NN
+
 The	AT
 chair	NN
 that	WPR
@@ -180,6 +200,7 @@ on	IN
 was	VVD
 very	RB
 comfortable	JJ
+
 The	AT
 shirt	NN
 that	WPR
@@ -187,7 +208,8 @@ he	PRP
 wore	VVD
 was	VVD
 bright	JJ
-blue	IN
+blue	NN
+
 The	AT
 shoes	NNS
 that	WPR
@@ -196,6 +218,7 @@ bought	VVD
 are	VV0
 very	RB
 stylish	JJ
+
 The	AT
 novel	NN
 that	WPR
@@ -204,6 +227,7 @@ published	VVD
 became	VVD
 a	AT
 bestseller	NN
+
 The	AT
 movie	NN
 that	WPR
@@ -213,6 +237,7 @@ award	NN
 was	VVD
 very	RB
 moving	VV0
+
 The	AT
 painting	NN
 that	WPR
@@ -222,6 +247,7 @@ is	VV0
 full	JJ
 of	IN
 color	NN
+
 The	AT
 coffee	NN
 that	WPR
@@ -230,7 +256,8 @@ brewed	VVD
 this	AT
 morning	NN
 was	VVD
-perfect	VV0
+perfect	JJ
+
 The	AT
 game	NN
 that	WPR
@@ -238,6 +265,7 @@ they	PRP
 played	VVD
 was	VVD
 exciting	VV0
+
 The	AT
 city	NN
 that	WPR
@@ -247,6 +275,7 @@ last	JJ
 summer	NN
 was	VVD
 vibrant	JJ
+
 The	AT
 teacher	NN
 that	WPR
@@ -255,6 +284,7 @@ us	PRP
 is	VV0
 very	RB
 kind	NN
+
 The	AT
 library	NN
 that	WPR
@@ -263,6 +293,7 @@ ancient	VV0
 books	NNS
 is	VV0
 fascinating	VV0
+
 The	AT
 mountain	NN
 that	WPR
@@ -272,6 +303,7 @@ the	AT
 town	NN
 is	VV0
 majestic	JJ
+
 The	AT
 ocean	NN
 that	WPR
@@ -280,7 +312,8 @@ saw	VVD
 on	IN
 vacation	NN
 was	VVD
-endless	RB
+endless	JJ
+
 The	AT
 dessert	NN
 that	WPR
@@ -289,6 +322,7 @@ made	VVD
 was	VVD
 extremely	RB
 tasty	JJ
+
 The	AT
 park	NN
 that	WPR
@@ -297,7 +331,8 @@ the	AT
 festival	NN
 is	VV0
 beautifully	RB
-landscaped	VV0
+landscaped	JJ
+
 The	AT
 musician	NN
 that	WPR
@@ -307,6 +342,7 @@ the	AT
 concert	NN
 is	VV0
 famous	JJ
+
 The	AT
 sculpture	NN
 that	WPR
@@ -316,6 +352,7 @@ the	AT
 square	NN
 is	VV0
 impressive	JJ
+
 The	AT
 recipe	NN
 that	WPR
@@ -324,6 +361,7 @@ shared	VVD
 is	VV0
 very	RB
 popular	JJ
+
 The	AT
 dress	NN
 that	WPR
@@ -331,6 +369,7 @@ she	PRP
 wore	VVD
 was	VVD
 elegant	JJ
+
 The	AT
 story	NN
 that	WPR
@@ -338,6 +377,7 @@ he	PRP
 told	VVD
 was	VVD
 captivating	VV0
+
 The	AT
 laptop	NN
 that	WPR
@@ -347,6 +387,7 @@ for	IN
 work	NN
 is	VV0
 reliable	JJ
+
 The	AT
 car	NN
 that	WPR
@@ -355,6 +396,7 @@ rented	VVD
 was	VVD
 very	RB
 efficient	JJ
+
 The	AT
 teacher	NN
 that	WPR
@@ -363,6 +405,7 @@ students	NNS
 is	VV0
 very	RB
 supportive	JJ
+
 The	AT
 song	NN
 that	WPR
@@ -371,6 +414,7 @@ danced	VVD
 to	TO
 was	VVD
 upbeat	JJ
+
 The	AT
 building	NN
 that	WPR
@@ -379,6 +423,7 @@ the	AT
 museum	NN
 is	VV0
 modern	JJ
+
 The	AT
 garden	NN
 that	WPR
@@ -387,6 +432,7 @@ the	AT
 house	NN
 is	VV0
 well‑maintained	VV0
+
 The	AT
 phone	NN
 that	WPR
@@ -396,6 +442,7 @@ is	VV0
 the	AT
 latest	JJ
 model	NN
+
 The	AT
 painting	NN
 that	WPR
@@ -404,6 +451,7 @@ the	AT
 sunset	NN
 is	VV0
 beautiful	JJ
+
 The	AT
 book	NN
 that	WPR
@@ -414,6 +462,7 @@ the	AT
 library	NN
 is	VV0
 overdue	JJ
+
 The	AT
 film	NN
 that	WPR
@@ -422,6 +471,7 @@ directed	VVD
 received	JJ
 critical	JJ
 acclaim	NN
+
 The	AT
 plant	NN
 that	WPR
@@ -429,6 +479,7 @@ she	PRP
 watered	VVD
 grew	VVD
 rapidly	RB
+
 The	AT
 bike	NN
 that	WPR
@@ -436,13 +487,15 @@ he	PRP
 rides	VV0
 is	VV0
 red	JJ
+
 The	AT
 gift	NN
 that	WPR
 I	PRP
 received	VVD
 was	VVD
-unexpected	VV0
+unexpected	JJ
+
 The	AT
 room	NN
 that	WPR
@@ -450,6 +503,7 @@ we	PRP
 decorated	VVD
 is	VV0
 cozy	JJ
+
 The	AT
 watch	NN
 that	WPR
@@ -458,13 +512,15 @@ gave	VVD
 me	PRP
 is	VV0
 valuable	JJ
+
 The	AT
 letter	NN
 that	WPR
 I	PRP
 wrote	VVD
 was	VVD
-sincere	RB
+sincere	JJ
+
 The	AT
 jacket	NN
 that	WPR
@@ -472,7 +528,8 @@ she	PRP
 wore	VVD
 kept	VVD
 her	PRP
-warm	VVD
+warm	NN
+
 The	AT
 song	NN
 that	WPR
@@ -482,6 +539,7 @@ the	AT
 background	NN
 is	VV0
 soothing	VV0
+
 The	AT
 picture	NN
 that	WPR
@@ -491,6 +549,7 @@ the	AT
 wall	NN
 is	VV0
 memorable	JJ
+
 The	AT
 job	NN
 that	WPR
@@ -499,6 +558,7 @@ applied	VVD
 for	IN
 is	VV0
 competitive	JJ
+
 The	AT
 article	NN
 that	WPR
@@ -506,6 +566,7 @@ she	PRP
 published	VVD
 was	VVD
 informative	JJ
+
 The	AT
 road	NN
 that	WPR
@@ -515,6 +576,7 @@ the	AT
 village	NN
 is	VV0
 narrow	JJ
+
 The	AT
 house	NN
 that	WPR
@@ -525,6 +587,7 @@ in	IN
 holds	VV0
 many	JJ
 memories	NNS
+
 The	AT
 party	NN
 that	WPR
@@ -534,6 +597,7 @@ was	VVD
 a	AT
 huge	JJ
 success	NN
+
 The	AT
 sandwich	NN
 that	WPR
@@ -541,6 +605,7 @@ I	PRP
 ate	VV0
 was	VVD
 delicious	JJ
+
 The	AT
 idea	NN
 that	WPR
@@ -548,6 +613,7 @@ he	PRP
 suggested	VVD
 was	VVD
 innovative	JJ
+
 The	AT
 project	NN
 that	WPR
@@ -555,13 +621,15 @@ we	PRP
 completed	VVD
 was	VVD
 challenging	VV0
+
 The	AT
 meal	NN
 that	WPR
 she	PRP
 prepared	VVD
 was	VVD
-exquisite	RB
+exquisite	JJ
+
 The	AT
 car	NN
 that	WPR
@@ -569,13 +637,15 @@ he	PRP
 drives	VV0
 is	VV0
 fuel‑efficient	JJ
+
 The	AT
 decision	NN
 that	WPR
 they	PRP
 made	VVD
 was	VVD
-surprising	VV0
+surprising	JJ
+
 The	AT
 tool	NN
 that	WPR
@@ -585,6 +655,7 @@ is	VV0
 on	IN
 the	AT
 shelf	NN
+
 The	AT
 bridge	NN
 that	WPR
@@ -594,6 +665,7 @@ two	CD
 cities	NNS
 is	VV0
 old	JJ
+
 The	AT
 bird	NN
 that	WPR
@@ -602,6 +674,7 @@ every	AT
 morning	NN
 is	VV0
 cheerful	JJ
+
 The	AT
 movie	NN
 that	WPR
@@ -611,6 +684,7 @@ actor	NN
 is	VV0
 a	AT
 comedy	NN
+
 The	AT
 photograph	NN
 that	WPR
@@ -620,6 +694,7 @@ captures	VV0
 the	AT
 moment	NN
 perfectly	RB
+
 The	AT
 chair	NN
 that	WPR
@@ -629,6 +704,7 @@ the	AT
 corner	NN
 is	VV0
 antique	JJ
+
 The	AT
 song	NN
 that	WPR
@@ -638,6 +714,7 @@ of	IN
 summer	NN
 is	VV0
 playing	VV0
+
 The	AT
 coffee	NN
 that	WPR
@@ -646,6 +723,7 @@ ordered	VVD
 was	VVD
 too	RB
 hot	JJ
+
 The	AT
 book	NN
 that	WPR
@@ -655,6 +733,7 @@ is	VV0
 on	IN
 the	AT
 table	NN
+
 The	AT
 letter	NN
 that	WPR
@@ -665,6 +744,7 @@ is	VV0
 from	IN
 my	PRP
 friend	NN
+
 The	AT
 dog	NN
 that	WPR
@@ -674,6 +754,7 @@ ball	NN
 is	VV0
 very	RB
 playful	JJ
+
 The	AT
 plant	NN
 that	WPR
@@ -684,6 +765,7 @@ pot	NN
 is	VV0
 a	AT
 fern	JJ
+
 The	AT
 house	NN
 that	WPR
@@ -692,6 +774,7 @@ the	AT
 lake	NN
 is	VV0
 charming	VV0
+
 The	AT
 shirt	NN
 that	WPR
@@ -700,6 +783,7 @@ wore	VVD
 yesterday	NN
 was	VVD
 colorful	JJ
+
 The	AT
 gift	NN
 that	WPR
@@ -707,6 +791,7 @@ you	PRP
 sent	VVD
 was	VVD
 thoughtful	JJ
+
 The	AT
 movie	NN
 that	WPR
@@ -716,6 +801,7 @@ was	VVD
 full	JJ
 of	IN
 suspense	NN
+
 The	AT
 car	NN
 that	WPR
@@ -725,6 +811,7 @@ my	PRP
 neighbor	NN
 is	VV0
 new	JJ
+
 The	AT
 story	NN
 that	WPR
@@ -732,6 +819,7 @@ she	PRP
 narrated	VVD
 was	VVD
 inspiring	VV0
+
 The	AT
 lesson	NN
 that	WPR
@@ -739,13 +827,15 @@ we	PRP
 learned	VVD
 was	VVD
 important	JJ
+
 The	AT
 cake	NN
 that	WPR
 she	PRP
 decorated	VVD
 looked	VVD
-stunning	VV0
+stunning	JJ
+
 The	AT
 park	NN
 that	WPR
@@ -756,6 +846,7 @@ every	AT
 evening	NN
 is	VV0
 peaceful	JJ
+
 The	AT
 artist	NN
 that	WPR
@@ -764,6 +855,7 @@ that	WPR
 mural	JJ
 is	VV0
 talented	VV0
+
 The	AT
 museum	NN
 that	WPR
@@ -772,6 +864,7 @@ ancient	JJ
 artifacts	NNS
 is	VV0
 impressive	JJ
+
 The	AT
 road	NN
 that	WPR
@@ -781,6 +874,7 @@ the	AT
 forest	NN
 is	VV0
 winding	VV0
+
 The	AT
 chair	NN
 that	WPR
@@ -789,6 +883,7 @@ sat	VVD
 in	IN
 was	VVD
 uncomfortable	JJ
+
 The	AT
 phone	NN
 that	WPR
@@ -797,6 +892,7 @@ lost	VVD
 is	VV0
 now	RB
 found	VV0
+
 The	AT
 song	NN
 that	WPR
@@ -805,6 +901,7 @@ composed	VVD
 is	VV0
 very	RB
 catchy	JJ
+
 The	AT
 river	NN
 that	WPR
@@ -814,12 +911,14 @@ the	AT
 town	NN
 is	VV0
 polluted	VV0
+
 The	AT
 building	NN
 that	WPR
 collapsed	VVD
 was	VVD
 old	JJ
+
 The	AT
 student	NN
 that	WPR
@@ -828,6 +927,7 @@ hard	JJ
 gets	VV0
 good	JJ
 grades	NNS
+
 The	AT
 teacher	NN
 that	WPR
@@ -836,6 +936,7 @@ her	PRP
 students	NNS
 is	VV0
 beloved	VV0
+
 The	AT
 novel	NN
 that	WPR
@@ -844,6 +945,7 @@ wrote	VVD
 became	VVD
 a	AT
 classic	JJ
+
 The	AT
 computer	NN
 that	WPR
@@ -854,6 +956,7 @@ the	AT
 desk	NN
 is	VV0
 new	JJ
+
 The	AT
 window	NN
 that	WPR
@@ -862,6 +965,7 @@ the	AT
 garden	NN
 is	VV0
 open	JJ
+
 The	AT
 letter	NN
 that	WPR
@@ -869,6 +973,7 @@ she	PRP
 mailed	VVD
 reached	VVD
 quickly	RB
+
 The	AT
 jacket	NN
 that	WPR
@@ -878,6 +983,7 @@ during	IN
 winter	NN
 is	VV0
 warm	JJ
+
 The	AT
 car	NN
 that	WPR
@@ -886,6 +992,7 @@ admire	VV0
 is	VV0
 parked	VV0
 outside	IN
+
 The	AT
 food	NN
 that	WPR
@@ -893,6 +1000,7 @@ they	PRP
 served	VVD
 was	VVD
 delicious	JJ
+
 The	AT
 movie	NN
 that	WPR
@@ -902,6 +1010,7 @@ night	NN
 was	VVD
 a	AT
 hit	NN
+
 The	AT
 game	NN
 that	WPR
@@ -909,6 +1018,7 @@ we	PRP
 played	VVD
 was	VVD
 challenging	VV0
+
 The	AT
 house	NN
 that	WPR
@@ -918,6 +1028,7 @@ for	IN
 vacation	NN
 was	VVD
 spacious	JJ
+
 The	AT
 coffee	NN
 that	WPR
@@ -927,6 +1038,7 @@ every	AT
 morning	NN
 is	VV0
 strong	JJ
+
 The	AT
 book	NN
 that	WPR
@@ -935,6 +1047,7 @@ reads	VV0
 is	VV0
 a	AT
 mystery	NN
+
 The	AT
 cat	NN
 that	WPR
@@ -943,6 +1056,7 @@ at	IN
 night	NN
 is	VV0
 black	JJ
+
 The	AT
 picture	NN
 that	WPR
@@ -950,6 +1064,7 @@ he	PRP
 painted	VVD
 is	VV0
 abstract	JJ
+
 The	AT
 road	NN
 that	WPR
@@ -957,7 +1072,8 @@ we	PRP
 drove	VVD
 on	IN
 was	VVD
-bumpy	VV0
+bumpy	NN
+
 The	AT
 building	NN
 that	WPR
@@ -966,6 +1082,7 @@ the	AT
 library	NN
 is	VV0
 old	JJ
+
 The	AT
 song	NN
 that	WPR
@@ -974,6 +1091,7 @@ band	NN
 played	VVD
 was	VVD
 energetic	JJ
+
 The	AT
 dessert	NN
 that	WPR
@@ -981,6 +1099,7 @@ they	PRP
 made	VVD
 was	VVD
 scrumptious	JJ
+
 The	AT
 story	NN
 that	WPR
@@ -988,6 +1107,7 @@ he	PRP
 shared	VVD
 was	VVD
 funny	JJ
+
 The	AT
 chair	NN
 that	WPR
@@ -995,6 +1115,7 @@ she	PRP
 bought	VVD
 is	VV0
 comfortable	JJ
+
 The	AT
 park	NN
 that	WPR
@@ -1004,6 +1125,7 @@ is	VV0
 full	JJ
 of	IN
 life	NN
+
 The	AT
 watch	NN
 that	WPR
@@ -1011,6 +1133,7 @@ he	PRP
 wears	VV0
 is	VV0
 stylish	JJ
+
 The	AT
 computer	NN
 that	WPR
@@ -1019,6 +1142,7 @@ fixed	VV0
 is	VV0
 working	VV0
 now	RB
+
 The	AT
 movie	NN
 that	WPR
@@ -1026,6 +1150,7 @@ she	PRP
 directed	VVD
 is	VV0
 award‑winning	VV0
+
 The	AT
 food	NN
 that	WPR
@@ -1033,13 +1158,15 @@ you	PRP
 cooked	VVD
 smells	NNS
 amazing	VV0
+
 The	AT
 picture	NN
 that	WPR
 he	PRP
 took	VVD
 is	VV0
-blurry	IN
+blurry	JJ
+
 The	AT
 river	NN
 that	WPR
@@ -1049,6 +1176,7 @@ the	AT
 city	NN
 is	VV0
 majestic	JJ
+
 The	AT
 house	NN
 that	WPR
@@ -1056,6 +1184,7 @@ they	PRP
 built	VV0
 is	VV0
 eco‑friendly	RB
+
 The	AT
 book	NN
 that	WPR
@@ -1063,6 +1192,7 @@ you	PRP
 recommended	VVD
 is	VV0
 fascinating	VV0
+
 The	AT
 letter	NN
 that	WPR
@@ -1070,6 +1200,7 @@ I	PRP
 received	VVD
 was	VVD
 handwritten	VV0
+
 The	AT
 cake	NN
 that	WPR
@@ -1078,6 +1209,7 @@ baked	VVD
 was	VVD
 a	AT
 masterpiece	NN
+
 The	AT
 car	NN
 that	WPR
@@ -1085,6 +1217,7 @@ he	PRP
 owns	VV0
 is	VV0
 vintage	NN
+
 The	AT
 song	NN
 that	WPR
@@ -1093,6 +1226,7 @@ sang	VVD
 is	VV0
 our	PRP
 favorite	JJ
+
 The	AT
 teacher	NN
 that	WPR
@@ -1100,6 +1234,7 @@ mentors	NNS
 students	NNS
 is	VV0
 dedicated	VV0
+
 The	AT
 chair	NN
 that	WPR
@@ -1109,6 +1244,7 @@ sitting	VV0
 on	IN
 is	VV0
 broken	VV0
+
 The	AT
 park	NN
 that	WPR
@@ -1116,7 +1252,8 @@ surrounds	VV0
 the	AT
 building	NN
 is	VV0
-well‑kept	IN
+well‑kept	JJ
+
 The	AT
 painting	NN
 that	WPR
@@ -1126,13 +1263,15 @@ is	VV0
 in	IN
 a	AT
 museum	NN
+
 The	AT
 novel	NN
 that	WPR
 he	PRP
 published	VVD
-received	VV0
-praise	RB
+received	JJ
+praise	NN
+
 The	AT
 computer	NN
 that	WPR
@@ -1141,6 +1280,7 @@ slowly	RB
 needs	VV0
 an	AT
 upgrade	NN
+
 The	AT
 movie	NN
 that	WPR
@@ -1150,6 +1290,7 @@ is	VV0
 now	RB
 a	AT
 classic	JJ
+
 The	AT
 phone	NN
 that	WPR
@@ -1158,6 +1299,7 @@ lost	VVD
 is	VV0
 now	RB
 replaced	VV0
+
 The	AT
 building	NN
 that	WPR
@@ -1165,6 +1307,7 @@ we	PRP
 entered	VVD
 is	VV0
 secure	JJ
+
 The	AT
 cake	NN
 that	WPR
@@ -1173,6 +1316,7 @@ ordered	VVD
 was	VVD
 too	RB
 sweet	JJ
+
 The	AT
 song	NN
 that	WPR
@@ -1182,6 +1326,7 @@ the	AT
 car	NN
 is	VV0
 relaxing	VV0
+
 The	AT
 garden	NN
 that	WPR
@@ -1189,6 +1334,7 @@ we	PRP
 tend	VV0
 is	VV0
 blooming	VV0
+
 The	AT
 house	NN
 that	WPR
@@ -1201,6 +1347,7 @@ the	AT
 street	NN
 is	VV0
 historic	JJ
+
 The	AT
 teacher	NN
 that	WPR
@@ -1208,6 +1355,7 @@ instructs	VV0
 us	PRP
 is	VV0
 patient	JJ
+
 The	AT
 book	NN
 that	WPR
@@ -1215,6 +1363,7 @@ she	PRP
 wrote	VVD
 is	VV0
 inspiring	VV0
+
 The	AT
 chair	NN
 that	WPR
@@ -1222,6 +1371,7 @@ he	PRP
 repaired	VVD
 is	VV0
 sturdy	JJ
+
 The	AT
 dress	NN
 that	WPR
@@ -1229,6 +1379,7 @@ she	PRP
 wore	VVD
 was	VVD
 elegant	JJ
+
 The	AT
 phone	NN
 that	WPR
@@ -1236,6 +1387,7 @@ he	PRP
 answered	VVD
 is	VV0
 ringing	VV0
+
 The	AT
 road	NN
 that	WPR
@@ -1243,6 +1395,7 @@ we	PRP
 traveled	VVD
 was	VVD
 scenic	JJ
+
 The	AT
 museum	NN
 that	WPR
@@ -1251,6 +1404,7 @@ modern	JJ
 art	NN
 is	VV0
 popular	JJ
+
 The	AT
 car	NN
 that	WPR
@@ -1259,6 +1413,7 @@ drove	VVD
 was	VVD
 a	AT
 convertible	JJ
+
 The	AT
 song	NN
 that	WPR
@@ -1266,6 +1421,7 @@ you	PRP
 hum	VV0
 is	VV0
 catchy	JJ
+
 The	AT
 letter	NN
 that	WPR
@@ -1274,6 +1430,7 @@ by	IN
 post	NN
 is	VV0
 important	JJ
+
 The	AT
 coffee	NN
 that	WPR
@@ -1282,6 +1439,7 @@ brewed	VVD
 is	VV0
 still	RB
 hot	JJ
+
 The	AT
 movie	NN
 that	WPR
@@ -1291,6 +1449,7 @@ is	VV0
 on	IN
 my	PRP
 list	NN
+
 The	AT
 park	NN
 that	WPR
@@ -1300,6 +1459,7 @@ was	VVD
 full	JJ
 of	IN
 laughter	NN
+
 The	AT
 computer	NN
 that	WPR
@@ -1307,7 +1467,8 @@ she	PRP
 fixed	VVD
 is	VV0
 now	RB
-updated	VV0
+updated	JJ
+
 The	AT
 house	NN
 that	WPR
@@ -1315,6 +1476,7 @@ he	PRP
 designed	VVD
 is	VV0
 unique	JJ
+
 The	AT
 book	NN
 that	WPR
@@ -1323,6 +1485,7 @@ lent	VV0
 me	PRP
 was	VVD
 thrilling	VV0
+
 The	AT
 car	NN
 that	WPR
@@ -1330,6 +1493,7 @@ they	PRP
 showcased	VVD
 is	VV0
 futuristic	JJ
+
 The	AT
 song	NN
 that	WPR
@@ -1337,6 +1501,7 @@ she	PRP
 sings	VV0
 is	VV0
 beautiful	JJ
+
 The	AT
 teacher	NN
 that	WPR
@@ -1344,6 +1509,7 @@ helped	VVD
 me	PRP
 was	VVD
 kind	NN
+
 The	AT
 chair	NN
 that	WPR
@@ -1351,6 +1517,7 @@ you	PRP
 chose	VV0
 is	VV0
 comfortable	JJ
+
 The	AT
 movie	NN
 that	WPR
@@ -1359,6 +1526,7 @@ the	AT
 prize	NN
 was	VVD
 unforgettable	JJ
+
 The	AT
 garden	NN
 that	WPR
@@ -1366,6 +1534,7 @@ she	PRP
 planted	VVD
 is	VV0
 vibrant	JJ
+
 The	AT
 computer	NN
 that	WPR
@@ -1373,6 +1542,7 @@ you	PRP
 bought	VVD
 is	VV0
 expensive	JJ
+
 The	AT
 painting	NN
 that	WPR
@@ -1381,13 +1551,15 @@ restored	VVD
 is	VV0
 now	RB
 vibrant	JJ
+
 The	AT
 cake	NN
 that	WPR
 she	PRP
 decorated	VVD
 looked	VVD
-amazing	VV0
+amazing	JJ
+
 The	AT
 road	NN
 that	WPR
@@ -1397,6 +1569,7 @@ the	AT
 valley	NN
 is	VV0
 dangerous	JJ
+
 The	AT
 house	NN
 that	WPR
@@ -1407,6 +1580,7 @@ in	IN
 holds	VV0
 many	JJ
 memories	NNS
+
 The	AT
 book	NN
 that	WPR
@@ -1415,6 +1589,7 @@ translated	VVD
 is	VV0
 a	AT
 masterpiece	NN
+
 The	AT
 car	NN
 that	WPR
@@ -1422,6 +1597,7 @@ she	PRP
 drives	VV0
 is	VV0
 energy‑efficient	JJ
+
 The	AT
 song	NN
 that	WPR
@@ -1429,6 +1605,7 @@ they	PRP
 composed	VVD
 is	VV0
 mesmerizing	VV0
+
 The	AT
 teacher	NN
 that	WPR
@@ -1436,6 +1613,7 @@ inspires	VV0
 me	PRP
 is	VV0
 unforgettable	JJ
+
 The	AT
 chair	NN
 that	WPR
@@ -1443,6 +1621,7 @@ she	PRP
 carved	VVD
 is	VV0
 handcrafted	VV0
+
 The	AT
 park	NN
 that	WPR
@@ -1451,6 +1630,7 @@ stroll	VV0
 in	IN
 is	VV0
 quiet	JJ
+
 The	AT
 computer	NN
 that	WPR
@@ -1458,6 +1638,7 @@ he	PRP
 upgraded	VVD
 is	VV0
 faster	RB
+
 The	AT
 movie	NN
 that	WPR
@@ -1465,6 +1646,7 @@ they	PRP
 premiered	VVD
 was	VVD
 innovative	JJ
+
 The	AT
 phone	NN
 that	WPR
@@ -1473,6 +1655,7 @@ are	VV0
 using	VV0
 is	VV0
 new	JJ
+
 The	AT
 building	NN
 that	WPR
@@ -1480,6 +1663,7 @@ he	PRP
 constructed	VVD
 is	VV0
 impressive	JJ
+
 The	AT
 letter	NN
 that	WPR
@@ -1487,6 +1671,7 @@ I	PRP
 sent	VVD
 arrived	VV0
 yesterday	NN
+
 The	AT
 cake	NN
 that	WPR
@@ -1495,6 +1680,7 @@ made	VVD
 was	VVD
 too	RB
 rich	JJ
+
 The	AT
 song	NN
 that	WPR
@@ -1505,13 +1691,15 @@ the	AT
 wedding	NN
 was	VVD
 emotional	JJ
+
 The	AT
 teacher	NN
 that	WPR
 I	PRP
 respect	VV0
 is	VV0
-experienced	VV0
+experienced	JJ
+
 The	AT
 book	NN
 that	WPR
@@ -1519,6 +1707,7 @@ she	PRP
 annotated	VVD
 is	VV0
 intriguing	VV0
+
 The	AT
 car	NN
 that	WPR
@@ -1527,6 +1716,7 @@ restored	VVD
 looks	NNS
 brand	NN
 new	JJ
+
 The	AT
 movie	NN
 that	WPR
@@ -1534,6 +1724,7 @@ you	PRP
 suggested	VVD
 is	VV0
 entertaining	VV0
+
 The	AT
 house	NN
 that	WPR
@@ -1542,6 +1733,7 @@ admired	VVD
 is	VV0
 under	IN
 renovation	NN
+
 The	AT
 garden	NN
 that	WPR
@@ -1549,6 +1741,7 @@ he	PRP
 tended	VVD
 is	VV0
 flourishing	VV0
+
 The	AT
 computer	NN
 that	WPR
@@ -1557,6 +1750,7 @@ use	VV0
 daily	JJ
 is	VV0
 reliable	JJ
+
 The	AT
 painting	NN
 that	WPR
@@ -1564,6 +1758,7 @@ she	PRP
 exhibited	VVD
 is	VV0
 abstract	JJ
+
 The	AT
 letter	NN
 that	WPR
@@ -1573,6 +1768,7 @@ is	VV0
 from	IN
 my	PRP
 cousin	NN
+
 The	AT
 cake	NN
 that	WPR
@@ -1580,6 +1776,7 @@ he	PRP
 ordered	VVD
 was	VVD
 oversized	VV0
+
 The	AT
 song	NN
 that	WPR
@@ -1588,6 +1785,7 @@ love	VV0
 never	RB
 gets	VV0
 old	JJ
+
 The	AT
 teacher	NN
 that	WPR
@@ -1595,6 +1793,7 @@ supports	VV0
 us	PRP
 is	VV0
 understanding	VV0
+
 The	AT
 chair	NN
 that	WPR
@@ -1605,6 +1804,7 @@ as	RB
 good	JJ
 as	IN
 new	JJ
+
 The	AT
 house	NN
 that	WPR
@@ -1615,6 +1815,7 @@ in	IN
 a	AT
 quiet	JJ
 neighborhood	NN
+
 The	AT
 book	NN
 that	WPR
@@ -1623,7 +1824,8 @@ recommended	VVD
 is	VV0
 a	AT
 mystery	NN
-novel	IN
+novel	NN
+
 The	AT
 car	NN
 that	WPR
@@ -1632,6 +1834,7 @@ leased	VVD
 is	VV0
 parked	VV0
 outside	IN
+
 The	AT
 movie	NN
 that	WPR
@@ -1639,7 +1842,8 @@ won	VVD
 awards	NNS
 is	VV0
 playing	VV0
-tonight	IN
+tonight	NN
+
 The	AT
 teacher	NN
 that	WPR
@@ -1647,6 +1851,7 @@ instructed	VVD
 us	PRP
 was	VVD
 enthusiastic	JJ
+
 The	AT
 song	NN
 that	WPR
@@ -1657,6 +1862,7 @@ the	AT
 guitar	NN
 is	VV0
 soothing	VV0
+
 The	AT
 garden	NN
 that	WPR
@@ -1666,6 +1872,7 @@ every	AT
 spring	NN
 is	VV0
 blooming	VV0
+
 The	AT
 computer	NN
 that	WPR
@@ -1673,6 +1880,7 @@ he	PRP
 assembled	VVD
 is	VV0
 state‑of‑the‑art	JJ
+
 The	AT
 letter	NN
 that	WPR
@@ -1682,6 +1890,7 @@ was	VVD
 filled	VV0
 with	IN
 love	NN
+
 The	AT
 cake	NN
 that	WPR
@@ -1692,6 +1901,7 @@ her	PRP
 birthday	NN
 was	VVD
 delightful	JJ
+
 The	AT
 teacher	NN
 that	WPR
@@ -1699,6 +1909,7 @@ educates	VV0
 us	PRP
 is	VV0
 inspiring	VV0
+
 The	AT
 house	NN
 that	WPR
@@ -1706,6 +1917,7 @@ they	PRP
 built	VV0
 is	VV0
 eco‑friendly	RB
+
 The	AT
 book	NN
 that	WPR
@@ -1715,6 +1927,7 @@ is	VV0
 available	JJ
 in	IN
 stores	NNS
+
 The	AT
 car	NN
 that	WPR
@@ -1723,6 +1936,7 @@ admired	VVD
 is	VV0
 a	AT
 classic	JJ
+
 The	AT
 movie	NN
 that	WPR
@@ -1732,6 +1946,7 @@ was	VVD
 filled	VV0
 with	IN
 drama	NN
+
 The	AT
 teacher	NN
 that	WPR
@@ -1740,7 +1955,8 @@ the	AT
 seminar	NN
 is	VV0
 an	AT
-expert	JJ
+expert	NN
+
 The	AT
 chair	NN
 that	WPR
@@ -1751,6 +1967,7 @@ the	AT
 door	NN
 is	VV0
 reserved	VV0
+
 The	AT
 park	NN
 that	WPR
@@ -1759,6 +1976,7 @@ frequent	VV0
 is	VV0
 very	RB
 peaceful	JJ
+
 The	AT
 computer	NN
 that	WPR
@@ -1767,6 +1985,7 @@ uses	VV0
 is	VV0
 brand	NN
 new	JJ
+
 The	AT
 letter	NN
 that	WPR
@@ -1775,6 +1994,7 @@ last	JJ
 week	NN
 is	VV0
 important	JJ
+
 The	AT
 cake	NN
 that	WPR
@@ -1783,6 +2003,7 @@ prepared	VVD
 was	VVD
 beautifully	RB
 decorated	VV0
+
 The	AT
 song	NN
 that	WPR
@@ -1791,6 +2012,7 @@ performed	VVD
 was	VVD
 a	AT
 hit	NN
+
 The	AT
 teacher	NN
 that	WPR
@@ -1801,6 +2023,7 @@ to	TO
 is	VV0
 very	RB
 knowledgeable	JJ
+
 The	AT
 house	NN
 that	WPR
@@ -1810,6 +2033,7 @@ by	IN
 is	VV0
 for	IN
 sale	NN
+
 The	AT
 book	NN
 that	WPR
@@ -1820,6 +2044,7 @@ on	IN
 my	PRP
 reading	NN
 list	NN
+
 The	AT
 car	NN
 that	WPR
@@ -1828,6 +2053,7 @@ borrowed	VVD
 was	VVD
 fully	RB
 charged	VV0
+
 The	AT
 movie	NN
 that	WPR
@@ -1835,7 +2061,8 @@ won	VVD
 my	PRP
 heart	NN
 is	VV0
-timeless	IN
+timeless	JJ
+
 The	AT
 teacher	NN
 that	WPR
@@ -1843,13 +2070,15 @@ motivates	VV0
 students	NNS
 is	VV0
 admirable	JJ
+
 The	AT
 chair	NN
 that	WPR
 you	PRP
 built	VV0
 is	VV0
-handmade	VV0
+handmade	JJ
+
 The	AT
 park	NN
 that	WPR
@@ -1860,6 +2089,7 @@ full	JJ
 of	IN
 tall	JJ
 trees	NNS
+
 The	AT
 computer	NN
 that	WPR
@@ -1868,6 +2098,7 @@ uses	VV0
 is	VV0
 very	RB
 modern	JJ
+
 The	AT
 letter	NN
 that	WPR
@@ -1876,6 +2107,7 @@ received	VVD
 contained	VV0
 good	JJ
 news	NN
+
 The	AT
 cake	NN
 that	WPR
@@ -1884,6 +2116,7 @@ shared	VVD
 was	VVD
 absolutely	RB
 scrumptious	JJ
+
 The	AT
 song	NN
 that	WPR
@@ -1892,6 +2125,7 @@ composed	VVD
 touched	JJ
 my	PRP
 heart	NN
+
 The	AT
 teacher	NN
 that	WPR
@@ -1900,6 +2134,7 @@ me	PRP
 is	VV0
 very	RB
 patient	JJ
+
 The	AT
 house	NN
 that	WPR
@@ -1909,6 +2144,7 @@ the	AT
 hill	NN
 is	VV0
 breathtaking	VV0
+
 The	AT
 book	NN
 that	WPR
@@ -1917,6 +2153,7 @@ published	VVD
 is	VV0
 critically	RB
 acclaimed	VV0
+
 The	AT
 car	NN
 that	WPR
@@ -1925,6 +2162,7 @@ drives	VV0
 is	VV0
 extremely	RB
 reliable	JJ
+
 The	AT
 movie	NN
 that	WPR
@@ -1934,6 +2172,7 @@ last	JJ
 week	NN
 was	VVD
 funny	JJ
+
 The	AT
 teacher	NN
 that	WPR
@@ -1944,6 +2183,7 @@ is	VV0
 still	RB
 my	PRP
 mentor	NN
+
 The	AT
 chair	NN
 that	WPR
@@ -1954,6 +2194,7 @@ the	AT
 workshop	NN
 is	VV0
 sturdy	JJ
+
 The	AT
 park	NN
 that	WPR
@@ -1963,6 +2204,7 @@ last	JJ
 weekend	NN
 is	VV0
 spacious	JJ
+
 The	AT
 computer	NN
 that	WPR
@@ -1970,6 +2212,7 @@ he	PRP
 assembled	VVD
 works	VV0
 perfectly	RB
+
 The	AT
 letter	NN
 that	WPR
@@ -1979,6 +2222,7 @@ was	VVD
 full	JJ
 of	IN
 hope	NN
+
 The	AT
 cake	NN
 that	WPR
@@ -1986,7 +2230,8 @@ she	PRP
 decorated	VVD
 had	VVD
 beautiful	JJ
-icing	VV0
+icing	NN
+
 The	AT
 song	NN
 that	WPR
@@ -1995,6 +2240,7 @@ composed	VVD
 is	VV0
 now	RB
 popular	JJ
+
 The	AT
 teacher	NN
 that	WPR
@@ -2003,6 +2249,7 @@ us	PRP
 is	VV0
 highly	RB
 respected	VV0
+
 The	AT
 house	NN
 that	WPR
@@ -2012,7 +2259,8 @@ from	IN
 afar	NN
 is	VV0
 now	RB
-ours	VV0
+ours	JJ
+
 The	AT
 book	NN
 that	WPR
@@ -2023,6 +2271,7 @@ a	AT
 work	NN
 of	IN
 art	NN
+
 The	AT
 car	NN
 that	WPR
@@ -2030,6 +2279,7 @@ he	PRP
 customized	VVD
 looks	VV0
 spectacular	JJ
+
 The	AT
 movie	NN
 that	WPR
@@ -2039,6 +2289,7 @@ on	IN
 Friday	NN
 was	VVD
 hilarious	JJ
+
 The	AT
 teacher	NN
 that	WPR
@@ -2047,6 +2298,7 @@ science	NN
 is	VV0
 very	RB
 knowledgeable	JJ
+
 The	AT
 chair	NN
 that	WPR
@@ -2055,6 +2307,7 @@ ordered	VVD
 fits	VV0
 the	AT
 room	NN
+
 The	AT
 park	NN
 that	WPR
@@ -2065,6 +2318,7 @@ the	AT
 evenings	NNS
 is	VV0
 quiet	JJ
+
 The	AT
 computer	NN
 that	WPR
@@ -2073,6 +2327,7 @@ repaired	VVD
 performs	NNS
 better	RB
 now	RB
+
 The	AT
 letter	NN
 that	WPR
@@ -2081,6 +2336,7 @@ sent	VVD
 arrived	VV0
 on	IN
 time	NN
+
 The	AT
 cake	NN
 that	WPR
@@ -2092,6 +2348,7 @@ celebration	NN
 was	VVD
 a	AT
 hit	NN
+
 The	AT
 song	NN
 that	WPR
@@ -2100,6 +2357,7 @@ listened	VVD
 to	TO
 was	VVD
 uplifting	VV0
+
 The	AT
 teacher	NN
 that	WPR
@@ -2108,6 +2366,7 @@ appreciate	VV0
 is	VV0
 very	RB
 dedicated	JJ
+
 The	AT
 house	NN
 that	WPR
@@ -2116,7 +2375,8 @@ designed	VVD
 is	VV0
 full	JJ
 of	IN
-light	JJ
+light	NN
+
 The	AT
 book	NN
 that	WPR
@@ -2125,6 +2385,7 @@ wrote	VVD
 became	VVD
 a	AT
 bestseller	NN
+
 The	AT
 car	NN
 that	WPR
@@ -2133,6 +2394,7 @@ borrowed	VVD
 is	VV0
 now	RB
 returned	VV0
+
 The	AT
 movie	NN
 that	WPR
@@ -2141,6 +2403,7 @@ discussed	VVD
 was	VVD
 quite	RB
 thrilling	VV0
+
 The	AT
 teacher	NN
 that	WPR
@@ -2148,7 +2411,8 @@ taught	VVD
 us	PRP
 was	VVD
 very	RB
-inspiring	VV0
+inspiring	JJ
+
 The	AT
 chair	NN
 that	WPR
@@ -2157,6 +2421,7 @@ fixed	VV0
 is	VV0
 almost	RB
 new	JJ
+
 The	AT
 park	NN
 that	WPR
@@ -2167,6 +2432,7 @@ just	RB
 around	IN
 the	AT
 corner	NN
+
 The	AT
 computer	NN
 that	WPR
@@ -2175,6 +2441,7 @@ uses	VV0
 is	VV0
 very	RB
 efficient	JJ
+
 The	AT
 letter	NN
 that	WPR
@@ -2183,6 +2450,7 @@ sent	VVD
 was	VVD
 answered	VV0
 promptly	RB
+
 The	AT
 cake	NN
 that	WPR
@@ -2193,6 +2461,7 @@ the	AT
 event	NN
 was	VVD
 perfect	JJ
+
 The	AT
 song	NN
 that	WPR
@@ -2202,13 +2471,15 @@ is	VV0
 on	IN
 the	AT
 radio	NN
+
 The	AT
 teacher	NN
 that	WPR
 I	PRP
 admire	VV0
 encourages	NNS
-creativity	VV0
+creativity	NN
+
 The	AT
 house	NN
 that	WPR
@@ -2218,6 +2489,7 @@ has	VV0
 a	AT
 beautiful	JJ
 garden	NN
+
 The	AT
 book	NN
 that	WPR
@@ -2227,6 +2499,7 @@ was	VVD
 full	JJ
 of	IN
 suspense	NN
+
 The	AT
 car	NN
 that	WPR
@@ -2236,6 +2509,7 @@ is	VV0
 a	AT
 sports	NNS
 model	NN
+
 The	AT
 movie	NN
 that	WPR
@@ -2245,6 +2519,7 @@ award	NN
 is	VV0
 a	AT
 masterpiece	NN
+
 The	AT
 teacher	NN
 that	WPR
@@ -2252,7 +2527,8 @@ guides	VV0
 our	PRP
 class	NN
 is	VV0
-friendly	RB
+friendly	JJ
+
 The	AT
 chair	NN
 that	WPR
@@ -2262,7 +2538,8 @@ in	IN
 the	AT
 office	NN
 is	VV0
-sturdy	PDT
+sturdy	JJ
+
 The	AT
 park	NN
 that	WPR
@@ -2272,6 +2549,7 @@ in	IN
 is	VV0
 very	RB
 serene	JJ
+
 The	AT
 computer	NN
 that	WPR
@@ -2281,6 +2559,7 @@ has	VV0
 a	AT
 large	JJ
 screen	NN
+
 The	AT
 letter	NN
 that	WPR
@@ -2288,7 +2567,8 @@ she	PRP
 wrote	VVD
 expressed	VVD
 her	PRP
-feelings	VV0
+feelings	NNS
+
 The	AT
 cake	NN
 that	WPR
@@ -2297,6 +2577,7 @@ tasted	VVD
 was	VVD
 simply	RB
 divine	JJ
+
 The	AT
 song	NN
 that	WPR
@@ -2306,6 +2587,7 @@ was	VVD
 full	JJ
 of	IN
 energy	NN
+
 The	AT
 teacher	NN
 that	WPR
@@ -2313,6 +2595,7 @@ influenced	VVD
 me	PRP
 is	VV0
 remarkable	JJ
+
 The	AT
 house	NN
 that	WPR
@@ -2321,6 +2604,7 @@ are	VV0
 building	VV0
 is	VV0
 modern	JJ
+
 The	AT
 book	NN
 that	WPR
@@ -2329,6 +2613,7 @@ finished	VVD
 was	VVD
 very	RB
 insightful	JJ
+
 The	AT
 car	NN
 that	WPR
@@ -2337,6 +2622,7 @@ showed	VVD
 is	VV0
 brand	NN
 new	JJ
+
 The	AT
 movie	NN
 that	WPR
@@ -2345,6 +2631,7 @@ starred	VVD
 in	IN
 was	VVD
 captivating	VV0
+
 The	AT
 teacher	NN
 that	WPR
@@ -2353,6 +2640,7 @@ trust	VV0
 is	VV0
 very	RB
 fair	JJ
+
 The	AT
 chair	NN
 that	WPR
@@ -2363,6 +2651,7 @@ the	AT
 workshop	NN
 is	VV0
 sturdy	JJ
+
 The	AT
 park	NN
 that	WPR
@@ -2372,6 +2661,7 @@ last	JJ
 weekend	NN
 is	VV0
 spacious	JJ
+
 The	AT
 computer	NN
 that	WPR
@@ -2379,6 +2669,7 @@ he	PRP
 assembled	VVD
 works	VV0
 perfectly	RB
+
 The	AT
 letter	NN
 that	WPR
@@ -2388,6 +2679,7 @@ was	VVD
 full	JJ
 of	IN
 hope	NN
+
 The	AT
 cake	NN
 that	WPR
@@ -2395,7 +2687,8 @@ she	PRP
 decorated	VVD
 had	VVD
 beautiful	JJ
-icing	VV0
+icing	NN
+
 The	AT
 song	NN
 that	WPR
@@ -2404,6 +2697,7 @@ composed	VVD
 is	VV0
 now	RB
 popular	JJ
+
 The	AT
 teacher	NN
 that	WPR
@@ -2412,6 +2706,7 @@ us	PRP
 is	VV0
 highly	RB
 respected	VV0
+
 The	AT
 house	NN
 that	WPR
@@ -2421,7 +2716,8 @@ from	IN
 afar	NN
 is	VV0
 now	RB
-ours	VV0
+ours	JJ
+
 The	AT
 book	NN
 that	WPR
@@ -2432,6 +2728,7 @@ a	AT
 work	NN
 of	IN
 art	NN
+
 The	AT
 car	NN
 that	WPR
@@ -2439,6 +2736,7 @@ he	PRP
 customized	VVD
 looks	VV0
 spectacular	JJ
+
 The	AT
 movie	NN
 that	WPR
@@ -2448,6 +2746,7 @@ on	IN
 Friday	NN
 was	VVD
 hilarious	JJ
+
 The	AT
 teacher	NN
 that	WPR
@@ -2456,6 +2755,7 @@ science	NN
 is	VV0
 very	RB
 knowledgeable	JJ
+
 The	AT
 chair	NN
 that	WPR
@@ -2466,6 +2766,7 @@ perfectly	RB
 in	IN
 the	AT
 room	NN
+
 The	AT
 park	NN
 that	WPR
@@ -2476,6 +2777,7 @@ the	AT
 evenings	NNS
 is	VV0
 quiet	JJ
+
 The	AT
 computer	NN
 that	WPR
@@ -2486,6 +2788,7 @@ work	NN
 is	VV0
 brand	NN
 new	JJ
+
 The	AT
 letter	NN
 that	WPR
@@ -2494,6 +2797,7 @@ drafted	VVD
 was	VVD
 very	RB
 persuasive	JJ
+
 The	AT
 cake	NN
 that	WPR
@@ -2506,6 +2810,7 @@ gathering	NN
 was	VVD
 a	AT
 hit	NN
+
 The	AT
 song	NN
 that	WPR
@@ -2516,6 +2821,7 @@ the	AT
 concert	NN
 was	VVD
 original	JJ
+
 The	AT
 teacher	NN
 that	WPR
@@ -2524,7 +2830,8 @@ creativity	NN
 is	VV0
 loved	VV0
 by	IN
-all	PDT
+all	AT
+
 The	AT
 house	NN
 that	WPR
@@ -2534,6 +2841,7 @@ the	AT
 lake	NN
 is	VV0
 peaceful	JJ
+
 The	AT
 book	NN
 that	WPR
@@ -2543,6 +2851,7 @@ is	VV0
 on	IN
 my	PRP
 list	NN
+
 The	AT
 car	NN
 that	WPR
@@ -2551,6 +2860,7 @@ drives	VV0
 is	VV0
 very	RB
 economical	JJ
+
 The	AT
 movie	NN
 that	WPR
@@ -2560,6 +2870,7 @@ was	VVD
 full	JJ
 of	IN
 surprises	NNS
+
 The	AT
 teacher	NN
 that	WPR
@@ -2568,6 +2879,7 @@ us	PRP
 is	VV0
 very	RB
 patient	JJ
+
 The	AT
 chair	NN
 that	WPR
@@ -2575,6 +2887,7 @@ you	PRP
 designed	VV0
 is	VV0
 modern	JJ
+
 The	AT
 park	NN
 that	WPR
@@ -2583,14 +2896,16 @@ visited	VVD
 last	JJ
 year	NN
 is	VV0
-well‑known	IN
+well‑known	JJ
+
 The	AT
 computer	NN
 that	WPR
 he	PRP
 built	VVD
 is	VV0
-custom‑made	VV0
+custom‑made	JJ
+
 The	AT
 letter	NN
 that	WPR
@@ -2601,6 +2916,7 @@ full	JJ
 of	IN
 good	JJ
 wishes	NNS
+
 The	AT
 cake	NN
 that	WPR
@@ -2609,7 +2925,8 @@ baked	VVD
 was	VVD
 light	JJ
 and	CC
-fluffy	VV0
+fluffy	JJ
+
 The	AT
 song	NN
 that	WPR
@@ -2617,7 +2934,8 @@ I	PRP
 heard	VV0
 is	VV0
 trending	VV0
-online	IN
+online	NN
+
 The	AT
 teacher	NN
 that	WPR
@@ -2627,6 +2945,7 @@ is	VV0
 a	AT
 lifelong	JJ
 learner	NN
+
 The	AT
 house	NN
 that	WPR
@@ -2636,7 +2955,8 @@ for	IN
 the	AT
 weekend	NN
 is	VV0
-cozy	VV0
+cozy	JJ
+
 The	AT
 book	NN
 that	WPR
@@ -2646,6 +2966,7 @@ last	JJ
 night	NN
 was	VVD
 thrilling	VV0
+
 The	AT
 car	NN
 that	WPR
@@ -2654,6 +2975,7 @@ owns	VV0
 is	VV0
 a	AT
 convertible	JJ
+
 The	AT
 movie	NN
 that	WPR
@@ -2661,7 +2983,8 @@ they	PRP
 premiered	VVD
 is	VV0
 highly	RB
-anticipated	VV0
+anticipated	JJ
+
 The	AT
 teacher	NN
 that	WPR
@@ -2670,6 +2993,7 @@ our	PRP
 school	NN
 is	VV0
 generous	JJ
+
 The	AT
 chair	NN
 that	WPR
@@ -2680,6 +3004,7 @@ the	AT
 store	NN
 is	VV0
 available	JJ
+
 The	AT
 park	NN
 that	WPR
@@ -2689,6 +3014,7 @@ by	IN
 daily	JJ
 is	VV0
 well‑maintained	VV0
+
 The	AT
 computer	NN
 that	WPR
@@ -2697,6 +3023,7 @@ repaired	VVD
 now	RB
 runs	VV0
 smoothly	RB
+
 The	AT
 letter	NN
 that	WPR
@@ -2708,13 +3035,15 @@ is	VV0
 from	IN
 her	PRP
 friend	NN
+
 The	AT
 cake	NN
 that	WPR
 he	PRP
 ordered	VVD
 was	VVD
-custom‑made	VV0
+custom‑made	NN
+
 The	AT
 song	NN
 that	WPR
@@ -2724,6 +3053,7 @@ to	TO
 was	VVD
 very	RB
 catchy	JJ
+
 The	AT
 teacher	NN
 that	WPR
@@ -2731,7 +3061,8 @@ educates	VV0
 us	PRP
 is	VV0
 very	RB
-inspiring	VV0
+inspiring	JJ
+
 The	AT
 house	NN
 that	WPR
@@ -2741,6 +3072,7 @@ is	VV0
 full	JJ
 of	IN
 memories	NNS
+
 The	AT
 book	NN
 that	WPR
@@ -2750,6 +3082,7 @@ is	VV0
 full	JJ
 of	IN
 wisdom	NN
+
 The	AT
 car	NN
 that	WPR
@@ -2759,6 +3092,7 @@ is	VV0
 in	IN
 the	AT
 driveway	NN
+
 The	AT
 movie	NN
 that	WPR
@@ -2770,6 +3104,7 @@ on	IN
 a	AT
 true	JJ
 story	NN
+
 The	AT
 teacher	NN
 that	WPR
@@ -2778,6 +3113,7 @@ me	PRP
 helped	VVD
 me	PRP
 succeed	VV0
+
 The	AT
 chair	NN
 that	WPR
@@ -2785,6 +3121,7 @@ you	PRP
 assembled	VVD
 is	VV0
 ergonomic	JJ
+
 The	AT
 park	NN
 that	WPR
@@ -2794,6 +3131,7 @@ on	IN
 weekends	NNS
 is	VV0
 popular	JJ
+
 The	AT
 computer	NN
 that	WPR
@@ -2803,6 +3141,7 @@ has	VV0
 a	AT
 fast	JJ
 processor	NN
+
 The	AT
 letter	NN
 that	WPR
@@ -2813,6 +3152,7 @@ signed	VV0
 by	IN
 a	AT
 friend	NN
+
 The	AT
 cake	NN
 that	WPR
@@ -2823,6 +3163,7 @@ the	AT
 holiday	NN
 was	VVD
 festive	JJ
+
 The	AT
 song	NN
 that	WPR
@@ -2833,6 +3174,7 @@ the	AT
 show	NN
 was	VVD
 memorable	JJ
+
 The	AT
 teacher	NN
 that	WPR
@@ -2841,6 +3183,7 @@ our	PRP
 class	NN
 is	VV0
 innovative	JJ
+
 The	AT
 house	NN
 that	WPR
@@ -2849,6 +3192,7 @@ are	VV0
 renovating	VV0
 looks	NNS
 promising	VV0
+
 The	AT
 book	NN
 that	WPR
@@ -2859,6 +3203,7 @@ from	IN
 a	AT
 famous	JJ
 author	NN
+
 The	AT
 car	NN
 that	WPR
@@ -2869,6 +3214,7 @@ work	VV0
 is	VV0
 very	RB
 efficient	JJ
+
 The	AT
 movie	NN
 that	WPR
@@ -2876,7 +3222,8 @@ she	PRP
 directed	VVD
 received	JJ
 great	JJ
-reviews	VV0
+reviews	NNS
+
 The	AT
 teacher	NN
 that	WPR
@@ -2886,6 +3233,7 @@ project	NN
 is	VV0
 very	RB
 encouraging	JJ
+
 The	AT
 chair	NN
 that	WPR
@@ -2894,6 +3242,7 @@ mentioned	VVD
 is	VV0
 on	IN
 sale	NN
+
 The	AT
 park	NN
 that	WPR
@@ -2904,6 +3253,7 @@ is	VV0
 surrounded	VV0
 by	IN
 trees	NNS
+
 The	AT
 computer	NN
 that	WPR
@@ -2912,7 +3262,8 @@ uses	VV0
 for	IN
 work	NN
 is	VV0
-top‑notch	VV0
+top‑notch	JJ
+
 The	AT
 letter	NN
 that	WPR
@@ -2923,6 +3274,7 @@ me	PRP
 was	VVD
 very	RB
 heartfelt	JJ
+
 The	AT
 cake	NN
 that	WPR
@@ -2934,6 +3286,7 @@ too	RB
 beautiful	JJ
 to	TO
 eat	VV0
+
 The	AT
 song	NN
 that	WPR
@@ -2943,6 +3296,7 @@ together	RB
 brings	VV0
 back	RP
 memories	NNS
+
 The	AT
 teacher	NN
 that	WPR
@@ -2952,6 +3306,7 @@ is	VV0
 appreciated	VV0
 by	IN
 students	NNS
+
 The	AT
 house	NN
 that	WPR
@@ -2962,6 +3317,7 @@ month	NN
 is	VV0
 for	IN
 sale	NN
+
 The	AT
 book	NN
 that	WPR
@@ -2973,6 +3329,7 @@ by	IN
 a	AT
 classic	JJ
 author	NN
+
 The	AT
 car	NN
 that	WPR
@@ -2986,6 +3343,7 @@ now	RB
 in	IN
 his	PRP
 garage	NN
+
 The	AT
 movie	NN
 that	WPR
@@ -2994,6 +3352,7 @@ watched	VVD
 together	RB
 was	VVD
 hilarious	JJ
+
 The	AT
 teacher	NN
 that	WPR
@@ -3004,6 +3363,7 @@ is	VV0
 a	AT
 role	NN
 model	NN
+
 The	AT
 chair	NN
 that	WPR
@@ -3015,6 +3375,7 @@ corner	NN
 is	VV0
 very	RB
 stylish	JJ
+
 The	AT
 park	NN
 that	WPR
@@ -3025,6 +3386,7 @@ every	AT
 morning	NN
 is	VV0
 refreshing	VV0
+
 The	AT
 computer	NN
 that	WPR
@@ -3035,6 +3397,7 @@ used	VV0
 for	IN
 graphic	JJ
 design	NN
+
 The	AT
 letter	NN
 that	WPR
@@ -3044,6 +3407,7 @@ contained	VV0
 all	PDT
 the	AT
 details	NNS
+
 The	AT
 cake	NN
 that	WPR
@@ -3054,6 +3418,7 @@ the	AT
 celebration	NN
 was	VVD
 scrumptious	JJ
+
 The	AT
 song	NN
 that	WPR
@@ -3064,6 +3429,7 @@ the	AT
 studio	NN
 is	VV0
 trending	VV0
+
 The	AT
 teacher	NN
 that	WPR
@@ -3072,6 +3438,7 @@ me	PRP
 teaches	VV0
 with	IN
 passion	NN
+
 The	AT
 house	NN
 that	WPR
@@ -3081,6 +3448,7 @@ is	VV0
 full	JJ
 of	IN
 character	NN
+
 The	AT
 book	NN
 that	WPR
@@ -3092,6 +3460,7 @@ on	IN
 my	PRP
 reading	NN
 list	NN
+
 The	AT
 car	NN
 that	WPR
@@ -3100,6 +3469,7 @@ leased	VVD
 is	VV0
 very	RB
 affordable	JJ
+
 The	AT
 movie	NN
 that	WPR
@@ -3110,6 +3480,7 @@ left	VVD
 a	AT
 lasting	JJ
 impression	NN
+
 The	AT
 teacher	NN
 that	WPR
@@ -3119,6 +3490,7 @@ class	NN
 is	VV0
 very	RB
 experienced	JJ
+
 The	AT
 chair	NN
 that	WPR
@@ -3129,6 +3501,7 @@ both	AT
 elegant	JJ
 and	CC
 functional	JJ
+
 The	AT
 park	NN
 that	WPR
@@ -3140,6 +3513,7 @@ for	IN
 its	PRP
 scenic	JJ
 views	NNS
+
 The	AT
 computer	NN
 that	WPR
@@ -3149,6 +3523,7 @@ is	VV0
 built	VV0
 for	IN
 speed	NN
+
 The	AT
 letter	NN
 that	WPR
@@ -3157,6 +3532,7 @@ received	VVD
 made	VVD
 me	PRP
 smile	VV0
+
 The	AT
 cake	NN
 that	WPR
@@ -3165,6 +3541,7 @@ baked	VVD
 turned	VVD
 out	RP
 perfectly	RB
+
 The	AT
 song	NN
 that	WPR
@@ -3174,6 +3551,7 @@ was	VVD
 filled	VV0
 with	IN
 emotion	NN
+
 The	AT
 teacher	NN
 that	WPR
@@ -3182,6 +3560,7 @@ us	PRP
 is	VV0
 always	RB
 patient	JJ
+
 The	AT
 house	NN
 that	WPR
@@ -3191,6 +3570,7 @@ has	VV0
 a	AT
 beautiful	JJ
 porch	NN
+
 The	AT
 book	NN
 that	WPR
@@ -3202,6 +3582,7 @@ translated	VV0
 into	IN
 several	JJ
 languages	NNS
+
 The	AT
 car	NN
 that	WPR
@@ -3212,6 +3593,7 @@ equipped	VV0
 with	IN
 modern	JJ
 technology	NN
+
 The	AT
 movie	NN
 that	WPR
@@ -3221,6 +3603,7 @@ on	IN
 Sunday	NN
 was	VVD
 captivating	VV0
+
 The	AT
 teacher	NN
 that	WPR
@@ -3230,6 +3613,7 @@ seminar	NN
 is	VV0
 very	RB
 knowledgeable	JJ
+
 The	AT
 chair	NN
 that	WPR
@@ -3239,6 +3623,7 @@ is	VV0
 now	RB
 like	IN
 new	JJ
+
 The	AT
 park	NN
 that	WPR
@@ -3249,6 +3634,7 @@ filled	VV0
 with	IN
 vibrant	JJ
 flowers	NNS
+
 The	AT
 computer	NN
 that	WPR
@@ -3259,6 +3645,7 @@ gaming	NN
 is	VV0
 very	RB
 powerful	JJ
+
 The	AT
 letter	NN
 that	WPR
@@ -3266,7 +3653,8 @@ she	PRP
 wrote	VVD
 expressed	VVD
 her	PRP
-gratitude	VV0
+gratitude	NN
+
 The	AT
 cake	NN
 that	WPR
@@ -3277,6 +3665,7 @@ the	AT
 party	NN
 was	VVD
 spectacular	JJ
+
 The	AT
 song	NN
 that	WPR
@@ -3290,6 +3679,7 @@ one	CD
 of	IN
 my	PRP
 favorites	NNS
+
 The	AT
 teacher	NN
 that	WPR
@@ -3298,6 +3688,7 @@ every	AT
 student	NN
 is	VV0
 remarkable	JJ
+
 The	AT
 house	NN
 that	WPR
@@ -3307,6 +3698,7 @@ by	IN
 is	VV0
 newly	RB
 painted	VV0
+
 The	AT
 book	NN
 that	WPR
@@ -3317,6 +3709,7 @@ the	AT
 attic	JJ
 is	VV0
 rare	JJ
+
 The	AT
 car	NN
 that	WPR
@@ -3327,8 +3720,9 @@ is	VV0
 a	AT
 collector	NN
 ’	NN
-s	JJ
+s	NN
 item	NN
+
 The	AT
 movie	NN
 that	WPR
@@ -3336,8 +3730,9 @@ we	PRP
 planned	VVD
 to	TO
 watch	VV0
-got	NN
-postponed	VVD
+got	NNS
+postponed	VV0
+
 The	AT
 teacher	NN
 that	WPR
@@ -3348,6 +3743,7 @@ my	PRP
 studies	NNS
 was	VVD
 inspiring	VV0
+
 The	AT
 chair	NN
 that	WPR
@@ -3357,7 +3753,8 @@ is	VV0
 both	AT
 comfortable	JJ
 and	CC
-stylish	VV0
+stylish	JJ
+
 The	AT
 park	NN
 that	WPR
@@ -3369,6 +3766,7 @@ is	VV0
 full	JJ
 of	IN
 shade	NN
+
 The	AT
 computer	NN
 that	WPR
@@ -3379,6 +3777,7 @@ set	VV0
 up	RP
 for	IN
 work	NN
+
 The	AT
 letter	NN
 that	WPR
@@ -3388,6 +3787,7 @@ yesterday	NN
 was	VVD
 very	RB
 detailed	JJ
+
 The	AT
 cake	NN
 that	WPR
@@ -3396,6 +3796,7 @@ decorated	VVD
 featured	JJ
 intricate	JJ
 designs	NNS
+
 The	AT
 song	NN
 that	WPR
@@ -3407,6 +3808,7 @@ our	PRP
 drive	NN
 was	VVD
 upbeat	JJ
+
 The	AT
 teacher	NN
 that	WPR
@@ -3416,6 +3818,7 @@ often	RB
 uses	VV0
 unique	JJ
 methods	NNS
+
 The	AT
 house	NN
 that	WPR
@@ -3426,6 +3829,7 @@ the	AT
 countryside	NN
 is	VV0
 charming	VV0
+
 The	AT
 book	NN
 that	WPR
@@ -3436,6 +3840,7 @@ filled	VV0
 with	IN
 interesting	JJ
 characters	NNS
+
 The	AT
 car	NN
 that	WPR
@@ -3445,7 +3850,8 @@ is	VV0
 painted	VV0
 in	IN
 bright	JJ
-red	VVD
+red	JJ
+
 The	AT
 movie	NN
 that	WPR
@@ -3458,14 +3864,16 @@ was	VVD
 full	JJ
 of	IN
 action	NN
+
 The	AT
 teacher	NN
 that	WPR
 mentors	NNS
 students	NNS
 encourages	VV0
-deep	RB
-thinking	VV0
+deep	JJ
+thinking	NN
+
 The	AT
 chair	NN
 that	WPR
@@ -3475,6 +3883,7 @@ is	VV0
 now	RB
 properly	RB
 aligned	VV0
+
 The	AT
 park	NN
 that	WPR
@@ -3485,6 +3894,7 @@ a	AT
 lovely	RB
 walking	JJ
 path	NN
+
 The	AT
 computer	NN
 that	WPR
@@ -3493,6 +3903,7 @@ built	VVD
 runs	VV0
 many	JJ
 applications	NNS
+
 The	AT
 letter	NN
 that	WPR
@@ -3502,6 +3913,7 @@ last	JJ
 week	NN
 arrived	VVD
 today	NN
+
 The	AT
 cake	NN
 that	WPR
@@ -3513,6 +3925,7 @@ event	NN
 was	VVD
 incredibly	RB
 moist	JJ
+
 The	AT
 song	NN
 that	WPR
@@ -3522,7 +3935,8 @@ on	IN
 stage	NN
 got	VVD
 everyone	NN
-dancing	VV0
+dancing	NN
+
 The	AT
 teacher	NN
 that	WPR
@@ -3531,6 +3945,7 @@ admire	VV0
 holds	VV0
 high	JJ
 standards	NNS
+
 The	AT
 house	NN
 that	WPR
@@ -3541,6 +3956,7 @@ has	VV0
 a	AT
 large	JJ
 backyard	NN
+
 The	AT
 book	NN
 that	WPR
@@ -3550,6 +3966,7 @@ is	VV0
 a	AT
 visual	JJ
 delight	NN
+
 The	AT
 car	NN
 that	WPR
@@ -3560,6 +3977,7 @@ the	AT
 meeting	NN
 was	VVD
 sleek	JJ
+
 The	AT
 movie	NN
 that	WPR
@@ -3569,6 +3987,7 @@ in	IN
 class	NN
 was	VVD
 thought‑provoking	VV0
+
 The	AT
 teacher	NN
 that	WPR
@@ -3578,6 +3997,7 @@ project	NN
 provided	VVD
 invaluable	JJ
 insights	NNS
+
 The	AT
 chair	NN
 that	WPR
@@ -3588,6 +4008,7 @@ perfectly	RB
 in	IN
 the	AT
 room	NN
+
 The	AT
 park	NN
 that	WPR
@@ -3600,6 +4021,7 @@ near	IN
 a	AT
 small	JJ
 lake	NN
+
 The	AT
 computer	NN
 that	WPR
@@ -3609,7 +4031,8 @@ is	VV0
 ideal	JJ
 for	IN
 editing	VV0
-videos	PDT
+videos	NNS
+
 The	AT
 letter	NN
 that	WPR
@@ -3619,6 +4042,7 @@ conveyed	VVD
 a	AT
 heartfelt	NN
 message	NN
+
 The	AT
 cake	NN
 that	WPR
@@ -3628,6 +4052,7 @@ had	VVD
 layers	NNS
 of	IN
 flavor	NN
+
 The	AT
 song	NN
 that	WPR
@@ -3638,6 +4063,7 @@ the	AT
 event	NN
 was	VVD
 memorable	JJ
+
 The	AT
 teacher	NN
 that	WPR
@@ -3646,6 +4072,7 @@ us	PRP
 is	VV0
 highly	RB
 respected	VV0
+
 The	AT
 house	NN
 that	WPR
@@ -3655,6 +4082,7 @@ has	VV0
 an	AT
 amazing	JJ
 view	NN
+
 The	AT
 book	NN
 that	WPR
@@ -3664,6 +4092,7 @@ was	VVD
 full	JJ
 of	IN
 mystery	NN
+
 The	AT
 car	NN
 that	WPR
@@ -3671,6 +4100,7 @@ he	PRP
 fixed	VVD
 runs	VV0
 smoothly	RB
+
 The	AT
 movie	NN
 that	WPR
@@ -3681,6 +4111,7 @@ both	AT
 funny	JJ
 and	CC
 dramatic	JJ
+
 The	AT
 teacher	NN
 that	WPR
@@ -3690,6 +4121,7 @@ learning	NN
 is	VV0
 very	RB
 caring	VV0
+
 The	AT
 chair	NN
 that	WPR
@@ -3698,6 +4130,7 @@ purchased	VVD
 complements	NNS
 the	AT
 decor	NN
+
 The	AT
 park	NN
 that	WPR
@@ -3707,6 +4140,7 @@ is	VV0
 popular	JJ
 with	IN
 families	NNS
+
 The	AT
 computer	NN
 that	WPR
@@ -3715,6 +4149,7 @@ uses	VV0
 processes	VV0
 tasks	NNS
 quickly	RB
+
 The	AT
 letter	NN
 that	WPR
@@ -3725,6 +4160,7 @@ full	JJ
 of	IN
 exciting	VV0
 news	NN
+
 The	AT
 cake	NN
 that	WPR
@@ -3736,6 +4172,7 @@ highlight	NN
 of	IN
 the	AT
 party	NN
+
 The	AT
 song	NN
 that	WPR
@@ -3743,7 +4180,8 @@ I	PRP
 hummed	VVD
 brought	VV0
 back	RP
-memories	VV0
+memories	NNS
+
 The	AT
 teacher	NN
 that	WPR
@@ -3753,6 +4191,7 @@ class	NN
 is	VV0
 very	RB
 dedicated	JJ
+
 The	AT
 house	NN
 that	WPR
@@ -3762,6 +4201,7 @@ yesterday	NN
 is	VV0
 for	IN
 sale	NN
+
 The	AT
 book	NN
 that	WPR
@@ -3772,6 +4212,7 @@ in	IN
 its	PRP
 second	JJ
 edition	NN
+
 The	AT
 car	NN
 that	WPR
@@ -3780,6 +4221,7 @@ drives	VV0
 has	VV0
 excellent	JJ
 mileage	NN
+
 The	AT
 movie	NN
 that	WPR
@@ -3788,7 +4230,8 @@ planned	VVD
 to	TO
 see	VV0
 got	JJ
-delayed	VV0
+delayed	NNS
+
 The	AT
 teacher	NN
 that	WPR
@@ -3798,7 +4241,8 @@ the	AT
 course	NN
 is	VV0
 now	RB
-retired	VV0
+retired	JJ
+
 The	AT
 chair	NN
 that	WPR
@@ -3808,6 +4252,7 @@ was	VVD
 delivered	VV0
 on	IN
 time	NN
+
 The	AT
 park	NN
 that	WPR
@@ -3816,7 +4261,8 @@ stroll	VV0
 in	IN
 is	VV0
 beautifully	RB
-landscaped	VV0
+landscaped	JJ
+
 The	AT
 computer	NN
 that	WPR
@@ -3824,6 +4270,7 @@ he	PRP
 upgraded	VVD
 performs	NNS
 exceptionally	RB
+
 The	AT
 letter	NN
 that	WPR
@@ -3834,6 +4281,7 @@ was	VVD
 filled	VV0
 with	IN
 details	NNS
+
 The	AT
 cake	NN
 that	WPR
@@ -3843,6 +4291,7 @@ was	VVD
 decorated	VV0
 with	IN
 precision	NN
+
 The	AT
 song	NN
 that	WPR
@@ -3852,6 +4301,7 @@ resonated	VV0
 with	IN
 the	AT
 audience	NN
+
 The	AT
 teacher	NN
 that	WPR
@@ -3861,6 +4311,7 @@ discussions	NNS
 is	VV0
 very	RB
 thoughtful	JJ
+
 The	AT
 house	NN
 that	WPR
@@ -3869,7 +4320,8 @@ admired	VVD
 has	VV0
 a	AT
 lovely	RB
-porch	VV0
+porch	NN
+
 The	AT
 book	NN
 that	WPR
@@ -3877,7 +4329,8 @@ she	PRP
 recommended	VVD
 is	VV0
 available	JJ
-online	IN
+online	NN
+
 The	AT
 car	NN
 that	WPR
@@ -3887,6 +4340,7 @@ is	VV0
 a	AT
 high‑performance	NN
 model	NN
+
 The	AT
 movie	NN
 that	WPR
@@ -3895,7 +4349,8 @@ enjoyed	VVD
 was	VVD
 a	AT
 true	JJ
-classic	JJ
+classic	NN
+
 The	AT
 teacher	NN
 that	WPR
@@ -3905,6 +4360,7 @@ has	VV0
 a	AT
 unique	JJ
 style	NN
+
 The	AT
 chair	NN
 that	WPR
@@ -3914,7 +4370,8 @@ in	IN
 the	AT
 office	NN
 is	VV0
-sturdy	PDT
+sturdy	JJ
+
 The	AT
 park	NN
 that	WPR
@@ -3924,6 +4381,7 @@ has	VV0
 many	JJ
 walking	VV0
 trails	NNS
+
 The	AT
 computer	NN
 that	WPR
@@ -3933,6 +4391,7 @@ is	VV0
 designed	VV0
 for	IN
 gaming	VV0
+
 The	AT
 letter	NN
 that	WPR
@@ -3941,6 +4400,7 @@ received	VVD
 contained	JJ
 joyful	JJ
 news	NN
+
 The	AT
 cake	NN
 that	WPR
@@ -3951,6 +4411,7 @@ customized	VV0
 for	IN
 the	AT
 event	NN
+
 The	AT
 song	NN
 that	WPR
@@ -3960,6 +4421,7 @@ is	VV0
 a	AT
 crowd	JJ
 favorite	NN
+
 The	AT
 teacher	NN
 that	WPR
@@ -3970,6 +4432,7 @@ known	VV0
 for	IN
 her	PRP
 creativity	NN
+
 The	AT
 house	NN
 that	WPR
@@ -3981,6 +4444,7 @@ in	IN
 a	AT
 quiet	JJ
 area	NN
+
 The	AT
 book	NN
 that	WPR
@@ -3990,6 +4454,7 @@ has	VV0
 an	AT
 intriguing	NN
 plot	NN
+
 The	AT
 car	NN
 that	WPR
@@ -3999,6 +4464,7 @@ was	VVD
 a	AT
 luxurious	JJ
 model	NN
+
 The	AT
 movie	NN
 that	WPR
@@ -4009,6 +4475,7 @@ month	NN
 was	VVD
 visually	RB
 stunning	VV0
+
 The	AT
 teacher	NN
 that	WPR
@@ -4018,6 +4485,7 @@ class	NN
 is	VV0
 very	RB
 knowledgeable	JJ
+
 The	AT
 chair	NN
 that	WPR
@@ -4028,6 +4496,7 @@ the	AT
 meeting	NN
 is	VV0
 comfortable	JJ
+
 The	AT
 park	NN
 that	WPR
@@ -4037,6 +4506,7 @@ has	VV0
 a	AT
 stunning	JJ
 lake	NN
+
 The	AT
 computer	NN
 that	WPR
@@ -4047,6 +4517,7 @@ perfect	JJ
 for	IN
 design	NN
 work	NN
+
 The	AT
 letter	NN
 that	WPR
@@ -4056,6 +4527,7 @@ was	VVD
 full	JJ
 of	IN
 admiration	NN
+
 The	AT
 cake	NN
 that	WPR
@@ -4066,6 +4538,7 @@ a	AT
 work	NN
 of	IN
 art	NN
+
 The	AT
 song	NN
 that	WPR
@@ -4076,6 +4549,7 @@ the	AT
 festival	NN
 was	VVD
 energetic	JJ
+
 The	AT
 teacher	NN
 that	WPR
@@ -4084,6 +4558,7 @@ respect	VV0
 is	VV0
 very	RB
 inspirational	JJ
+
 The	AT
 house	NN
 that	WPR
@@ -4091,7 +4566,8 @@ we	PRP
 toured	VVD
 has	VV0
 modern	JJ
-architecture	IN
+architecture	NN
+
 The	AT
 book	NN
 that	WPR
@@ -4100,6 +4576,7 @@ recommended	VVD
 opened	JJ
 my	PRP
 eyes	NNS
+
 The	AT
 car	NN
 that	WPR
@@ -4111,6 +4588,7 @@ dealership	NN
 is	VV0
 now	RB
 his	PRP
+
 The	AT
 movie	NN
 that	WPR
@@ -4120,6 +4598,7 @@ was	VVD
 full	JJ
 of	IN
 surprises	NNS
+
 The	AT
 teacher	NN
 that	WPR
@@ -4130,6 +4609,7 @@ my	PRP
 studies	NNS
 was	VVD
 exceptional	JJ
+
 The	AT
 chair	NN
 that	WPR
@@ -4140,6 +4620,7 @@ perfectly	RB
 in	IN
 the	AT
 office	NN
+
 The	AT
 park	NN
 that	WPR
@@ -4149,6 +4630,7 @@ has	VV0
 a	AT
 stunning	JJ
 lake	NN
+
 The	AT
 computer	NN
 that	WPR
@@ -4158,6 +4640,7 @@ is	VV0
 ideal	JJ
 for	IN
 programming	VV0
+
 The	AT
 letter	NN
 that	WPR
@@ -4166,6 +4649,7 @@ wrote	VVD
 expressed	JJ
 deep	JJ
 gratitude	NN
+
 The	AT
 cake	NN
 that	WPR
@@ -4175,6 +4659,7 @@ was	VVD
 a	AT
 perfect	JJ
 dessert	NN
+
 The	AT
 song	NN
 that	WPR
@@ -4183,7 +4668,8 @@ sang	VVD
 became	VVD
 an	AT
 instant	NN
-hit	VVD
+hit	NN
+
 The	AT
 teacher	NN
 that	WPR
@@ -4192,6 +4678,7 @@ us	PRP
 is	VV0
 very	RB
 supportive	JJ
+
 The	AT
 house	NN
 that	WPR
@@ -4205,6 +4692,7 @@ in	IN
 a	AT
 historic	JJ
 district	NN
+
 The	AT
 book	NN
 that	WPR
@@ -4213,6 +4701,7 @@ published	VVD
 is	VV0
 gaining	VV0
 popularity	NN
+
 The	AT
 car	NN
 that	WPR
@@ -4223,6 +4712,7 @@ known	VV0
 for	IN
 its	PRP
 safety	NN
+
 The	AT
 movie	NN
 that	WPR
@@ -4232,6 +4722,7 @@ was	VVD
 a	AT
 cinematic	JJ
 masterpiece	NN
+
 The	AT
 teacher	NN
 that	WPR
@@ -4241,6 +4732,7 @@ art	NN
 is	VV0
 very	RB
 creative	JJ
+
 The	AT
 chair	NN
 that	WPR
@@ -4250,6 +4742,7 @@ is	VV0
 now	RB
 fully	RB
 functional	JJ
+
 The	AT
 park	NN
 that	WPR
@@ -4260,6 +4753,7 @@ weekend	NN
 is	VV0
 very	RB
 lively	RB
+
 The	AT
 computer	NN
 that	WPR
@@ -4269,6 +4763,7 @@ is	VV0
 efficient	JJ
 and	CC
 modern	JJ
+
 The	AT
 letter	NN
 that	WPR
@@ -4279,6 +4774,7 @@ full	JJ
 of	IN
 cheerful	JJ
 words	NNS
+
 The	AT
 cake	NN
 that	WPR
@@ -4289,6 +4785,7 @@ the	AT
 celebration	NN
 was	VVD
 delightful	JJ
+
 The	AT
 song	NN
 that	WPR
@@ -4299,6 +4796,7 @@ deeply	RB
 with	IN
 the	AT
 crowd	NN
+
 The	AT
 teacher	NN
 that	WPR
@@ -4308,6 +4806,7 @@ has	VV0
 a	AT
 unique	JJ
 approach	NN
+
 The	AT
 house	NN
 that	WPR

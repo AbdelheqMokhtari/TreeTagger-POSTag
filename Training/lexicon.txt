@@ -1,2143 +1,3003 @@
+'d	MD	'd
+'ll	MD	'll
+'re	VV0	're
+'s	POS	's	VV0	's
+'ve	VV0	've
+,	,	,
+;	:	;
+?	.	?
 a	AT	a
-about	IN	about
-absolute	JJ	absolute
+aback	RB	aback
+abandon	VV0	abandon
+ability	NN	ability
+able	JJ	able
+about	IN	about	RB	about	RP	about
+above	IN	above
+abroad	RB	abroad
+abruptly	RB	abruptly
+absence	NN	absence
 absolutely	RB	absolutely
-abstract	JJ	abstract	VV0	abstract
-abundant	VV0	abundant
-accepted	JJ	accepted	VV0	accept	VVD	accept
-accessed	VVD	access
-accessory	NN	accessory
+abstract	JJ	abstract
+absurd	JJ	absurd
+accent	NN	accent
+accept	VV0	accept
+acceptance	NN	acceptance
+accepted	VV0	accept	VVD	accept
+accepts	VV0	accept
 accident	NN	accident
 acclaim	NN	acclaim
 acclaimed	VV0	acclaim
-accomplishment	NN	accomplishment
+accommodation	NN	accommodation
 account	NN	account
-accurate	JJ	accurate	NN	accurate	VV0	accurate
-achievable	JJ	achievable
-achieved	VVD	achieve
-achievement	NN	achievement
+accuracy	NN	accuracy
+accurate	JJ	accurate
+accurately	RB	accurately
+accusation	NN	accusation
+accused	VV0	accuse
+ache	NN	ache
+achieve	VV0	achieve
+achievements	NNS	achievement
 acknowledge	VV0	acknowledge
 acknowledged	VV0	acknowledge	VVD	acknowledge
-acquired	VVD	acquire
-act	VV0	act
+acknowledgment	NN	acknowledgment
+across	IN	across
+act	NN	act
+acted	VV0	act
 action	NN	action
-actions	NNS	action
-activity	NN	activity
 actor	NN	actor
-actress	NN	actress
-adaptable	JJ	adaptable
-addictive	VV0	addictive
-addition	NN	addition
-addressed	VVD	address
-adequate	JJ	adequate
-adhered	VVD	adhere
-adjustment	NN	adjustment
+address	NN	address	VV0	address
+adjustments	NNS	adjustment
 admirable	JJ	admirable
 admiration	NN	admiration
 admire	VV0	admire
-admired	VV0	admire	VVD	admire
+admired	JJ	admired	VVD	admire
+admiring	VV0	admire
+admission	NN	admission
+admit	VV0	admit
+admits	VV0	admit
 admitted	VVD	admit
-adopt	VV0	adopt
-adopted	VV0	adopt	VVD	adopt
-advanced	JJ	advanced	VV0	advance	VVD	advance
-adventure	JJ	adventure	NN	adventure
-adventurous	VV0	adventurous
-adversity	NN	adversity
-advertised	VVD	advertise
-advertisement	NN	advertisement
+adore	VV0	adore
+advanced	VVD	advance
+advancing	VV0	advance
+adventure	NN	adventure
+adventures	VV0	adventure
 advice	NN	advice
-advocated	VVD	advocate
+advised	VVD	advise
 afar	NN	afar
+affirmed	VVD	affirm
 affordable	JJ	affordable
+afraid	JJ	afraid
 after	IN	after
+afternoon	NN	afternoon
+afterward	RB	afterward
+again	RB	again
+against	IN	against
+ages	NNS	age
+aggressively	RB	aggressively
+ago	IN	ago	RB	ago
 agreed	VV0	agree	VVD	agree
 agreement	NN	agreement
+ahead	RB	ahead
 air	NN	air
-alarming	NN	alarming	VV0	alarm
-alert	JJ	alert
-algorithm	NN	algorithm
+alarm	NN	alarm
+alerted	VVD	alert
+alibi	NN	alibi
 aligned	VV0	align
-all	AT	all	PDT	all
-allocated	VVD	allocate
+all	AT	all	PDT	all	RB	all
+allegation	NN	allegation
+allow	VV0	allow
+alluded	VVD	allude
 almost	RB	almost
-alternative	NN	alternative
+alone	RB	alone	VV0	alone
+along	RP	along
+already	RB	already
+alright	JJ	alright
+altered	VVD	alter
 always	RB	always
+am	VV0	be
+amazed	VV0	amaze
 amazing	JJ	amazing	VV0	amaze
-ambitious	JJ	ambitious
-amended	VV0	amend	VVD	amend
-amendment	NN	amendment
+amends	NNS	amends
+amicably	NN	amicably
+amused	VVD	amuse
+amusing	VV0	amuse
 an	AT	an
-analysis	NN	analysis
-analyzed	VVD	analyze
-ancient	JJ	ancient	VV0	ancient
+analysed	VVD	analyse
+ancient	JJ	ancient	NN	ancient	VV0	ancient
 and	CC	and
-angle	NN	angle
+anecdote	VV0	anecdote
+angered	JJ	angered	VVD	anger
+angry	JJ	angry
 annotated	VVD	annotate
 announced	VVD	announce
 announcement	NN	announcement
+annoyed	VV0	annoy	VVD	annoy
+annoying	VV0	annoy
+another	AT	another
 answer	NN	answer
 answered	VV0	answer	VVD	answer
-anticipated	VV0	anticipate	VVD	anticipate
+anticipated	JJ	anticipated
 antique	JJ	antique	NN	antique
+anxiety	NN	anxiety
 anxious	JJ	anxious
+any	AT	any
+anymore	NN	anymore	RB	anymore	VVD	anymore
+anyone	NN	anyone
+anything	NN	anything
+apart	RB	apart
 apartment	NN	apartment
-app	NN	app
-appealing	VV0	appeal
-applauded	VVD	applaud
-apple	NN	apple
+apologize	VV0	apologize
+appear	VV0	appear
+appeared	VVD	appear
+appetizing	JJ	appetizing
 application	NN	application
 applications	NNS	application
 applied	VVD	apply
 appointment	NN	appointment
-appraised	VVD	appraise
-appreciate	VV0	appreciate
+appreciate	NN	appreciate	VV0	appreciate
 appreciated	VV0	appreciate	VVD	appreciate
 approach	NN	approach
 approaching	VV0	approach
-approved	VV0	approve	VVD	approve
-architecture	IN	architecture	NN	architecture
-archive	JJ	archive
-archived	VVD	archive
-ardent	JJ	ardent
-arduous	JJ	arduous	VV0	arduous
+approve	VV0	approve
+architecture	NN	architecture
 are	VV0	be
 area	NN	area
-argued	VV0	argue	VVD	argue
+areas	NNS	area
+argue	NN	argue
+argued	VVD	argue
+argues	VV0	argue
 argument	NN	argument
+arguments	NNS	argument
 aroma	NN	aroma
+arose	VV0	arise
 around	IN	around
-arranged	VVD	arrange
 arrangement	NN	arrangement
+arrive	NN	arrive	VV0	arrive
 arrived	VV0	arrive	VVD	arrive
-art	JJ	art	NN	art
+arrives	VV0	arrive
+art	NN	art
 article	NN	article
-articulate	VV0	articulate
-articulated	VVD	articulate
 artifact	NN	artifact
 artifacts	NNS	artifact
 artist	NN	artist
 artwork	NN	artwork
-as	IN	a	RB	as
+as	IN	as	RB	as
+ascent	NN	ascent
+aside	RB	aside
+ask	VV0	ask
 assembled	VVD	assemble
 asserted	VVD	assert
 assertion	NN	assertion
-assertive	JJ	assertive
-assessed	VVD	assess
 assessment	NN	assessment
-asset	NN	asset
 assignment	NN	assignment
+assist	VV0	assist
 assistance	NN	assistance
+assisted	VVD	assist
+assisting	VV0	assist
+assume	VV0	assume
 assumed	VVD	assume
 assumption	NN	assumption
+assurance	NN	assurance
+assured	VVD	assure
+asteroid	NN	asteroid
+astonished	VV0	astonish
 astonishing	VV0	astonish
+astronaut	NN	astronaut
+astronauts	NNS	astronaut
 at	IN	at
 ate	VV0	eat
-atmosphere	NN	atmosphere
-attainable	JJ	attainable
+athlete	JJ	athlete
+attempt	NN	attempt
+attend	VV0	attend
 attended	VVD	attend
+attendees	NNS	attendee
+attending	VV0	attend
 attention	NN	attention
 attic	JJ	attic
-attractive	JJ	attractive
+attitude	VV0	attitude
 audience	NN	audience
-audit	NN	audit
-authentic	JJ	authentic
+aunt	NN	aunt
 author	NN	author
 authored	VVD	author
-automated	VV0	automate
-autumn	NN	autumn
+autism	NN	autism
 available	JJ	available
-avoided	VVD	avoid
-awaited	VVD	await
-awaits	NNS	awaits
-awake	VV0	awake
+avenue	NN	avenue	VV0	avenue
+Avenue	NN	avenue
+avoid	JJ	avoid	VV0	avoid
+avoided	VV0	avoid
+avoiding	VV0	avoid
+awake	NN	awake
 award	NN	award
 awards	NNS	award
 award‑winning	VV0	award‑winning
-back	RP	back
-backed	VVD	back
+aware	JJ	aware	NN	aware
+awareness	NN	awareness
+away	RB	away
+awe-inspiring	JJ	awe-inspiring
+awkward	NN	awkward
+back	RB	back	RP	back	VV0	back
+backfire	VV0	backfire
+backfired	VVD	backfire
 background	NN	background
 backyard	NN	backyard
+bad	JJ	bad
+bag	NN	bag
+bake	NN	bake
 baked	VVD	bake
-balanced	JJ	balanced	VV0	balance
+bakery	NN	bakery
+bakes	VV0	bake
 ball	NN	ball
 band	NN	band
+bankrupt	JJ	bankrupt
+bark	NN	bark
 barked	VVD	bark
+barking	NN	barking	VV0	bark
 based	VV0	base
-basic	JJ	basic
-bass	NN	bass
-battery	NN	battery
+baseless	JJ	baseless
+basement	NN	basement
+batter	NN	batter
 be	VV0	be
-beach	NN	beach
-beat	NN	beat
+Be	VV0	be
+beanie	VV0	beanie
 beautiful	JJ	beautiful
 beautifully	RB	beautifully
 became	VVD	become
+because	IN	because
+become	VV0	become
+becoming	VV0	become
+bed	NN	bed
+been	VV0	be
+beeping	VV0	beep
 before	IN	before
-beginning	VV0	begin
+behave	VV0	behave
+behind	IN	behind
 being	VV0	be
+belatedly	RB	belatedly
 belief	NN	belief
-believable	VV0	believable
+believable	NN	believable
 believe	VV0	believe
 believed	VVD	believe
-belongs	VV0	belong
+believes	VV0	believe
+believing	VV0	believe
+bell	NN	bell
+belongs	NNS	belongs	VV0	belong
 beloved	VV0	beloved
-benchmark	NN	benchmark
+below	IN	below
+bench	NN	bench
 beneficial	JJ	beneficial
-best	JJ	best
+best	JJ	best	RB	best
 bestseller	NN	bestseller
-better	RB	well
-biased	VVD	bias
+betrayed	VVD	betray
+better	JJ	good	RB	well
+beyond	IN	beyond
+biased	VV0	bias
+bicycle	NN	bicycle
 big	JJ	big
 bike	NN	bike
-bird	NN	bird
+bill	NN	bill
+binge-watched	VVD	binge-watched
+bird	NN	bird	VVD	bird
 birthday	NN	birthday
-bitter	VVD	bitter
+bistro	NN	bistro
+bit	NN	bit
+bitter	NN	bitter
 black	JJ	black
+blackboard	NN	blackboard
+blame	VV0	blame
+blameless	JJ	blameless
+bleed	VVD	bleed
+blinking	VV0	blink
+block	NN	block
+blocked	VV0	block
 bloomed	VVD	bloom
 blooming	VV0	bloom
-blue	IN	blue
-blurry	IN	blurry
-boiling	VV0	boil
-bold	JJ	bold
-bond	NN	bond
+blouse	NN	blouse
+blowing	VV0	blow
+blown	VV0	blow
+blue	NN	blue
+blurry	JJ	blurry
+board	NN	board
+boiling	NN	boiling
+bold	VVD	bold
+bolts	NNS	bolt
 book	NN	book
 booked	VVD	book
 books	NNS	book
-bookstore	NN	bookstore
-boosted	VV0	boost
-boring	VV0	bore
+boring	JJ	boring
 borrowed	VVD	borrow
 both	AT	both
+bother	IN	bother
 bothered	VV0	bother
-bothersome	VVD	bothersome
+bothersome	NN	bothersome
+bottle	NN	bottle
 bought	VVD	buy
-boundaries	NNS	boundary
-bounds	JJ	bounds	NNS	bound
 bouquet	NN	bouquet
-brainstormed	VVD	brainstorm
+boutique	NN	boutique
+bowl	NN	bowl
+box	NN	box
+boy	NN	boy
+bracelet	NN	bracelet
+branch	NN	branch
 brand	NN	brand
-brave	VV0	brave
-breach	NN	breach
-bread	NN	bread
-breaking	NN	breaking	VV0	break
-breath	NN	breath
+bread	NN	bread	VVD	bread
+break	NN	break	VV0	break
+breaking	NN	breaking
+breakup	NN	breakup
 breathtaking	VV0	breathtaking
+breeze	NN	breeze	VV0	breeze
 brewed	VVD	brew
 bridge	NN	bridge
-bridges	NNS	bridge	VV0	bridge
+briefing	NN	briefing
 bright	JJ	bright	VVD	bright
-brilliance	NN	brilliance
+brightly	RB	brightly
 brilliant	JJ	brilliant
-brings	NNS	brings	VV0	bring
-broadcast	NN	broadcast	VVD	broadcast
+bring	VV0	bring
+brings	VV0	bring
 broken	VV0	break
-brought	VV0	bring	VVD	bring
-browsed	VVD	browse
+brought	JJ	brought	VV0	bring	VVD	bring
 budget	NN	budget
-buffering	NN	buffering
-bug	NN	bug
-buggy	VV0	buggy
 building	NN	building	VV0	build
-builds	VV0	build
 built	VV0	build	VVD	build
-bumpy	VV0	bumpy
-burger	NN	burger
+bulb	NN	bulb
+bumpy	NN	bumpy
+burgers	NNS	burger
 bus	NN	bus
-busy	VV0	busy
+business	NN	business
+busy	JJ	busy	VV0	busy
+but	CC	but
+butterfly	NN	butterfly
+buying	VV0	buy
+buzzing	VV0	buzz
 by	IN	by
-cabinet	NN	cabinet
-cake	NN	cake
-calculated	VVD	calculate
-calculation	NN	calculation
-calm	JJ	calm
-camera	NN	camera
-campaign	NN	campaign
+cable	NN	cable
+cafe	JJ	cafe	NN	cafe
+cake	NN	cake	VV0	cake
+calculations	NNS	calculation
+call	NN	call	VV0	call
+called	VV0	call
+calling	VV0	call
+calm	NN	calm
+calmed	JJ	calmed	VV0	calm	VVD	calm
+came	VVD	come
 can	MD	can
+Can	MD	can
+cancel	VV0	cancel
 canceled	VV0	cancel
-cancellation	NN	cancellation
 cancelled	VV0	cancel
-candidate	NN	candidate
+candle	VV0	candle
+candour	NN	candour
+canvas	NN	canvas
+cap	NN	cap
+capable	JJ	capable
+cappuccino	NN	cappuccino
 captivating	VV0	captivate
-captured	VVD	capture
+capture	NN	capture
 captures	VV0	capture
 car	NN	car
-career	NN	career
-cargo	NN	cargo
+care	NN	care
+cared	VVD	care
+careful	JJ	careful
+carelessness	NN	carelessness
+caretaker	NN	caretaker
 caring	VV0	care
+carpet	NN	carpet
 carved	VVD	carve
 case	NN	case
+casting	VV0	cast
+castle	NN	castle
 cat	NN	cat
-catchy	JJ	catchy	VV0	catchy
-cause	NN	cause
-caution	NN	caution
-cave	VV0	cave
-celebrated	VV0	celebrate	VVD	celebrate
+catch	VV0	catch
+catchy	JJ	catchy
+caught	VV0	catch
+cause	VV0	cause
+caused	JJ	caused	VV0	cause	VVD	cause
+cautioned	VVD	caution
+celebrated	VVD	celebrate
 celebration	NN	celebration
+celebrity	NN	celebrity
+centre	NN	centre
+century	NN	century
 certain	JJ	certain
 chair	NN	chair
-chaired	VVD	chair
+chalkboard	NN	chalkboard
 challenge	NN	challenge
+challenged	JJ	challenged	VVD	challenge
 challenging	VV0	challenge
-championed	VVD	champion
 chance	NN	chance
-change	NN	change
+change	NN	change	VV0	change
+changed	VV0	change	VVD	change
 changing	VV0	change
-channel	NN	channel
-character	JJ	character	NN	character
+chaotic	JJ	chaotic
+character	NN	character
 characters	NNS	character
+charge	NN	charge
 charged	VV0	charge
-charity	NN	charity
+charm	NN	charm
 charming	VV0	charm
 chases	VV0	chase
-cheer	NN	cheer
-cheerful	JJ	cheerful
-cherish	VV0	cherish
-cherished	VV0	cherish	VVD	cherish
-cherishes	VV0	cherish
+chat	NN	chat
+cheated	VV0	cheat	VVD	cheat
+check	NN	check	VV0	check
+checked	VV0	check	VVD	check
+cheerful	JJ	cheerful	NN	cheerful
+cherish	NN	cherish	VV0	cherish
+child	NN	child
+childhood	NN	childhood
 children	NNS	child
+chilly	JJ	chilly	RB	chilly
+chirping	VV0	chirp
+chocolate	NN	chocolate
 choice	NN	choice
-choreography	NN	choreography
-chose	VV0	choose	VVD	choose
+chose	VV0	choose
+chosen	VV0	choose
+chuckled	VVD	chuckle
 cinematic	JJ	cinematic
-cinematography	NN	cinematography
-cited	VVD	cite
 cities	NNS	city
 city	NN	city
+civilizations	NNS	civilization
 claim	NN	claim
+claimed	VVD	claim
+clarification	NN	clarification
 clarified	VVD	clarify
+clarify	VV0	clarify
+clarity	NN	clarity
 class	NN	class
-classic	JJ	classic
-clean	VV0	clean
-cleaned	VVD	clean
+classic	JJ	classic	NN	classic
+cleaning	NN	cleaning	VV0	clean
 clear	JJ	clear	VV0	clear
+clearance	NN	clearance
 clearly	RB	clearly
-clicked	VVD	click
+clever	NN	clever
+client	NN	client
+cliff	NN	cliff
 climate	NN	climate
-climb	NN	climb
-climbed	VVD	climb
+climb	NN	climb	VV0	climb
+climbed	VV0	climb
+climbing	VV0	climb
 clock	NN	clock
-close	VVD	close
+close	RB	close	VV0	close
 closed	VV0	close
-cloudy	VV0	cloudy
+closure	NN	closure
+cloud	JJ	cloud	NN	cloud
+clouds	JJ	clouds	NN	cloud	NNS	cloud
+clue	NN	clue
+cluttered	VVD	clutter
 coach	NN	coach
-code	NN	code
+coat	NN	coat
 coffee	NN	coffee
-coherent	JJ	coherent
-coin	NN	coin
-cold	VVD	cold
+cold	JJ	cold	NN	cold	VV0	cold	VVD	cold
 collaboration	NN	collaboration
 collapsed	VVD	collapse
-colleague	NN	colleague
-collected	VVD	collect
-collection	NN	collection
+colleagues	NNS	colleague
 collector	NN	collector
 color	NN	color
-colorful	JJ	colorful	VV0	colorful
-comeback	NN	comeback
+colored	VVD	color
+colorful	JJ	colorful
+colors	NNS	color
+colour	NNS	colour	VV0	colour
+colourful	NN	colourful
+colours	NN	colour
+come	VV0	come
 comedy	NN	comedy
+comes	VV0	come
+comfort	NN	comfort
 comfortable	JJ	comfortable
-command	NN	command
-commemorated	VVD	commemorate
-comment	NN	comment
-commentary	JJ	commentary
+comforted	VV0	comfort	VVD	comfort
+comforting	VV0	comfort
+coming	VV0	come
 commented	VVD	comment
+comments	NNS	comment
 commitment	NN	commitment
-committee	NN	committee
-commodity	NN	commodity
+committed	VVD	commit
 common	JJ	common
-communicated	VVD	communicate
+communicate	VV0	communicate
 communication	NN	communication
-community	NN	community
-compatibility	NN	compatibility
-compelling	NN	compelling	VV0	compel
-competed	VVD	compete
+company	NN	company
+compared	VV0	compare
+compassion	NN	compassion
+compelling	VV0	compel
+compete	NN	compete
 competition	NN	competition
 competitive	JJ	competitive
-complements	NNS	complement
-complete	JJ	complete
+complain	NN	complain
+complained	VVD	complain
+complaint	NN	complaint
+complements	NNS	complement	VV0	complement
+complete	JJ	complete	VV0	complete
 completed	VV0	complete	VVD	complete
-complex	JJ	complex	VV0	complex
+completely	RB	completely
+complex	NN	complex
 complicated	VVD	complicate
-complimented	VVD	compliment
-component	NN	component
+complication	NN	complication
 composed	VVD	compose
-composition	NN	composition
-comprehensive	JJ	comprehensive	VV0	comprehensive
-computation	NN	computation
 computer	NN	computer
 concept	NN	concept
 concepts	NNS	concept
 concern	NN	concern
-concerned	VVD	concern
-concerning	VV0	concern
+concerned	VV0	concern
 concerns	NNS	concern
 concert	NN	concert
-concession	NN	concession
+concluded	VVD	conclude
 conclusion	NN	conclusion
-conclusive	JJ	conclusive	VV0	conclusive
+concurred	VVD	concur
+conditioner	NN	conditioner
+conditions	NNS	condition
 conducted	VVD	conduct
 conference	NN	conference
+conferences	NNS	conference
+confessed	VVD	confess
+confession	NN	confession
+confidence	NN	confidence
 confident	JJ	confident	NN	confident
-configuration	NN	configuration
+confidently	RB	confidently
+confirmation	NN	confirmation
 confirmed	VV0	confirm	VVD	confirm
-connection	NN	connection
+conflict	NN	conflict
+confused	VVD	confuse
+confusing	VV0	confuse
+confusion	NN	confusion
+congestion	NN	congestion
 connects	VV0	connect
-conquers	NNS	conquers
+consented	VVD	consent
 consider	VV0	consider
-considered	VV0	consider	VVD	consider
-considers	VV0	consider
-consistent	JJ	consistent	VVD	consistent
-constructed	VVD	construct
+considered	VV0	consider
+considering	VV0	consider
+consistently	RB	consistently
+constructed	VV0	construct	VVD	construct
 construction	NN	construction
-constructive	JJ	constructive
+consumed	VVD	consume
+contact	VV0	contact
 contained	JJ	contained	VV0	contain
+contemplating	VV0	contemplate
+contended	VVD	contend
+content	JJ	content
 contest	NN	contest
-continuous	JJ	continuous
-contour	NN	contour
-contract	NN	contract
-contributed	VVD	contribute
+contested	VVD	contest
+continent	NN	continent
+continue	VV0	continue
+continuously	RB	continuously
 contribution	NN	contribution
-contributor	NN	contributor
+control	NN	control
 controversial	JJ	controversial
+convene	VV0	convene
+convention	NN	convention
 conversation	NN	conversation
 convertible	JJ	convertible
 conveyed	VVD	convey
 conviction	NN	conviction
-convincing	JJ	convincing	VV0	convince
-convoluted	VVD	convolute
+convince	NN	convince
+convinced	VV0	convince	VVD	convince
+cook	NN	cook
 cooked	VVD	cook
-coordinated	VVD	coordinate
-coordination	NN	coordination
+cookie	NN	cookie
 corner	NN	corner
-correct	JJ	correct
-corrected	VVD	correct
+correct	JJ	correct	NN	correct
+corrected	VV0	correct
 correctly	RB	correctly
+corridor	NN	corridor
+cosmic	JJ	cosmic
+cosmos	NN	cosmos
 cost	NN	cost
-costume	NN	costume
+costly	JJ	costly
+costs	NNS	cost
+cosy	JJ	cosy	VV0	cosy
+couch	NN	couch
+could	MD	could
+Could	NN	could
+couldn	NN	couldn	VV0	couldn	VVD	couldn
+counsel	NN	counsel
+counter	NN	counter
 country	NN	country
 countryside	NN	countryside
-counts	VV0	count
-courage	NN	courage
 course	NN	course
 cousin	NN	cousin
-coverage	NN	coverage
-cozy	JJ	cozy	VV0	cozy
-crafted	VV0	craft
+cover	NN	cover	VV0	cover
+cozy	JJ	cozy
+cramped	JJ	cramped	VV0	cramp
 crash	NN	crash
-created	VVD	create
-creation	VV0	creation
-creative	JJ	creative	VV0	creative
-creativity	NN	creativity	VV0	creativity
-crisp	VV0	crisp
-criterion	NN	criterion
+crashed	VV0	crash
+cream	NN	cream
+creamy	VV0	creamy
+created	VV0	create	VVD	create
+creates	VV0	create
+creative	JJ	creative
+creativity	NN	creativity
+creator	NN	creator
+credibility	NN	credibility
+crime	NN	crime
 critical	JJ	critical
 critically	RB	critically
 criticism	NN	criticism
-critique	NN	critique
-critiqued	VVD	critique
-crossed	VVD	cross
+cross	NN	cross
+crossed	VV0	cross
+crow	NN	crow
 crowd	JJ	crowd	NN	crowd
 crowded	VVD	crowd
-cruise	NN	cruise
-curiosity	NN	curiosity
-curious	JJ	curious
-custom	NN	custom
+crowing	VV0	crow
+crucial	JJ	crucial
+crushed	VV0	crush
+cup	NN	cup	VV0	cup
+cupboard	NN	cupboard
+curry	NN	curry
+curtain	VV0	curtain
 customized	VV0	customize	VVD	customize
-custom‑made	VV0	custom‑made
-cutting‑edge	NN	cutting‑edge
+custom‑made	JJ	custom‑made	NN	custom‑made
+cut	NN	cut	VV0	cut
 cycle	NN	cycle
-cycled	VVD	cycle
+cycling	NN	cycling
+d	JJ	d	NN	d	NNS	d	RB	d
 daily	JJ	daily
 damage	NN	damage
 danced	VVD	dance
-dancing	VV0	dance
+dancing	NN	dancing
+danger	NN	danger
 dangerous	JJ	dangerous
-dark	VV0	dark
-darkest	JJ	dark
-data	NN	data	NNS	data
-daunting	VV0	daunt
+dark	NN	dark
+data	NN	data
+date	NN	date
 dawn	NN	dawn
+dawned	VV0	dawn
 day	NN	day
+days	NNS	day
 deadline	NN	deadline
-deal	NN	deal
+deadlines	NNS	deadline
+deafening	VV0	deafen
+deal	VV0	deal
 dealership	NN	dealership
-debate	NN	debate	VV0	debate
-debated	VVD	debate
-debugged	VVD	debug
-deceit	NN	deceit
+debatable	JJ	debatable
+debate	NN	debate
+debated	VV0	debate	VVD	debate
+debates	NNS	debate
+deceived	VV0	deceive
+deceptive	JJ	deceptive
+decided	VVD	decide
 decision	NN	decision
 decisions	NNS	decision
-decisive	VV0	decisive
+declaration	NN	declaration
 declared	VVD	declare
 decor	NN	decor
 decorated	VV0	decorate	VVD	decorate
 dedicated	JJ	dedicated	VV0	dedicate
-dedication	NN	dedication
-deduction	NN	deduction
-deep	JJ	deep	RB	deep	VV0	deep
+deep	JJ	deep	VV0	deep
+deepened	VV0	deepen
+deeper	JJ	deep
 deeply	RB	deeply
-defended	VVD	defend
-defense	NN	defense
-definite	NN	definite
+defence	NN	defence
+defines	NNS	defines
+definitely	RB	definitely
 definition	NN	definition
-definitive	JJ	definitive
-delay	NN	delay
-delayed	VV0	delay	VVD	delay
-deleted	VVD	delete
-delicious	JJ	delicious	VV0	delicious
+delay	NN	delay	VV0	delay
+delayed	NNS	delayed	VV0	delay	VVD	delay
+delays	NNS	delay
+delicate	JJ	delicate
+delicious	JJ	delicious
 delight	NN	delight
 delightful	JJ	delightful
 delivered	VV0	deliver	VVD	deliver
 delivery	NN	delivery
 demand	NN	demand
+demanded	VVD	demand
 demanding	VV0	demand
-demonstration	NN	demonstration
-deny	VV0	deny
+demise	NN	demise
+demolishing	NN	demolishing
+denial	NN	denial
+denied	VVD	deny
+depart	VV0	depart
 depicts	VV0	depict
-described	VVD	describe
-description	NN	description
-deserved	VV0	deserve
+describe	VV0	describe
+desert	NN	desert
+deserved	VVD	deserve
+deserves	NNS	deserves
 design	NN	design
 designed	VV0	design	VVD	design
 designs	NNS	design
+desired	VV0	desire	VVD	desire
 desk	NN	desk
+despite	IN	despite
 dessert	NN	dessert
-destination	NN	destination
-detail	NN	detail
-detailed	JJ	detailed	VV0	detail	VVD	detail
+detailed	JJ	detailed
 details	NNS	detail
-detected	VVD	detect
+detectives	NNS	detective
 determination	NN	determination
 determined	VVD	determine
-devastating	VV0	devastate
-developed	VVD	develop
-development	NN	development
-device	NN	device
-dialogue	NN	dialogue
+develop	VV0	develop
 did	VVD	do
-didn	NN	didn	VV0	didn
+Did	NN	did
+didn	JJ	didn	NN	didn	RB	didn	VV0	didn
 difference	NN	difference
+different	JJ	different
 difficult	JJ	difficult
+dim	NN	dim
+diminished	VV0	diminish
+dimming	VV0	dim
 dined	VVD	din
+diner	NN	diner
 dinner	NN	dinner
-dire	VV0	dire
+dinosaurs	NNS	dinosaur
 directed	VVD	direct
 direction	NN	direction
-directive	NN	directive
-director	NN	director
-disappointed	VV0	disappoint	VVD	disappoint
-disappointing	VV0	disappoint
+directions	NNS	direction
+disagreed	VVD	disagree
+disagreement	NN	disagreement
+disappeared	VVD	disappear
+disappointed	JJ	disappointed	VVD	disappoint
 disclosed	VVD	disclose
-discouraged	VV0	discourage
+disclosure	NN	disclosure
+discounts	NNS	discount
+discourse	NN	discourse
 discovered	VVD	discover
 discovery	NN	discovery
-discussed	VVD	discuss
+discussed	VV0	discuss	VVD	discuss
+discussing	NN	discussing	VV0	discuss
 discussion	NN	discussion
 discussions	NNS	discussion
-dish	NN	dish
-dismiss	VV0	dismiss
-displayed	VVD	display
+dish	JJ	dish	NN	dish
+dishonest	JJ	dishonest	RB	dishonest
+dismantling	NN	dismantling
+dismissed	VV0	dismiss	VVD	dismiss
+disproved	VVD	disprove
+disputed	VVD	dispute
+disrupted	VV0	disrupt
 disruptive	VV0	disruptive
-dissected	VVD	dissect
+dissatisfaction	NN	dissatisfaction
+distance	NN	distance
 distracting	VV0	distract
+distress	NN	distress
 district	NN	district
-diverse	JJ	diverse
-diversified	VVD	diversify
-divides	VV0	divide
+disturbance	NN	disturbance
+disturbed	VVD	disturb
+divide	VV0	divide
 divine	JJ	divine
+do	VV0	do
+Do	VV0	do
 document	NN	document
-documentary	NN	documentary
-documented	VVD	document
-dog	NN	dog
-donated	VVD	donate
-donation	NN	donation
+documentary	JJ	documentary
+documents	NNS	document
+dodging	VV0	dodge
+doesn	NN	doesn	VV0	doesn
+dog	NN	dog	VV0	dog
+don	VV0	don
+Don	NN	don
 done	VV0	do
+doomed	VV0	doom
 door	NN	door
-doubt	NN	doubt
-download	NN	download
-downloaded	VVD	download
+doubt	NN	doubt	VV0	doubt
+doubted	VVD	doubt
+doubtful	JJ	doubtful	NN	doubtful
+doubts	NNS	doubt
+down	RB	down	RP	down
+downpour	NN	downpour
+downstairs	NNS	downstairs
 drafted	VVD	draft
+drag	NN	drag	VV0	drag
+dragon	NN	dragon
+dragon-shaped	JJ	dragon-shaped
+drained	VV0	drain	VVD	drain
 drama	NN	drama
-dramatic	JJ	dramatic	VV0	dramatic
-drank	VV0	drink
-drastic	VV0	drastic
-draw	NN	draw
-dreams	VV0	dream
+dramatic	JJ	dramatic
+drank	VVD	drink
+drawer	NN	drawer
+drawing	VV0	draw
+drawn-out	NN	drawn-out
+dread	NN	dread
+dreaded	VVD	dread
+dream	NN	dream
+dreamed	VV0	dream
+dreaming	VV0	dream
 dress	NN	dress
 drinks	VV0	drink
-drive	NN	drive
-drives	NNS	drive	VV0	drive
+drive	NN	drive	VV0	drive
+drives	VV0	drive
 driveway	NN	driveway
+driving	NN	driving	VV0	drive
 drove	VVD	drive
-dubious	JJ	dubious
 due	JJ	due
-durable	VV0	durable
+dull	NN	dull
 during	IN	during
-dynamic	VV0	dynamic
-eager	NN	eager	VV0	eager
-early	RB	early
+eager	NN	eager
+earlier	JJ	early	RB	earlier
+early	JJ	early	RB	early
 earned	VV0	earn
-easy	JJ	easy
+eased	JJ	eased
+easier	RB	easier
+easily	RB	easily
+easy	VV0	easy
 eat	VV0	eat
 economical	JJ	economical
-economy	NN	economy
 eco‑friendly	RB	eco‑friendly
-editing	NN	editing	VV0	edit
+edge	NN	edge
+editing	VV0	edit
 edition	NN	edition
 educates	VV0	educate
+education	NN	education
 effective	JJ	effective
-effects	NNS	effect
-efficiency	NN	efficiency
-efficient	JJ	efficient	VVD	efficient
+effectively	RB	effectively
+efficient	JJ	efficient
 effort	NN	effort
+effortless	JJ	effortless	NN	effortless
+efforts	NNS	effort
+election	NN	election
 elegant	JJ	elegant
-email	NN	email
-emailed	VVD	email
-embrace	VV0	embrace
-embraced	VVD	embrace
-embraces	VV0	embrace
-emerging	VV0	emerge
+Elm	NN	elm
+else	RB	else
+embarrassed	VVD	embarrass
+emerged	VVD	emerge
 emotion	NN	emotion
 emotional	JJ	emotional
-empty	VV0	empty
+emotions	NNS	emotion
+emphasized	VVD	emphasize
+employees	NNS	employee
+empty	VVD	empty
+encounter	NN	encounter
+encountered	VV0	encounter
+encounters	NNS	encounter
+encouraged	VV0	encourage	VVD	encourage
 encourages	NNS	encourages	VV0	encourage
 encouraging	JJ	encouraging	VV0	encourage
-encrypted	VVD	encrypt
-encryption	NN	encryption
 end	NN	end
-ending	VV0	end
-endless	RB	endless
-endorsed	VVD	endorse
-energetic	JJ	energetic	VV0	energetic
+ended	VVD	end
+endless	JJ	endless
+endure	NN	endure
+energetic	JJ	energetic
+energized	VVD	energize
 energy	NN	energy
+energy-draining	NN	energy-draining
 energy‑efficient	JJ	energy‑efficient
-enforced	VV0	enforce	VVD	enforce
+engaged	VV0	engage
+engagement	NN	engagement
 engaging	VV0	engage
 engine	NN	engine
-engineered	VVD	engineer
-enjoy	VV0	enjoy
+enjoy	NN	enjoy	VV0	enjoy
+enjoyable	JJ	enjoyable
 enjoyed	VVD	enjoy
-enlightening	VV0	enlighten
-enriches	VV0	enrich
-enrolled	VVD	enrol
+enough	JJ	enough	RB	enough
+ensures	VV0	ensure
 entered	VVD	enter
-entertain	VV0	entertain
 entertaining	VV0	entertain
-enthusiastic	JJ	enthusiastic	VV0	enthusiastic
-enticing	VV0	entice
-episode	NN	episode
-equipment	NN	equipment
+enthusiasm	NN	enthusiasm
+enthusiastic	JJ	enthusiastic
+entrance	NN	entrance
+environmentally	RB	environmentally
+equally	RB	equally
+equals	NNS	equal
+equation	NN	equation
 equipped	VV0	equip
+equitable	JJ	equitable
+eraser	NN	eraser
+erected	VV0	erect
 ergonomic	JJ	ergonomic
-erroneous	JJ	erroneous
 error	NN	error
-error‑free	RB	error‑free
-essay	NN	essay	VV0	essay
+errors	NNS	error
+espresso	NN	espresso
 essential	JJ	essential
-established	VV0	establish
-estimated	VVD	estimate
-evaluated	VVD	evaluate
+evading	VV0	evade
 evaluation	NN	evaluation
-evening	NN	evening
+evening	NN	evening	VV0	even
 evenings	NNS	evening
+evenly	RB	evenly
 event	NN	event
+ever	RB	ever
+Everest	NN	everest
 every	AT	every
 everyone	NN	everyone
+everything	NN	everything
+everywhere	RB	everywhere
 evidence	NN	evidence
 evident	JJ	evident
-evil	VV0	evil
-evolving	VV0	evolve
-exact	JJ	exact
-exam	JJ	exam	NN	exam
-examined	VVD	examine
-examines	VV0	examine
-example	NN	example
+exactly	RB	exactly
+exaggerated	VV0	exaggerate
+exam	NN	exam
+examine	VV0	examine
 exceeded	VV0	exceed
-exceeding	VV0	exceed
 excellent	JJ	excellent
 exceptional	JJ	exceptional
 exceptionally	RB	exceptionally
-exchanged	VVD	exchange
-excited	VVD	excite
+excessive	JJ	excessive
+excited	JJ	excited	VVD	excite
 exciting	JJ	exciting	VV0	excite
-exclusive	JJ	exclusive
-executed	VV0	execute	VVD	execute
-execution	NN	execution
-exemplary	JJ	exemplary
+excuse	NN	excuse
+exercise	NN	exercise
+exhaust	NN	exhaust
+exhausted	VVD	exhaust
 exhausting	VV0	exhaust
-exhaustive	VV0	exhaustive
-exhibit	NN	exhibit
 exhibited	VVD	exhibit
+exhibition	NN	exhibition
 exhibits	VV0	exhibit
+exists	VV0	exist
+expand	NN	expand	VV0	expand
 expanding	VV0	expand
-expansion	NN	expansion
+expect	VV0	expect
+expectation	NN	expectation
 expectations	NNS	expectation
-expected	VVD	expect
-expedition	NN	expedition
-expense	NN	expense
-expensive	JJ	expensive	VV0	expensive
+expected	VV0	expect	VVD	expect
+expecting	VV0	expect
+expenses	NNS	expense
+expensive	JJ	expensive
 experience	NN	experience
-experienced	JJ	experienced	VV0	experience	VVD	experience
+experienced	JJ	experienced
 experiment	NN	experiment
-expert	JJ	expert
+expert	NN	expert
+Experts	NNS	expert
 explained	VVD	explain
 explains	VV0	explain
 explanation	NN	explanation
 exploration	NN	exploration
 explore	VV0	explore
-explored	VVD	explore
+explored	VV0	explore
 expressed	JJ	expressed	VVD	express
-exquisite	RB	exquisite
-extended	VV0	extend
-extensive	JJ	extensive	VV0	extensive
+expression	NN	expression
+exquisite	JJ	exquisite
+extended	VVD	extend
+external	JJ	external
+extinction	NN	extinction
+extra	JJ	extra
+extraordinary	JJ	extraordinary
+extravagant	NN	extravagant
 extremely	RB	extremely
-eye-catching	JJ	eye-catching
+eye	NN	eye
+eye-catching	NN	eye-catching
+eye-opening	JJ	eye-opening
+eyeing	VV0	eye
 eyes	NNS	eye
-fabric	NN	fabric
-facilitated	VVD	facilitate
+fabricated	VV0	fabricate
+faced	VVD	face
 facility	NN	facility
 fact	NN	fact
+faded	JJ	faded	VV0	fade	VVD	fade
+fades	NNS	fade
+fail	VV0	fail
+failed	VV0	fail	VVD	fail
 failure	NN	failure
-fair	JJ	fair
+fair	JJ	fair	NN	fair
+fairly	RB	fairly
+fairness	NN	fairness
+faith	NN	faith	VV0	faith
+fake	RB	fake
+fall	NN	fall
+fallen	VV0	fall
 false	JJ	false
+falsified	VVD	falsify
+fame	NN	fame
 families	NNS	family
 family	NN	family
 famous	JJ	famous
 fan	NN	fan
+fancy	NN	fancy
+fans	NNS	fan
+fantastic	JJ	fantastic
 far	RB	far
-fascinating	JJ	fascinating	VV0	fascinate
-fashionable	JJ	fashionable
-fast	JJ	fast	RB	fast	VVD	fast
+far-fetched	JJ	far-fetched
+farewell	RB	farewell
+fascinating	VV0	fascinate
+fast	JJ	fast	NN	fast	RB	fast
+fasten	VV0	fasten
 faster	RB	faster
+fatigued	VV0	fatigue
+fatiguing	VV0	fatigue
 fault	NN	fault
-favor	VV0	favor
-favorable	VV0	favorable
-favored	VVD	favor
+favor	NN	favor
 favorite	JJ	favorite	NN	favorite
 favorites	NNS	favorite
-favourable	JJ	favourable
-fear	VV0	fear
-feasible	JJ	feasible
-feature	NN	feature
+favourite	JJ	favourite
+fear	NN	fear
+feared	VVD	fear
 featured	JJ	featured
 features	VV0	feature
+fee	NN	fee
+feed	VV0	fee
 feedback	NN	feedback
-feel	NN	feel
-feelings	VV0	feelings
-felt	VVD	felt
+feel	NN	feel	VV0	feel
+feeling	NN	feeling	VV0	feel
+feelings	NNS	feeling
+feels	VV0	feel
+fell	VVD	fell
+fellow	NN	fellow
+felt	VV0	felt	VVD	felt
+fence	NN	fence
 fern	JJ	fern
-fervent	JJ	fervent	NN	fervent
+ferry	NN	ferry
 festival	NN	festival
 festive	JJ	festive
-fierce	VV0	fierce
-figure	NN	figure
+festivities	NNS	festivity
+fetch	VV0	fetch
+few	JJ	few
+fiercely	RB	fiercely
+fiery	NN	fiery
+fight	VV0	fight
+figure	VV0	figure
+figured	VVD	figure
+figures	NNS	figure
 file	NN	file
-filled	VV0	fill
+files	NNS	file
+filled	VV0	fill	VVD	fill
+filling	NN	filling	VV0	fill
 film	NN	film
-filmed	VVD	film
+filthy	NN	filthy
 final	JJ	final
+finals	NNS	final
+financial	JJ	financial
 find	VV0	find
-finding	VV0	find
 findings	NNS	finding
-finish	JJ	finish	VV0	finish
-finished	VVD	finish
-firewall	NN	firewall
-firm	JJ	firm	NN	firm
+fine	JJ	fine
+finest	JJ	fine
+finish	VV0	finish	VVD	finish
+finished	VV0	finish	VVD	finish
+finishing	VV0	finish
+fireworks	NNS	firework
+firm	NN	firm
+firmly	RB	firmly
+first	JJ	first	RB	first
+fit	NN	fit
 fits	NNS	fit	VV0	fit
+fix	VV0	fix
 fixed	JJ	fixed	VV0	fix	VVD	fix
-flashy	VV0	flashy
+Fixing	VV0	fix
+fixing	VV0	fix
+fixture	NN	fixture
+flat	JJ	flat
 flavor	NN	flavor
-flavorful	VV0	flavorful
+flavorful	JJ	flavorful
+flavour	NN	flavour
+flavourful	JJ	flavourful
 flawed	VV0	flaw
-flawless	JJ	flawless	NN	flawless	VVD	flawless
-flawlessly	RB	flawlessly
-flexible	JJ	flexible
+flaws	NNS	flaw
+flexibility	NN	flexibility
 flickering	VV0	flicker
 flight	NN	flight
+floor	NN	floor
+flooring	NN	flooring
 flourishing	VV0	flourish
 flower	NN	flower
+flowerpot	NN	flowerpot
 flowers	NNS	flower
 flows	VV0	flow
-fluffy	VV0	fluffy
+fluent	NN	fluent
+fluffy	JJ	fluffy
+fluid	NN	fluid
+flying	VV0	fly
+focus	NN	focus
+fog	NN	fog
 folder	NN	folder
-followed	VV0	follow	VVD	follow
-fond	NN	fond
+follow	VV0	follow
+followed	VVD	follow
 food	NN	food
+foolish	JJ	foolish
 for	IN	for
+forced	JJ	forced
+forceful	JJ	forceful
+forcefully	RB	forcefully
 forecast	NN	forecast
-forecasted	VVD	forecast
-forest	NN	forest
+foresee	VV0	foresee
+forest	JJ	forest	NN	forest
 forever	RB	forever
-form	NN	form
-format	NN	format
+forget	NN	forget	VV0	forget
+forgot	VVD	forget
+forgotten	VV0	forget
 formation	NN	formation
-formed	VVD	form
-forum	NN	forum
-forward‑thinking	VV0	forward‑thinking
+forward	RB	forward
 found	VV0	find	VVD	find
-fragrant	VV0	fragrant
 frame	NN	frame
-framework	NN	framework
+frank	JJ	frank
+frayed	VV0	fray
 free	JJ	free
-freight	NN	freight
-frequent	VV0	frequent	VVD	frequent
-fresh	JJ	fresh	VV0	fresh
-Friday	NN	Friday
+freezing	VV0	freeze
+French	JJ	french
+frenzy	NN	frenzy
+frequent	VV0	frequent
+frequently	RB	frequently
+Friday	NN	friday
+fridge	NN	fridge
 friend	NN	friend
-friendly	RB	friendly
-friendship	JJ	friendship	NN	friendship
+friendly	JJ	friendly
+friends	NNS	friend	VV0	friends
+frightened	VV0	frighten
 from	IN	from
+front	NN	front
+frozen	VV0	freeze
 fruit	NN	fruit
-frustrated	VVD	frustrate
+frustrated	VV0	frustrate	VVD	frustrate
 frustrating	VV0	frustrate
-fuels	NNS	fuel
+frustration	NN	frustration
 fuel‑efficient	JJ	fuel‑efficient
+fulfilment	VV0	fulfilment
 full	JJ	full
 fully	RB	fully
-function	NN	function
+fun	NN	fun
 functional	JJ	functional
-functionality	NN	functionality
-fund	NN	fund
 fundamental	JJ	fundamental
-funded	VVD	fund
 funding	NN	funding
-fundraiser	NN	fundraiser
+funds	NNS	fund
 funny	JJ	funny	VV0	funny
+furious	JJ	furious
+furniture	NN	furniture
 further	JJ	further
 future	NN	future
-futuristic	JJ	futuristic	VV0	futuristic
-gadget	NN	gadget
-gained	VV0	gain
+futuristic	JJ	futuristic
 gaining	VV0	gain
 gallery	NN	gallery
 game	NN	game
 gaming	NN	gaming	VV0	game
 garage	NN	garage
 garden	NN	garden
+gasped	VVD	gasp
+gate	NN	gate
+gather	VV0	gather
 gathering	NN	gathering
 gave	VVD	give
-generated	VVD	generate
-generous	JJ	generous	VV0	generous
-genuine	JJ	genuine
+generosity	NN	generosity
+generous	JJ	generous
+genetic	JJ	genetic
 gesture	NN	gesture
+get	NN	get	VV0	get
+getaway	NN	getaway
 gets	VV0	get
+getting	VV0	get
 gift	NN	gift
+gifted	JJ	gifted
 girl	NN	girl
-glamorous	VV0	glamorous
-gloomy	NN	gloomy	VV0	gloomy
-glow	NN	glow
+give	VV0	give
+gives	VV0	give
+glass	NN	glass
+gloomy	NN	gloomy
+gloves	NNS	glove
+glow	JJ	glow	NN	glow
+glowing	VV0	glow
 go	VV0	go
 goal	NN	goal
+goals	NNS	goal
+goes	VV0	go
+going	VV0	go
+gone	VV0	go
 good	JJ	good
-got	JJ	got	NN	got	VVD	get
+goodness	NN	goodness
+goods	NNS	good
+gorgeous	JJ	gorgeous
+gossip	NN	gossip
+got	JJ	got	NNS	got	VVD	get
+gotten	NNS	gotten
+grab	NN	grab	VV0	grab
+grabbed	VVD	grab
 grades	NNS	grade
-grant	NN	grant
+gradually	RB	gradually
+grandfather	NN	grandfather
+grandmother	NN	grandmother
 graphic	JJ	graphic
-gratitude	NN	gratitude	VV0	gratitude
-gray	JJ	gray
-greasy	VV0	greasy
+grasp	VV0	grasp
+grasped	VVD	grasp
+gratitude	NN	gratitude
+gray	NN	gray
 great	JJ	great
-green	VV0	green
-greeted	VVD	greet
 grew	VVD	grow
+grievance	NN	grievance
+grimy	NN	grimy
 ground	NN	ground
-groundbreaking	NN	groundbreaking	VV0	groundbreaking
 group	NN	group
-growing	VV0	grow
+grow	VV0	grow
+growling	VV0	growl
 growth	NN	growth
-guest	JJ	guest
+grumbled	VVD	grumble
+guaranteed	VVD	guarantee
+guarantees	VV0	guarantee
+guard	NN	guard
+guidance	NN	guidance
 guided	VVD	guide
 guideline	NN	guideline
 guidelines	NNS	guideline
-guides	IN	guide	NNS	guide	VV0	guide
+guides	VV0	guide
+guilt	NN	guilt
+guilty	JJ	guilty
 guitar	NN	guitar
-gust	NN	gust
-had	VVD	have
-halftime	NN	halftime
+guitarist	NN	guitarist
+gusts	NNS	gust
+guy	NN	guy
+had	VV0	have	VVD	have
+hadn	VV0	hadn	VVD	hadn
+hallway	NN	hallway
+halted	VVD	halt
+hand	NN	hand
 handcrafted	VV0	handcraft
-handled	VV0	handle
-handmade	VV0	handmade
+handle	NN	handle	VV0	handle
+handling	NN	handling	VV0	handle
+handmade	JJ	handmade
 handwritten	VV0	handwritten
+hang	NN	hang
+hanging	VV0	hang
 hangs	VV0	hang
+happen	VV0	happen
+happened	VVD	happen
+happening	VV0	happen
+happiness	NN	happiness	VV0	happiness
 happy	JJ	happy
-hard	JJ	hard	VV0	hard
-hardware	NN	hardware
-harsh	VV0	harsh
+hard	JJ	hard
+harder	NN	harder
+harsh	JJ	harsh	NN	harsh	VV0	harsh
 has	VV0	have
-hat	NN	hat
-hazard	NN	hazard
-He	PRP	He
+hasty	JJ	hasty
+hat	NN	hat	PRP	hat	VV0	hat
+haunted	VVD	haunt
+have	VV0	have
+Have	VV0	have
+having	VV0	have
+hazardous	JJ	hazardous
+He	PRP	he
 he	PRP	he
-heals	NNS	heals
-heard	VV0	hear	VVD	hear
+head	NN	head
+headed	VVD	head
+heal	VV0	heal
+healing	VV0	heal
+hear	VV0	hear
+heard	NN	heard	VV0	hear	VVD	hear
 heart	NN	heart
 heartfelt	JJ	heartfelt	NN	heartfelt
+hearty	NN	hearty
 heat	NN	heat
 heated	VVD	heat
-heavy	JJ	heavy	VVD	heavy
-held	VVD	hold
-helped	VVD	help
+heater	NN	heater
+heavenly	RB	heavenly
+heavy	JJ	heavy
+heirloom	NN	heirloom
+held	VV0	hold	VVD	hold
+help	NN	help	VV0	help
+helped	VV0	help	VVD	help
 helpful	JJ	helpful
-her	PRP	her
+helps	NNS	help
+her	NN	her	PRP	her
+Her	PRP	her
+here	RB	here
 hero	NN	hero
+herself	NN	herself	PRP	herself
+hesitation	NN	hesitation
+hidden	JJ	hidden	NN	hidden
+hiding	NN	hiding	VV0	hide
 high	JJ	high	VV0	high
+high-end	NN	high-end
 highlight	NN	highlight
 highlighted	VVD	highlight
 highly	RB	highly
+highway	NN	highway
 high‑performance	NN	high‑performance
-hike	NN	hike
-hiked	VVD	hike
+hike	NN	hike	VV0	hike
 hilarious	JJ	hilarious
 hill	NN	hill
-hinders	VV0	hinder
+him	PRP	him
+hinted	VVD	hint
+hire	VV0	hire
+His	PRP	his
 his	PRP	his
+Historians	NNS	historian
 historic	JJ	historic
-hit	NN	hit	VVD	hit
+historical	JJ	historical
+hit	NN	hit	VV0	hit	VVD	hit
+hoax	NN	hoax
 hold	VV0	hold
+hold-up	JJ	hold-up	NN	hold-up
+holding	VV0	hold
 holds	VV0	hold
 holiday	NN	holiday
-honest	RB	honest
+home	NN	home	RB	home
+honest	JJ	honest	VV0	honest
+honestly	RB	honestly
 honesty	NN	honesty
-honor	NN	honor
-honored	VVD	honor
-hope	NN	hope
+hoodie	NN	hoodie
+hope	NN	hope	VV0	hope
+hoped	VVD	hop
+hopeful	JJ	hopeful
+hopes	VV0	hop
+hoping	VV0	hop
+hopping	VV0	hop
+horizon	NN	horizon
+horror	NN	horror
+horse	NN	horse
 hosts	VV0	host
-hot	JJ	hot	PDT	hot
+hot	JJ	hot
 hotel	NN	hotel
+hour	NN	hour
+hours	NNS	hour
 house	NN	house
 houses	NNS	house
+how	RB	how
+hue	NN	hue
 huge	JJ	huge
 hum	VV0	hum
-humidity	NN	humidity
+humbling	VV0	humble
 hummed	VVD	hum
 humor	NN	humor
+humorous	JJ	humorous
 humour	NN	humour
+hundred	CD	hundred
 hungry	JJ	hungry
+hunting	VV0	hunt
+hurt	VV0	hurt
 hypothesis	NN	hypothesis
-I	PRP	I
-icing	VV0	ice
+I	PRP	i
+ice	NN	ice
+icing	NN	icing
+icy	NN	icy
 idea	NN	idea
 ideal	JJ	ideal
+if	IN	if
 ignore	VV0	ignore
+ignored	VV0	ignore	VVD	ignore
 illustrated	VVD	illustrate
-image	NN	image
-imagination	NN	imagination
+imagine	NN	imagine	VV0	imagine
 impact	NN	impact
-implemented	VV0	implement	VVD	implement
+impactful	JJ	impactful	NN	impactful
+implausible	JJ	implausible
+implemented	VV0	implement
+implied	VVD	imply
+importance	NN	importance
 important	JJ	important
 impossible	JJ	impossible
-impressed	JJ	impressed	VV0	impress	VVD	impress
+impressed	JJ	impressed
 impression	NN	impression
-impressive	JJ	impressive	VV0	impressive
-improved	VV0	improve
+impressive	JJ	impressive
+impressively	RB	impressively
+improve	VV0	improve
 improvement	NN	improvement
-improving	VV0	improve
+improvements	NNS	improvement
 in	IN	in
-incident	NN	incident
-inclined	VVD	incline
-inconclusive	VV0	inconclusive
-increase	NN	increase
-increasing	VV0	increase
+inaccessible	JJ	inaccessible
+inaccurate	JJ	inaccurate
+inadequate	JJ	inadequate
+inattentive	JJ	inattentive
+incline	NN	incline
+included	VV0	include
+inclusion	NN	inclusion
+inconvenient	NN	inconvenient
+incorrect	JJ	incorrect
+increase	VV0	increase
+increased	VV0	increase
+incredible	JJ	incredible
 incredibly	RB	incredibly
-index	NN	index
+indicated	VVD	indicate
+indication	NN	indication
+individuals	NNS	individual
+indoors	NNS	indoors
+indulgent	NN	indulgent
+inefficiencies	NNS	inefficiency
 inevitable	JJ	inevitable
-inference	NN	inference
-inflation	NN	inflation
+infectious	JJ	infectious
 influenced	VVD	influence
-influences	NNS	influence	VV0	influence
-informal	JJ	informal
 information	NN	information
 informative	JJ	informative
-informed	JJ	informed
-initiated	VVD	initiate
-initiative	JJ	initiative	NN	initiative
-innovation	NN	innovation
-innovative	JJ	innovative	VV0	innovative
+informed	VV0	inform	VVD	inform
+initiative	NN	initiative
+inn	NN	inn
+inner	JJ	inner
+innocent	JJ	innocent	NN	innocent
+innovative	JJ	innovative
 insightful	JJ	insightful
 insights	NNS	insight
 insisted	VVD	insist
-inspected	VVD	inspect
-inspection	NN	inspection
-inspiration	NN	inspiration
+insistence	NN	insistence
 inspirational	JJ	inspirational
-inspire	VV0	inspire
-inspires	NNS	inspires	VV0	inspire
-inspiring	VV0	inspire
-installation	NN	installation
-installed	VVD	instal
-instance	NN	instance
+inspired	JJ	inspired
+inspires	VV0	inspire
+inspiring	JJ	inspiring	VV0	inspire
 instant	NN	instant
 instructed	VVD	instruct
-instruction	NN	instruction
 instructions	NNS	instruction
 instructs	VV0	instruct
-instrument	NN	instrument
-integrated	VV0	integrate
+insufficient	JJ	insufficient
 integrity	NN	integrity
-intense	JJ	intense	VV0	intense
-interactive	JJ	interactive
-interest	NN	interest
-interested	JJ	interested
+intelligence	NN	intelligence
+intense	JJ	intense
+intensely	RB	intensely
+interconnected	VV0	interconnect
 interesting	JJ	interesting	VV0	interest
-interface	NN	interface
-interpretation	NN	interpretation
-interpreted	VVD	interpret
+intergalactic	JJ	intergalactic
+intermittently	RB	intermittently
+intersection	NN	intersection
 interview	NN	interview
 into	IN	into
+intolerable	JJ	intolerable
 intricate	JJ	intricate
-intriguing	JJ	intriguing	NN	intriguing	VV0	intrigue
-intrusive	VV0	intrusive
-intuitive	JJ	intuitive	VV0	intuitive
+intriguing	NN	intriguing	VV0	intrigue
 invaluable	JJ	invaluable
-invented	VVD	invent
-inventory	NN	inventory
-invested	VVD	invest
-investment	NN	investment
-invitation	NN	invitation
+invest	VV0	invest
+investigated	VVD	investigate
+involved	JJ	involved	VV0	involve	VVD	involve
+involvement	NN	involvement
 irrefutable	JJ	irrefutable
+irreversible	JJ	irreversible
+irritated	VV0	irritate
+irritating	VV0	irritate
 is	VV0	be
-island	NN	island
 isn	NN	isn
 issue	NN	issue
+issues	NNS	issue
+It	PRP	it
 it	PRP	it
-It	PRP	It
 item	NN	item
 its	PRP	it
 jacket	NN	jacket
-jewel	NN	jewel
+jackpot	NN	jackpot
+jeans	NNS	jean
 job	NN	job
-jog	VV0	jog
+jobs	NNS	job
+jog	NN	jog	VV0	jog
+jogging	VV0	jog
 join	VV0	join
-joined	VVD	join
 joke	NN	joke
+jotted	VVD	jot
 journey	NN	journey
-journeyed	VVD	journey
+joy	NN	joy
 joyful	JJ	joyful	NN	joyful
+judge	NN	judge
 judgment	NN	judgment
 juice	NN	juice
-juicy	VV0	juicy
+jump	NN	jump
+jumping	VV0	jump
+jury	NN	jury
 just	RB	just
 justice	NN	justice
-justified	VV0	justify	VVD	justify
-keen	JJ	keen	VV0	keen
-kept	VVD	keep
-key	JJ	key
+justification	NN	justification
+justified	JJ	justified
+keep	VV0	keep
+keeper	NN	keeper
+keeping	VV0	keep
+keeps	NNS	keep	VV0	keep
+kept	VV0	keep	VVD	keep
+key	JJ	key	NN	key
+keys	NNS	key	VV0	key
+kick	NN	kick
+kid	NN	kid
+kids	NNS	kid
 kind	NN	kind
 kindness	NN	kindness
-kit	NN	kit
-kitchen	NN	kitchen
-knocks	VV0	knock
+knew	VVD	know
+knocking	VV0	knock
 know	VV0	know
+knowing	VV0	know
 knowledge	NN	knowledge
 knowledgeable	JJ	knowledgeable
 known	VV0	know
 knows	VV0	know
-lacking	VV0	lack
-lag	NN	lag
-laggy	VV0	laggy
-lake	JJ	lake	NN	lake
+lack	NN	lack
+lacked	VVD	lack
+laid	VV0	lay
+lake	NN	lake
+lamp	NN	lamp
+landing	NN	landing
+landmark	NN	landmark
 landscape	NN	landscape
-landscaped	VV0	landscape
+landscaped	JJ	landscaped
+lane	NN	lane
+lanes	NNS	lane
 language	NN	language
 languages	NNS	language
-lap	NN	lap
 laptop	NN	laptop
 large	JJ	large
+large-scale	JJ	large-scale
 last	JJ	last
 lasting	JJ	lasting
-lasts	VV0	last
+late	JJ	late	RB	late
+later	RB	later
 latest	JJ	late
-lauded	VVD	laud
+latte	NN	latte
+laugh	IN	laugh
+laughed	VVD	laugh
 laughter	NN	laughter
-launched	VVD	launch
 law	NN	law
 lawn	NN	lawn
+lawyer	NN	lawyer
 layers	NNS	layer
-layout	NN	layout
+leader	NN	leader
 leads	VV0	lead
-league	NN	league
 leak	NN	leak
-learned	VVD	learn
+leaked	VV0	leak
+learned	VV0	learn	VVD	learn
 learner	NN	learner
 learning	NN	learning	VV0	learn
 leased	VVD	lease
 leave	VV0	leave
+leaving	VV0	leave
 lecture	NN	lecture
-led	VVD	lead
-left	VVD	leave
-lens	NNS	lens
+led	VV0	lead	VVD	lead
+leeway	NN	leeway
+left	VV0	leave	VVD	leave
 lent	VV0	lend
+lessens	VV0	lessen
 lesson	NN	lesson
+let	VV0	let	VVD	let
+Let	VV0	let
 letter	NN	letter
 library	NN	library
+lid	NN	lid	VVD	lid
+lie	NN	lie
+lied	VV0	lie
 life	NN	life
 lifelong	JJ	lifelong
+lift	NN	lift
+lifted	JJ	lifted	VV0	lift	VVD	lift
 light	JJ	light	NN	light
-lighting	NN	lighting
-lightning	NN	lightning
-lights	NNS	light	VV0	light
-like	IN	like
-likes	VV0	like
+like	IN	like	VV0	like
+liking	NN	liking
+limited	JJ	limited
 line	NN	line
-link	NN	link
-liquid	VV0	liquid
+lingered	VVD	linger
 list	NN	list
 listened	VVD	listen
-live	VV0	live
+little	JJ	little
+live	JJ	live
 lively	RB	lively
 lives	NNS	life	VV0	live
-loaded	VV0	load
+ll	JJ	ll
+loaf	NN	loaf
+local	JJ	local
 located	VV0	locate
-logical	JJ	logical
-logo	NN	logo
-lonely	RB	lonely
-long	JJ	long	RB	long	VV0	long	VVD	long
-look	VV0	look
+lock	VV0	lock
+lodged	VVD	lodge
+logic	NN	logic
+long	JJ	long	RB	long
+longer	JJ	long
+longing	VV0	long
+look	NN	look	VV0	look
 looked	VVD	look
+looking	VV0	look
 looks	NNS	look	VV0	look
-loss	NN	loss
+loose	JJ	loose
+lose	VV0	lose
+losing	VV0	lose
 lost	VV0	lose	VVD	lose
-loud	VV0	loud
-louder	JJ	loud
+lot	NN	lot
+lottery	NN	lottery
+loud	NN	loud	VV0	loud
+loudly	RB	loudly
 love	NN	love	VV0	love
 loved	VV0	love
-lovely	RB	lovely
-low	JJ	low	VV0	low
-lush	VV0	lush
-luxurious	JJ	luxurious	VV0	luxurious
-machine	NN	machine
+lovely	JJ	lovely	RB	lovely
+low	JJ	low
+lower	JJ	low
+loyal	JJ	loyal
+luck	NN	luck	VVD	luck
+lunch	NN	lunch
+luxurious	JJ	luxurious
+luxury	NN	luxury
+lying	NN	lying
+m	JJ	m	MD	m	NNS	m	RB	m
 made	VV0	make	VVD	make
 magazine	NN	magazine
+magnificent	JJ	magnificent
 mailed	VVD	mail
+Main	NN	main
 maintained	VVD	maintain
-maintenance	NN	maintenance
+maintenance	NN	maintenance	VV0	maintenance
 majestic	JJ	majestic
+major	JJ	major
+make	VV0	make
 makes	VV0	make
-makeup	NN	makeup
+making	VV0	make
 malfunctioning	VV0	malfunction
+mall	NN	mall
 man	NN	man
-managed	VVD	manage
+manage	VV0	manage
 manager	NN	manager
-mandatory	JJ	mandatory
-manufactured	VVD	manufacture
-Many	JJ	Many	NN	Many
+manages	VV0	manage
+manner	NN	manner
+manuscript	NN	manuscript
 many	JJ	many
-map	NN	map
-margin	NN	margin
+marathon	NN	marathon
+marker	NN	marker
 market	NN	market
-marveled	VVD	marvel
-mastered	VVD	master
+Market	NN	market
+markets	NNS	market
+married	JJ	married	VV0	marry
+marry	VV0	marry
+massive	JJ	massive
 masterpiece	NN	masterpiece
+mat	NN	mat
 match	NN	match
+matches	VV0	match
+material	JJ	material
+math	NN	math
 matter	NN	matter
-may	MD	may
+mattered	VV0	matter
+matters	NNS	matter
+maturely	RB	maturely
+maturity	NN	maturity
 me	PRP	me
 meal	NN	meal
-meaningful	JJ	meaningful	VV0	meaningful
-measurable	JJ	measurable
-measure	NN	measure
-measured	VVD	measure
-measurement	NN	measurement
-mechanism	NN	mechanism
-medal	NN	medal
-media	NNS	medium
+measures	NNS	measure
 medicine	NN	medicine
-meeting	NN	meeting	VV0	meet
+meet	NN	meet	VV0	meet
+meeting	NN	meeting
+melodic	VVD	melodic
 melody	NN	melody
+members	NNS	member
 memorable	JJ	memorable
-memories	NNS	memory	VV0	memories
+memories	NNS	memory
 memory	NN	memory
-mended	VVD	mend
-mentioned	VVD	mention
+mend	VV0	mend
+mended	VV0	mend
+mentioned	VV0	mention	VVD	mention
 mentor	NN	mentor
 mentors	NNS	mentor	VV0	mentor
-menu	NN	menu
+meow	NN	meow
+meowing	VV0	meow
+merging	VV0	merge
 mesmerizing	VV0	mesmerize
 message	NN	message
-messy	VV0	messy
+messy	NN	messy
 met	VV0	meet	VVD	meet
 method	NN	method
 methods	NNS	method
-meticulously	RB	meticulously
+middle	NN	middle
+midnight	NN	midnight
+might	MD	might
 mileage	NN	mileage
-milestone	NN	milestone
-milestones	NNS	milestone
-minimal	JJ	minimal
-misleading	JJ	misleading
+mind	NN	mind
+mind-blowing	JJ	mind-blowing
+minutes	NNS	minute
+miscalculated	VVD	miscalculate
+misguided	VV0	misguide
+misjudged	VVD	misjudge
+misleading	VV0	mislead
+misled	VV0	mislead	VVD	mislead
+misplaced	VV0	misplace
+miss	VV0	miss
+missed	VV0	miss	VVD	miss
 missing	VV0	miss
-mission	NN	mission
-mistake	NN	mistake
-mitigated	VVD	mitigate
+mistake	NN	mistake	VV0	mistake
+mistaken	VV0	mistake
+mistakes	NNS	mistake
+mistrust	NN	mistrust
+misunderstood	VVD	misunderstand
 model	NN	model
-moderated	VVD	moderate
-modern	JJ	modern	VV0	modern
-moist	JJ	moist	VV0	moist
+modern	JJ	modern
+modified	VV0	modify
+moist	JJ	moist
 moment	NN	moment
-momentum	NN	momentum
-monitored	VVD	monitor
+money	NN	money
 month	NN	month
-monumental	VV0	monumental
+months	NNS	month
+monument	JJ	monument	NN	monument
 moon	NN	moon
+more	JJ	more	RB	more
 morning	NN	morning
+most	RB	most
 motion	NN	motion
-motivated	VVD	motivate
+motivated	VV0	motivate	VVD	motivate
 motivates	VV0	motivate
+motivating	VV0	motivate
+motor	NN	motor
+motorcycle	NN	motorcycle
+Mount	NN	mount
 mountain	NN	mountain
+mousse	NN	mousse
+mouthwatering	VV0	mouthwatering
+move	NN	move	VV0	move
 moved	VV0	move	VVD	move
+movement	NN	movement
 movie	NN	movie
 moving	VV0	move
-mural	JJ	mural
+much	JJ	much	RB	much
+mug	NN	mug
+mural	JJ	mural	NN	mural
 museum	NN	museum
 music	NN	music
-musician	JJ	musician	NN	musician
+musician	NN	musician
 must	MD	must
+My	PRP	my
 my	PRP	my
+myself	PRP	myself
 mystery	NN	mystery
 n't	RB	n't
+name	NN	name
 narrated	VVD	narrate
-narrative	NN	narrative
-narrator	NN	narrator
+narrative	JJ	narrative
 narrow	JJ	narrow
 natural	JJ	natural
-nature	JJ	nature	NN	nature
-navigated	VVD	navigate
+naïve	JJ	naïve
 near	IN	near
 necessary	JJ	necessary
-need	VV0	need
-needed	VVD	need
-needs	VV0	need
-negotiated	VVD	negotiate
+necklace	NN	necklace
+need	NN	need	VV0	need
+needed	VV0	need	VVD	need
+needs	NNS	need	VV0	need
+neglecting	VV0	neglect
+negligent	JJ	negligent
+negotiators	NNS	negotiator
 neighbor	NN	neighbor
 neighborhood	NN	neighborhood
+neighbour	NN	neighbour
+neighing	VV0	neigh
 nervous	JJ	nervous
-network	NN	network
 never	RB	never
 new	JJ	new
 newly	RB	newly
 news	NN	news
+next	IN	next	JJ	next
+nice	JJ	nice
 night	NN	night
-no	AT	no
+no	AT	no	RB	no
+nobody	NN	nobody
 noise	NN	noise
-noisy	VV0	noisy
+noisy	JJ	noisy
+non-negotiable	JJ	non-negotiable
+non-stop	JJ	non-stop
+nonstop	JJ	nonstop
 not	RB	not
-notable	JJ	notable
-note	VV0	note
+notebook	NN	notebook
 noted	VVD	note
-noteworthy	VV0	noteworthy
-noticeable	JJ	noticeable
+notes	NNS	note
+nothing	NN	nothing
+notice	VV0	notice
 noticed	VVD	notice
-notification	NN	notification
 notion	NN	notion
-novel	IN	novel	JJ	novel	NN	novel
+novel	JJ	novel	NN	novel
 now	RB	now
-number	NN	number
-obeyed	VVD	obey
-objective	JJ	objective	NN	objective
-observation	NN	observation
+numerous	JJ	numerous
+Oak	NN	oak
+objected	VVD	object
+objection	NN	objection
+objections	NNS	objection
+observe	VV0	observe
 observed	VVD	observe
-obstacles	NNS	obstacle	PRP	obstacle	VV0	obstacles
+observing	VV0	observe
+obsolete	JJ	obsolete
+obstacles	NNS	obstacle
 obvious	JJ	obvious
-occasion	NN	occasion
-ocean	JJ	ocean	NN	ocean
+occupies	VV0	occupy
+ocean	NN	ocean
+odd	JJ	odd
 of	IN	of
-off	RP	off
-offense	NN	offense
-offer	NN	offer
+off	IN	off	RB	off	RP	off
+offended	VVD	offend
+offered	VVD	offer
+offering	VV0	offer
+offers	VV0	offer
 office	NN	office
-official	JJ	official
 often	RB	often
+okay	JJ	okay	NN	okay
 old	JJ	old
 on	IN	on
 once	RB	once
-One	CD	One
 one	CD	one	NN	one
-online	IN	online
+online	NN	online
 only	RB	only
 open	JJ	open
-opened	JJ	opened	VVD	open
-operate	VV0	operate
-operated	VVD	operate
+opened	JJ	opened
+openness	NN	openness
+operates	VV0	operate
 operating	VV0	operate
-operation	NN	operation
+operational	JJ	operational
 opinion	NN	opinion
-opportunity	NN	opportunity
-opted	VVD	opt
-optimal	JJ	optimal
+opposed	VVD	oppose
 optimism	NN	optimism
-optimistic	JJ	optimistic	VV0	optimistic
-optimized	VV0	optimize
+optimistic	JJ	optimistic
 option	NN	option
+orchard	NN	orchard
 order	NN	order
 ordered	VVD	order
+orders	NNS	order
 organized	VVD	organize
-original	JJ	original	VV0	original
+original	JJ	original
+originating	VV0	originate
+other	JJ	other
+others	NNS	others
 our	PRP	our
-ours	VV0	ours
-out	RP	out
+ours	JJ	ours	VV0	ours
+out	IN	out	RB	out	RP	out
 outcome	NN	outcome
-outdated	VV0	outdated
-outline	NN	outline
-output	NN	output
-outside	IN	outside
+outdated	VV0	outdated	VVD	outdated
+outfit	JJ	outfit
+outside	IN	outside	JJ	outside
 outstanding	JJ	outstanding
-over	IN	over
-overcomes	NNS	overcomes	VV0	overcome
+oven	NN	oven
+over	IN	over	RP	over
+overcast	NN	overcast
+overcomes	RB	overcomes
 overdue	JJ	overdue
-overheating	VV0	overheat
-overlook	VV0	overlook
+overlooked	VVD	overlook
 overlooks	VV0	overlook
+overpass	NN	overpass
+overpowering	VV0	overpower
+overpriced	VV0	overprice
 oversized	VV0	oversized
-overwhelmed	VV0	overwhelm
+overwhelmed	VVD	overwhelm
 overwhelming	VV0	overwhelm
-overwhelmingly	RB	overwhelmingly
-own	VV0	own
+owl	RB	owl
+own	JJ	own	VV0	own
+owned	VV0	own	VVD	own
+owner	NN	owner
 owns	VV0	own
+pace	NN	pace
 package	NN	package
-packed	VV0	pack	VVD	pack
+packed	JJ	packed	VVD	pack
 page	NN	page
+pager	NN	pager
+paid	VV0	pay	VVD	pay
+pain	NN	pain
+painful	JJ	painful
+paint	NN	paint
 painted	VV0	paint	VVD	paint
 painting	NN	painting	VV0	paint
+pair	NN	pair
+palace	NN	palace
+panic	JJ	panic	NN	panic
 paper	NN	paper
-parcel	NN	parcel
+parents	NNS	parent
 park	NN	park
 parked	VV0	park	VVD	park
-participated	VVD	participate
+parking	NN	parking	VV0	park
+parrot	NN	parrot
+part	NN	part
+participate	NN	participate	VV0	participate
+participation	NN	participation
 party	NN	party
-pass	NN	pas	VV0	pass
-passed	VV0	pass
+pass	VV0	pass
+passed	VV0	pass	VVD	pass
+passengers	NNS	passenger
 passion	NN	passion
-passionate	VV0	passionate
+passionate	NN	passionate
+passionately	RB	passionately
 past	IN	past
-pasta	NN	pasta
+pastry	NN	pastry
 path	NN	path
+paths	NNS	path
+pathway	NN	pathway
 patience	NN	patience
-patient	JJ	patient
+patient	JJ	patient	NN	patient
+patiently	RB	patiently
+patisserie	NN	patisserie
+patrons	NNS	patron
 pattern	NN	pattern
+pause	VV0	pause
+pay	VV0	pay
 payment	NN	payment
-peaceful	JJ	peaceful
-peculiar	JJ	peculiar
-peer‑reviewed	VV0	peer‑reviewed
-perceptive	JJ	perceptive
-perfect	JJ	perfect	VV0	perfect
+pays	NNS	pay
+peace	NN	peace
+peaceful	JJ	peaceful	NN	peaceful
+peacefully	RB	peacefully
+peak	NN	peak
+pen	NN	pen	VV0	pen
+pencil	NN	pencil
+pendant	NN	pendant
+penned	VVD	pen
+people	NNS	people
+perception	NN	perception
+perched	VV0	perch
+perfect	JJ	perfect
+perfection	NN	perfection
 perfectly	RB	perfectly
+perform	NN	perform
 performance	NN	performance
 performed	VVD	perform
 performing	VV0	perform
 performs	NNS	performs	VV0	perform
-perilous	VV0	perilous
-persistent	VVD	persistent
-personal	JJ	personal
-perspective	NN	perspective
-perspectives	NNS	perspective
-persuasive	JJ	persuasive	VV0	persuasive
-pertinent	JJ	pertinent
-perused	VVD	peruse
-phenomenon	NN	phenomenon
-philosophy	NN	philosophy
+perfume	VV0	perfume
+perseverance	NN	perseverance
+persistence	NN	persistence
+person	NN	person
+persuade	VV0	persuade	VVD	persuade
+persuasive	JJ	persuasive
+pet	NN	pet
+petting	NN	petting
 phone	NN	phone
-photocopied	VVD	photocopy
+photo	NN	photo
 photograph	NN	photograph
-photographed	VVD	photograph
+phrase	NN	phrase
+physics	NNS	physic
 piano	NN	piano
+pick	NN	pick	VV0	pick
+picked	VVD	pick
 picture	NN	picture
-picturesque	JJ	picturesque	VV0	picturesque
 pie	NN	pie
-piercing	VV0	pierce
+pigment	NN	pigment
+Pine	NN	pine
+pink	NN	pink
+pipe	NN	pipe
+pitch-black	NN	pitch-black
+pivotal	JJ	pivotal
 pizza	NN	pizza
+pizzeria	NN	pizzeria
+place	NN	place	VV0	place
 placed	VVD	place
+plagiarized	VV0	plagiarize
 plan	NN	plan
-planned	VVD	plan
-planning	NN	planning
+planned	VV0	plan	VVD	plan
+planning	VV0	plan
+plans	NNS	plan
 plant	NN	plant
 planted	VVD	plant
-plausible	JJ	plausible
-play	NN	play
+play	NN	play	VV0	play
 played	VVD	play
-player	NN	player
+players	NNS	player
 playful	JJ	playful
 playing	VV0	play
 plays	VV0	play
+pleasant	JJ	pleasant
+Please	NN	please	VV0	please
+pleased	JJ	pleased
 plot	NN	plot
-poem	NN	poem
+podcast	NN	podcast
 point	NN	point
+pointed	VVD	point
+pointless	NN	pointless
+policies	NNS	policy
 policy	NN	policy
-polished	VVD	polish
-poll	NN	poll
-polluted	VV0	pollute	VVD	pollute
+polluted	VV0	pollute
+pond	NN	pond
+pool	NN	pool
+poor	JJ	poor
 popular	JJ	popular
 popularity	NN	popularity
-porch	NN	porch	VV0	porch
-portfolio	NN	portfolio
+porch	NN	porch
+portion	NN	portion
 portrait	NN	portrait
-portrayal	NN	portrayal
-position	NN	position
-positive	JJ	positive
+pose	VV0	pose
+positioned	VVD	position
+possessed	VVD	possess
+possibility	NN	possibility
+possible	JJ	possible
 post	NN	post
-postcard	NN	postcard
-postponed	VV0	postpone	VVD	postpone
+postponed	VV0	postpone
 pot	NN	pot
-potential	IN	potential	JJ	potential
 power	NN	power
 powerful	JJ	powerful
-practical	JJ	practical	VV0	practical
+practical	JJ	practical
 practice	NN	practice
-practiced	VVD	practice
-praise	RB	praise
+praise	NN	praise
 praised	VVD	praise
-precise	JJ	precise	RB	precise	VV0	precise
+praising	NN	praising
+prank	NN	prank
+prayed	VV0	pray	VVD	pray
+precious	JJ	precious
+precisely	RB	precisely
 precision	NN	precision
+predict	VV0	predict
 predicted	VVD	predict
 prefer	VV0	prefer
-preferred	VVD	prefer
+prefers	VV0	prefer
 premiered	VVD	premier
-preparation	NN	preparation
-prepared	VVD	prepare
-present	JJ	present
+preparations	NNS	preparation
+prepared	JJ	prepared	VV0	prepare	VVD	prepare
+preparing	VV0	prepare
+presence	NN	presence
+present	JJ	present	VVD	present
 presentation	NN	presentation
 presented	VVD	present
-pressured	VV0	pressure
-prestigious	VV0	prestigious
-prevails	NNS	prevails	VV0	prevail
-prevalent	JJ	prevalent
-prevented	VVD	prevent
-price	NN	price
-priceless	IN	priceless
-principle	NN	principle
-printed	VVD	print
-printer	NN	printer
-privacy	NN	privacy
+press	NN	press
+pressing	VV0	press
+pressure	NN	pressure
+presume	VV0	presume
+presumed	VVD	presume
+presumption	NN	presumption
+prevail	VV0	prevail
+prevails	NNS	prevails
+priceless	JJ	priceless
+pricey	NN	pricey
+primary	JJ	primary
+primitive	JJ	primitive
+prior	JJ	prior
+prioritized	VV0	prioritize
+pristine	NN	pristine
 prize	NN	prize
 problem	NN	problem
-procedure	NN	procedure
+problematic	JJ	problematic
+problems	NNS	problem
+procedures	NNS	procedure
 proceed	VV0	proceed
 process	NN	process
 processed	VV0	process
 processes	VV0	process
 processor	NN	processor
-produced	VVD	produce
+proclaimed	VVD	proclaim
+produces	VV0	produce
 product	NN	product
-production	NN	production
-productive	JJ	productive	VV0	productive
-professional	JJ	professional	VV0	professional
-profit	NN	profit
-profitable	JJ	profitable
-profound	NN	profound
+professor	NN	professor
+proficient	NN	proficient
 program	NN	program
 programming	VV0	program
-progress	JJ	progress	NN	progress	VV0	progress
+progress	NN	progress
 progressing	VV0	progress
-progression	NN	progression
 project	NN	project
-projected	VVD	project
-prolific	VV0	prolific
-promise	NN	promise
+promised	VVD	promise
 promising	VV0	promise
-promoted	VVD	promote
 promotion	NN	promotion
-prompt	JJ	prompt	VV0	prompt
 promptly	RB	promptly
+pronunciation	NN	pronunciation
+proof	NN	proof
 properly	RB	properly
 property	NN	property
 proposal	NN	proposal
-protected	VVD	protect
-protection	NN	protection
-protocol	NN	protocol
-proven	NN	proven	VV0	prove
+proposed	VVD	propose
+protecting	VV0	protect
+protested	VVD	protest
+proved	JJ	proved	VV0	prove	VVD	prove
 provided	VVD	provide
-provocative	JJ	provocative
 prowls	VV0	prowl
 published	VVD	publish
-pulse	NN	pulse
-punctual	VV0	punctual
+punchline	NN	punchline
+puppy	JJ	puppy	NN	puppy
+purchase	NN	purchase
 purchased	VVD	purchase
-pursued	VVD	pursue
+pure	NN	pure
+purely	RB	purely
+purpose	NN	purpose
+purse	NN	purse
+push	NN	push
+pushed	VV0	push	VVD	push
+put	VV0	put	VVD	put
+putting	VV0	put
 puzzle	NN	puzzle
-qualified	VV0	qualify
+puzzling	VV0	puzzle
+qualified	JJ	qualified
 quality	NN	quality
-query	NN	query
-question	NN	question
+question	NN	question	VV0	question
 questionable	JJ	questionable
-questioned	VVD	question
+questioned	VV0	question	VVD	question
 questions	NNS	question
 quick	VV0	quick
 quickly	RB	quickly
 quiet	JJ	quiet
+quit	VV0	quit
 quite	RB	quite
-quoted	VVD	quote
+quitting	VV0	quit
+quiz	NN	quiz
+rabbit	NN	rabbit
+raccoon	NN	raccoon
 race	NN	race
-radical	VV0	radical
 radio	NN	radio
-rainbow	NN	rainbow
-rainy	VV0	rainy
-raised	VV0	raise
-ran	VVD	run
-ranking	JJ	ranking
-rapid	JJ	rapid	VV0	rapid
+rain	NN	rain	VV0	rain
+rained	VVD	rain
+rainfall	NN	rainfall
+raised	JJ	raised	VV0	raise
 rapidly	RB	rapidly
 rare	JJ	rare
 rate	NN	rate
-ratio	NN	ratio
-rationale	NN	rationale
-reach	NN	reach
-reached	VV0	reach	VVD	reach
-reaction	NN	reaction
-read	VV0	read	VVD	read
+ratings	NNS	rating
+raving	VV0	rave
+re	JJ	re	VV0	re
+reach	NN	reach	VV0	reach
+reached	VVD	reach
+read	NN	read	VV0	read	VVD	read
 reading	NN	reading
 reads	VV0	read
-realistic	JJ	realistic	VV0	realistic
+real	JJ	real
 reality	NN	reality
+realization	NN	realization
+realize	NN	realize	VV0	realize
 realized	VVD	realize
+realizes	VV0	realize
+really	RB	really
+reason	NN	reason
 reasonable	JJ	reasonable
+reasoning	NN	reasoning
+reassured	JJ	reassured	VV0	reassure	VVD	reassure
+reassuring	VV0	reassure
+rebutted	VVD	rebut
+recall	VV0	recall
 recalled	VVD	recall
+recalling	NN	recalling
 received	JJ	received	VV0	receive	VVD	receive
 recently	RB	recently
-receptive	JJ	receptive
-recession	NN	recession
 recipe	NN	recipe
-recited	VVD	recite
+reckless	JJ	reckless	NN	reckless
+recklessly	RB	recklessly
+recognition	NN	recognition
 recognize	VV0	recognize
-recognized	VVD	recognize
+recognized	VV0	recognize	VVD	recognize
+recognizes	VV0	recognize
+recollect	VV0	recollect
+recollection	NN	recollection
+recommendation	NN	recommendation
 recommended	VVD	recommend
-record	NN	record
+recommending	VV0	recommend
+reconcile	VV0	reconcile
 recorded	VVD	record
-recording	NN	recording
-recounted	VVD	recount
-recovered	VVD	recover
-recovering	VV0	recover
-recovery	NN	recovery
-rectified	VV0	rectify
-red	JJ	red	VVD	red
-referee	JJ	referee
-reference	NN	reference
-reflects	VV0	reflect
+records	NNS	record
+recover	VV0	recover
+red	JJ	red
+reddish	JJ	reddish
+redo	VV0	redo
+reflective	VV0	reflective
 refreshing	VV0	refresh
+refrigerator	NN	refrigerator
+refusal	NN	refusal
+refused	VVD	refuse
+refutation	NN	refutation
+refuted	VVD	refute
+regret	NN	regret
 regulation	NN	regulation
+regulations	NNS	regulation
+reiterated	VVD	reiterate
 rejected	VVD	reject
-rejoiced	VVD	rejoice
+rejection	NN	rejection
+relationship	NN	relationship
+relax	VV0	relax
 relaxing	VV0	relax
-reliable	JJ	reliable	VV0	reliable
-relic	NN	relic
+relentless	NN	relentless
+reliable	JJ	reliable	NN	reliable
+relief	NN	relief
+relieved	VVD	relieve
 relocating	VV0	relocate
-remains	VV0	remain
+reluctant	JJ	reluctant
+remained	VV0	remain
 remark	NN	remark
-remarkable	JJ	remarkable	VV0	remarkable
+remarkable	JJ	remarkable
 remarked	VVD	remark
+remember	VV0	remember
 remembered	VVD	remember
+reminded	VVD	remind
 reminds	VV0	remind
+reminiscing	VV0	reminisce
+remorse	NN	remorse
 renovated	VV0	renovate
 renovating	VV0	renovate
 renovation	NN	renovation
 rented	VVD	rent
-repair	NN	repair
-repaired	VVD	repair
+repair	NN	repair	VV0	repair
+repaired	VV0	repair	VVD	repair
+repairs	NNS	repair
+repeating	VV0	repeat
 replaced	VV0	replace
-replay	NN	replay
-replenished	VV0	replenish
-replicable	JJ	replicable
+replacement	NN	replacement
+reply	NN	reply
 report	NN	report
 reported	VVD	report
-representation	NN	representation
-requirement	NN	requirement
-rescheduled	VV0	reschedule
+represent	VV0	represent
+request	NN	request
+require	VV0	require
+required	VVD	require
+requires	VV0	require
 research	NN	research
-Researchers	NN	Researchers	NNS	Researchers
-reservation	NN	reservation
+Researchers	NNS	researcher
 reserved	VV0	reserve
-resilience	NN	resilience
+residences	NNS	residence
+resignation	NN	resignation
+resigning	VV0	resign
+resistance	NN	resistance
 resolution	NN	resolution
-resolved	VV0	resolve	VVD	resolve
+resolve	VV0	resolve
+resolved	VV0	resolve
 resonated	VV0	resonate
-resonates	NNS	resonates	VV0	resonate
 resort	NN	resort
-respect	VV0	respect
+respect	NN	respect	VV0	respect
 respected	VV0	respect	VVD	respect
-responded	VVD	respond
-responsive	JJ	responsive	VV0	responsive
+respond	VV0	respond
+response	NN	response
+responsibility	NN	responsibility
+responsible	JJ	responsible
+responsibly	RB	responsibly
+rest	NN	rest
 restaurant	NN	restaurant
+rested	VVD	rest
+resting	VV0	rest
 restored	VVD	restore
-result	NN	result
+restriction	NN	restriction
+restrictive	JJ	restrictive
+resulted	VV0	result	VVD	result
 results	NNS	result
-retired	VV0	retire
-return	NN	return
+retired	JJ	retired
+retiring	VV0	retire
+return	NN	return	VV0	return
 returned	VV0	return
+returning	VV0	return
+reunite	VV0	reunite
 revealed	VVD	reveal
-revealing	VV0	reveal
-revenue	NN	revenue
-revered	VV0	revere
-review	NN	review
-reviewed	VVD	review
-reviews	VV0	review
-revised	VV0	revise	VVD	revise
-revolutionary	JJ	revolutionary	VV0	revolutionary
-rewarded	VV0	reward
-rewatched	VVD	rewatched
-rhythm	NN	rhythm
-rhythmic	VV0	rhythmic
+revelation	NN	revelation
+review	NN	review	VV0	review
+reviews	NNS	review
+revised	VV0	revise
+revision	NN	revision
+revolutionized	JJ	revolutionized
+reward	NN	reward
+rewarding	VV0	reward
+rework	NN	rework
 rich	JJ	rich	VV0	rich
+riddle	JJ	riddle
 ride	NN	ride
 rides	VV0	rid
-rigorous	VV0	rigorous
+ridiculous	JJ	ridiculous
+right	JJ	right	NN	right	RB	right
+ring	VV0	ring
 ringing	VV0	ring
-ripe	VV0	ripe
-risk	NN	risk
-risky	JJ	risky	VV0	risky
+ripe	NN	ripe
+ripping	VV0	rip
+rise	NN	rise
+risky	JJ	risky
 river	NN	river
+riverbank	NN	riverbank
 road	NN	road
-robust	JJ	robust	VV0	robust
+roast	NN	roast
+rocky	VV0	rocky
 role	NN	role
+rooftop	NN	rooftop
 room	NN	room
-rough	VV0	rough
+rooster	NN	rooster
+rough	NN	rough
 route	NN	route
-routine	NN	routine
-rugged	VVD	rugged
+rowdy	VV0	rowdy
+rug	NN	rug
+ruined	VV0	ruin
 rule	NN	rule
 rules	NNS	rule
 ruling	NN	ruling
 rumour	NN	rumour
-runs	VV0	run
-s	JJ	s
-safe	JJ	safe	VV0	safe
+run	NN	run	VV0	run
+running	VV0	run
+runs	NNS	run	VV0	run
+rush	JJ	rush
+s	JJ	s	NN	s	NNS	s	PRP	s	RB	s	VV0	s	VVD	s
+saddened	VV0	sadden
+safe	JJ	safe
 safety	NN	safety
 said	VVD	say
-salad	JJ	salad
 sale	NN	sale
-sales	NNS	sale
-sample	NN	sample
-sampled	VVD	sample
-sand	NN	sand
+salty	JJ	salty	NN	salty
+same	JJ	same
 sandwich	JJ	sandwich	NN	sandwich
+sandwiches	NNS	sandwich
 sang	VV0	sing	VVD	sing
 sat	VVD	sit
-satisfactory	JJ	satisfactory
-satisfied	VVD	satisfy
+satisfaction	NN	satisfaction
+satisfied	VV0	satisfy
+satisfying	VV0	satisfy
 sauce	NN	sauce
-saved	VVD	save
-savored	VVD	savor
-savory	VV0	savory
 saw	VVD	saw
-scalable	JJ	scalable
-scanned	VVD	scan
-scared	VVD	scar
-scary	VV0	scary
+say	VV0	say
+scalding	VV0	scald
+scale	NN	scale	VV0	scale
+scandal	NN	scandal
+scared	VV0	scar
+scarf	JJ	scarf	NN	scarf
 scene	NN	scene
-scenery	NN	scenery
 scenic	JJ	scenic
-scent	NN	scent
+sceptical	JJ	sceptical
 schedule	NN	schedule
-scheduled	VV0	schedule	VVD	schedule
+scheduled	JJ	scheduled	VVD	schedule
+scheming	VV0	scheme
+Scholars	NNS	scholar
 school	NN	school
 science	NN	science
 scientific	JJ	scientific
 scientist	NN	scientist
-score	NN	score
+Scientists	NNS	scientist
+scooter	NN	scooter
+scorching	VV0	scorch
 screen	NN	screen
-script	NN	script
+screwdriver	NN	screwdriver
+scribbled	VVD	scribble
 scrumptious	JJ	scrumptious
+scrutinized	VVD	scrutinize
 sculpture	NN	sculpture
-seamless	JJ	seamless	VVD	seamless
-season	NN	season
-secluded	VVD	seclude
+sea	NN	sea
+seafood	NN	seafood
+seal	NN	seal
+sealed	VVD	seal
+seamless	JJ	seamless
+searching	VV0	search
+seasoning	VV0	season
+seated	VV0	seat
+seating	NN	seating
 second	JJ	second
-secret	JJ	secret	NN	secret
-secure	JJ	secure	NN	secure	VV0	secure
-secured	VVD	secure
+second-hand	NN	second-hand
+secret	JJ	secret
+secrets	NNS	secret
+secure	JJ	secure	VV0	secure
 security	NN	security
 see	VV0	see
-seek	VV0	seek
-seized	VVD	seize
-selected	VV0	select	VVD	select
-self-belief	JJ	self-belief
+seeing	VV0	see
+seeking	VV0	seek
+seem	VV0	seem
+seemed	VVD	seem
+seems	VV0	seem
+seen	VV0	see
+selected	VV0	select
+self-assured	JJ	self-assured
 seminar	NN	seminar
-sensed	VVD	sense
-sent	VVD	send
+sense	NN	sense	VV0	sense
+sensitive	JJ	sensitive
+sent	VV0	send	VVD	send
 sentence	NN	sentence
-sentiment	NN	sentiment
-sequence	NN	sequence
+sentences	NNS	sentence
+sentimental	VV0	sentimental
 serene	JJ	serene
 series	NN	series
 serious	JJ	serious
 served	VVD	serve
+server	NN	server
+serves	VV0	serve
 service	NN	service
-serviced	VVD	service
 session	NN	session
-set	NN	set	VV0	set
-setback	NN	setback
-settings	NNS	setting
+set	VV0	set
+setbacks	NNS	setback
+settle	VV0	settle
+settled	VV0	settle
 several	JJ	several
 severe	VVD	severe
-shade	NN	shade
-shadow	NN	shadow
+shade	NN	shade	VVD	shade
+shadowy	NN	shadowy
+shallow	JJ	shallow	NN	shallow
 shape	NN	shape
-shapes	JJ	shapes	NNS	shape	VV0	shape
-share	NN	share
-shared	VV0	share	VVD	share
-shares	NNS	share
+shaped	VVD	shape
+shared	VVD	share
+sharing	VV0	share
 sharp	JJ	sharp
-She	PRP	She
+shattered	VV0	shatter
+She	PRP	she
 she	PRP	she
-sheet	NN	sheet
 shelf	NN	shelf
-shimmer	NN	shimmer
+shifting	VV0	shift
+shining	VV0	shin
 shipment	NN	shipment
-shirt	NN	shirt
+shirt	NN	shirt	VV0	shirt
+shock	NN	shock	VV0	shock
 shocked	VV0	shock
-shocking	NN	shocking	VV0	shock
+shocking	VV0	shock
 shoes	NNS	shoe
+shoot	NN	shoot
+shop	NN	shop
+shopping	NN	shopping
+shore	NN	shore
+short	JJ	short
 shot	NN	shot
-show	NN	show
+should	MD	should
+show	NN	show	VV0	show
 showcased	VVD	showcased
-showed	VVD	show
+showed	JJ	showed	VVD	show
+showing	NN	showing
+shown	VV0	show
 showroom	NN	showroom
-sidekick	NN	sidekick
-signal	JJ	signal	NN	signal
-signed	VV0	sign	VVD	sign
+shut	VV0	shut
+shutdown	NN	shutdown
+shutter	NN	shutter
+shutting	VV0	shut
+side	NN	side
+sign	NN	sign
+signal	NN	signal
+signed	VV0	sign
 significant	JJ	significant
-silence	NN	silence
 simple	JJ	simple
+simplistic	JJ	simplistic
 simply	RB	simply
-simulation	NN	simulation
-sincere	JJ	sincere	RB	sincere
+since	IN	since
+sincere	JJ	sincere
+sincerity	NN	sincerity
 sing	VV0	sing
+singing	NN	singing
 sings	VV0	sing
+sip	NN	sip
+sit	VV0	sit
+site	NN	site
+sits	VV0	sit
 sitting	VV0	sit
 situation	NN	situation
-size	NN	size
 skill	NN	skill
-skilled	JJ	skilled	VVD	skilled
+skilled	JJ	skilled
+skillful	JJ	skillful
 skills	NNS	skill
+skirt	NN	skirt
 sky	NN	sky
+skyscraper	NN	skyscraper
 sleek	JJ	sleek
-slim	VV0	slim
-slogan	JJ	slogan
-slow	VV0	slow
+sleepy	NN	sleepy
+slip	VV0	slip
+slippery	JJ	slippery
+slipping	VV0	slip
+slope	NN	slope
+slow	JJ	slow	VV0	slow
 slowly	RB	slowly
 small	JJ	small
-smells	NNS	smell
-smile	VV0	smile
+smells	NNS	smell	VV0	smell
+smile	JJ	smile	NN	smile	VV0	smile
 smiling	VV0	smile
-smooth	JJ	smooth	VV0	smooth
-smoothly	RB	smoothly
-soft	VV0	soft
+smooth	NN	smooth
+smoothly	RB	smoothly	VV0	smoothly
+so	RB	so
+soda	NN	soda
+sofa	NN	sofa
+soften	VVD	soften
 software	NN	software
-sold	VVD	sell
+sold	VV0	sell
 solution	NN	solution
 solve	VV0	solve
-solved	VVD	solve
-sometimes	RB	sometimes	VV0	sometimes
+solves	NNS	solves
+some	AT	some
+someday	NN	someday	RB	someday
+someone	NN	someone
+something	NN	something
+sometime	RB	sometime
 song	NN	song
+soon	RB	soon
+sooner	NN	sooner
 soothing	VV0	soothe
-sorted	VVD	sort
-soul	NN	soul
-sound	JJ	sound	NN	sound
-soundtrack	NN	soundtrack
+sorbet	NN	sorbet
+sorrow	NN	sorrow
+sorting	VV0	sort
+sound	NN	sound
+sounds	NNS	sound	VV0	sound
 soup	NN	soup
+sour	NN	sour
+space	NN	space
+space-themed	JJ	space-themed
 spacious	JJ	spacious
-sparkle	NN	sparkle
-sparks	JJ	sparks	VV0	spark
-speak	VV0	speak
+spanner	NN	spanner
+sparked	JJ	sparked	VVD	spark
+sparkling	VV0	sparkle
+speak	NN	speak
 speaker	NN	speaker
-speaks	NNS	speaks	VV0	speak
-spectacular	JJ	spectacular	VV0	spectacular
-speculative	JJ	speculative
+speaking	NN	speaking
+special	JJ	special
+spectacular	JJ	spectacular
+spectators	NNS	spectator
+speculation	NN	speculation
 speech	NN	speech
 speed	NN	speed
-spicy	NN	spicy
-sponsor	NN	sponsor
-sponsored	VVD	sponsor
-sport	NN	sport
+spend	JJ	spend	VV0	spend
+spent	VVD	spend
+spicy	JJ	spicy	NN	spicy
+spine-chilling	NN	spine-chilling
+spirits	NNS	spirit
+spoke	VVD	speak
+spoken	VV0	speak
+spokesperson	NN	spokesperson
 sports	NNS	sport
+spot	NN	spot	VV0	spot
+spread	NN	spread
+spree	NN	spree
 spring	NN	spring
 square	NN	square
-stable	JJ	stable	VV0	stable
+squawking	VV0	squawk
+squirrel	NN	squirrel	VVD	squirrel
+stabilizing	VV0	stabilize
 stadium	NN	stadium
+staff	NN	staff
 stage	NN	stage
-stance	NN	stance
-standard	NN	standard
+staged	VV0	stag
+stained	VV0	stain	VVD	stain
+stalled	JJ	stalled
+stand	NN	stand	VV0	stand
+standard	NN	standard	VV0	standard
 standards	NNS	standard
 stands	VV0	stand
 star	NN	star
+staring	VV0	star
 starred	VVD	star
 start	VV0	start
+started	VVD	start
+starting	VV0	start
+startled	VV0	startle
 stated	VVD	state
 statement	NN	statement
 state‑of‑the‑art	JJ	state‑of‑the‑art
-statistic	JJ	statistic	NN	statistic
-statistics	NNS	statistic
-statute	NN	statute
-steadfast	JJ	steadfast	NN	steadfast
-steady	JJ	steady
-steak	NN	steak
-steep	VV0	steep
-stellar	JJ	stellar
+station	NN	station
+stay	NN	stay	VV0	stay
+stayed	VV0	stay	VVD	stay
+staying	VV0	stay
+steaming	VV0	steam
+steep	JJ	steep	VV0	steep
+steering	VV0	steer
+step	VV0	step
 stepping	VV0	step
+stick	NN	stick
+stifling	VV0	stifle
 still	RB	still
-stimulating	VV0	stimulate
-stock	NN	stock
-stone	NN	stone
-stops	NNS	stop	VV0	stop
+sting	VV0	sting
+stir	NN	stir
+stole	VVD	steal
+stolen	VV0	steal
+stood	VVD	stand
+stop	NN	stop	VV0	stop
+stopped	VV0	stop
+stops	VV0	stop
 store	NN	store
 stores	NNS	store
 storm	NN	storm
 story	NN	story
-straightforward	RB	straightforward
-strategic	JJ	strategic
+straight	VVD	straight
+straightforward	NN	straightforward
+strange	JJ	strange
 strategy	NN	strategy
 stream	NN	stream
-streamlined	VV0	streamline
 street	NN	street
+Street	NN	street
+streets	NNS	street
 strength	NN	strength
 strenuous	JJ	strenuous
 stressed	VVD	stress
-strict	VV0	strict	VVD	strict
-stringent	VVD	stringent
+stressful	NN	stressful
+stricter	NN	stricter
+striking	VV0	strike
 stroll	VV0	stroll
+strolled	VVD	stroll
 strong	JJ	strong
+strongly	RB	strongly
 structure	NN	structure
+struggling	VV0	struggle
+stuck	VV0	stick
 student	NN	student
 students	NNS	student
-studied	VVD	study
+studied	VV0	study
 studies	NNS	study
 studio	NN	studio
-study	NN	study	VV0	study
+studying	VV0	study
+stunned	VV0	stun	VVD	stun
 stunning	JJ	stunning	VV0	stun
-sturdy	JJ	sturdy	PDT	sturdy	VV0	sturdy
+sturdy	JJ	sturdy
 style	NN	style
-stylish	JJ	stylish	VV0	stylish
-subject	JJ	subject
-substantial	JJ	substantial
-substantiated	VV0	substantiate
+stylish	JJ	stylish
+subject	JJ	subject	NN	subject
+subjective	JJ	subjective
+submission	NN	submission
+submit	VV0	submit
+submitted	VV0	submit
 subtle	JJ	subtle
 succeed	VV0	succeed
+succeeded	VV0	succeed
 success	NN	success
 successful	JJ	successful
-sudden	VV0	sudden
-sufficient	JJ	sufficient
+successfully	RB	successfully
+such	JJ	such	PDT	such
+suffer	VV0	suffer
+suffering	VV0	suffer
+suffocating	VV0	suffocate
 suggested	VVD	suggest
 suggestion	NN	suggestion
-sum	NN	sum
+suits	NNS	suit
 summer	NN	summer
-summit	NN	summit
+summers	NNS	summer
+summiting	VV0	summit
 sun	NN	sun
-Sunday	NN	Sunday
+Sunday	NN	sunday
+sunrise	NN	sunrise
 sunset	NN	sunset
-supply	NN	supply
-support	NN	support	VV0	support	VVD	support
-supported	VVD	support
+support	NN	support	VV0	support
+supported	VV0	support
+supporters	NNS	supporter
 supportive	JJ	supportive
 supports	VV0	support
+supposed	VV0	suppose
+sure	JJ	sure	NN	sure	RB	sure	VV0	sure
 surface	NN	surface
-surmountable	JJ	surmountable
-surprise	NN	surprise
-surprised	VVD	surprise
+surprised	JJ	surprised	VV0	surprise	VVD	surprise
 surprises	NNS	surprise
-surprising	VV0	surprise
+surprising	JJ	surprising	VV0	surprise
 surrounded	VV0	surround
+surroundings	NNS	surroundings
 surrounds	VV0	surround
-survey	NN	survey
-suspected	VVD	suspect
+surveillance	NN	surveillance
+suspect	NN	suspect	VV0	suspect
+suspects	VV0	suspect
 suspense	NN	suspense
-sustainable	JJ	sustainable
-swam	VV0	swim
-sweet	JJ	sweet	VV0	sweet
-swift	VVD	swift
+suspicion	NN	suspicion
+suspicions	NNS	suspicion
+suspicious	JJ	suspicious
+sustained	VV0	sustain
+swallow	VV0	swallow
+sweater	NN	sweater
+sweet	JJ	sweet	NN	sweet
+sweltering	VV0	swelter
+swiftly	RB	swiftly
+swim	NN	swim
+switch	NN	switch	VV0	switch
+swore	VVD	swear
+symposium	NN	symposium
 system	NN	system
-systematic	JJ	systematic
-t	NN	t	NNS	t	VV0	t
+t	IN	t	JJ	t	NN	t	NNS	t	RB	t	VV0	t	VVD	t	WDT	t
 table	NN	table
-tablet	NN	tablet
-taking	VV0	take
-tale	NN	tale
+take	VV0	take
+taken	VV0	take
+takes	VV0	take
+tale	NN	tale	VV0	tale
+talent	NN	talent
 talented	VV0	talented
-tall	JJ	tall	VV0	tall
-tangy	VV0	tangy
-target	NN	target
+talk	NN	talk	VV0	talk
+talked	VVD	talk
+talking	VV0	talk
+tall	JJ	tall	NN	tall
+tangy	NN	tangy
 task	NN	task
 tasks	NNS	task
 taste	NN	taste
 tasted	JJ	tasted	VVD	taste
-tastefully	RB	tastefully
 tasty	JJ	tasty
 taught	VVD	teach
+taxes	NNS	tax
 tea	NN	tea
 teacher	NN	teacher
-teaches	NNS	teach	VV0	teach
+teaches	VV0	teach
+teaching	VV0	teach
 team	NN	team
+teammate	NN	teammate
 teamwork	NN	teamwork
-technique	NN	technique
+tearing	VV0	tear
 technology	NN	technology
-televised	VVD	televise
+tedious	JJ	tedious
+tell	VV0	tell
+telling	VV0	tell
 temperature	NN	temperature
 tend	VV0	tend
 tended	VVD	tend
+tension	NN	tension	VV0	tension
 term	NN	term
+terms	NNS	term
+terrain	NN	terrain
+terrified	VV0	terrify
+terrifying	VV0	terrify
 test	NN	test
-tested	VVD	test
+testified	VVD	testify
+testimonials	NNS	testimonial
+testimony	NN	testimony
 texture	NN	texture
 than	IN	than
-thanked	VVD	thank
 that	CJT	that	CST	that	DD1	that	RA	that	WPR	that
-The	AT	The
+That	DD1	that
 the	AT	the
+The	AT	the
 theater	NN	theater
+Their	PRP	their
+their	PRP	their
+them	PRP	them
+themselves	PRP	themselves
 theory	NN	theory
-They	PRP	They
+there	EX	there	RB	there
+They	PRP	they
 they	PRP	they
-think	VV0	think
-thinking	VV0	think
+thick	NN	thick
+thing	NN	thing
+things	NNS	thing
+think	NN	think	VV0	think
+thinking	NN	thinking	VV0	think
+thinks	VV0	think
 this	AT	this
-thorough	IN	thorough
-those	AT	those
-thought	NN	thought
-thought-provoking	VV0	thought-provoking
+thought	NN	thought	VVD	think
 thoughtful	JJ	thoughtful
+thoughts	NNS	thought
 thought‑provoking	VV0	thought‑provoking
-threat	NN	threat
+thrift	NN	thrift
 thrill	NN	thrill
 thrilled	VVD	thrill
+thriller	NN	thriller
 thrilling	VV0	thrill
-through	IN	through
+through	IN	through	RP	through
 thunder	NN	thunder
-ticket	NN	ticket
-tide	NN	tide
-tight	VVD	tight
+thunderstorm	NN	thunderstorm
+tidying	VV0	tidy
+tight	JJ	tight
+tighten	VV0	tighten
+tightly	RB	tightly
 time	NN	time
-timeless	IN	timeless
-timeline	NN	timeline
-time‑consuming	VV0	time‑consuming
-tired	VV0	tire	VVD	tire
+time-consuming	NN	time-consuming
+timeless	JJ	timeless
+times	NNS	time
+tint	NN	tint
+tip	NN	tip
 tiring	VV0	tire
 to	TO	to
+toasty	VV0	toasty
 today	NN	today
 together	RB	together
-told	VVD	tell
-tonight	IN	tonight
+told	VV0	tell	VVD	tell
+tomorrow	NN	tomorrow
+tone	NN	tone
+tonight	NN	tonight
 too	RB	too
 took	VVD	take
 tool	NN	tool
-top-quality	JJ	top-quality
+top	JJ	top	NN	top
 topic	NN	topic
-top‑notch	NN	top‑notch	VV0	top‑notch
-touched	JJ	touched
+top‑notch	JJ	top‑notch
+tormented	VV0	torment
+torn	JJ	torn
+touch	JJ	touch
+touched	JJ	touched	VV0	touch
+tough	JJ	tough
+tour	NN	tour	VV0	tour
 toured	VVD	tour
 tournament	NN	tournament
+tower	NN	tower
 towers	NNS	tower
 town	NN	town
 track	NN	track
-tracked	VVD	track
-traded	VVD	trade
-tradition	NN	tradition
-traffic	NN	traffic
-tragic	VV0	tragic
-trail	NN	trail
+traditional	JJ	traditional
+trail	NN	trail	VV0	trail
 trails	NNS	trail
 train	NN	train
 training	NN	training
 trains	VV0	train
+tram	NN	tram
 transaction	NN	transaction
-transcends	NNS	transcends	VV0	transcend
-transformation	NN	transformation
-transforms	NNS	transforms	VV0	transform
+transformed	VVD	transform
 translated	VV0	translate	VVD	translate
-transparent	JJ	transparent
+transparency	NN	transparency
+transparent	NN	transparent
+transparently	RB	transparently
+trapped	VV0	trap
+travel	NN	travel	VV0	travel
 traveled	VVD	travel
-treasured	VVD	treasure
-treble	JJ	treble
+traveling	VV0	travel
+travellers	NNS	traveller
+treacherous	JJ	treacherous
+treated	VV0	treat
 tree	NN	tree
 trees	NNS	tree
-tremor	NN	tremor
-trend	NN	trend
+trek	NN	trek
+trekked	VVD	trek
 trending	VV0	trend
-trial	NN	trial
-tricky	VV0	tricky
+tricky	JJ	tricky	VV0	tricky
+tried	VVD	try
+triggered	VVD	trigger
 trip	NN	trip
-triumph	NN	triumph	VV0	triumph
-trophy	NN	trophy
+triumph	VV0	triumph
 truck	NN	truck
 true	JJ	true
-trust	NN	trust	RB	trust	VV0	trust
+trust	NN	trust	VV0	trust
 trusted	VVD	trust
+trusts	VV0	trust
 truth	NN	truth
+truthful	JJ	truthful	NN	truthful
+truthfulness	NN	truthfulness
 try	VV0	try
+trying	VV0	try
 tune	NN	tune
-tuned	VVD	tune
-turned	VVD	turn
-turning	VV0	turn
-turnover	NN	turnover
-tutorial	NN	tutorial
-twist	NN	twist
+tunnel	NN	tunnel
+turn	NN	turn	VV0	turn
+turned	VV0	turn	VVD	turn
+turning	NN	turning	VV0	turn
+turnout	NN	turnout
+turns	NNS	turn
+TV	NN	tv
+twinkling	NN	twinkling
 two	CD	two
-unambiguous	JJ	unambiguous
+unable	JJ	unable
 unanimous	JJ	unanimous
-unavoidable	JJ	unavoidable
+unavailable	JJ	unavailable
+unaware	JJ	unaware	NN	unaware
 unbearable	JJ	unbearable
-unbiased	JJ	unbiased
-unboxed	VVD	unbox
+unbelievable	JJ	unbelievable
 uncertain	JJ	uncertain
+uncertainty	NN	uncertainty
+unclean	JJ	unclean
 unclear	JJ	unclear
 uncomfortable	JJ	uncomfortable
-unconventional	JJ	unconventional
+unconvincing	VV0	unconvincing
 uncovered	VVD	uncover
 undeniable	JJ	undeniable
 under	IN	under
-understanding	VV0	understand
+undercover	RB	undercover
+underestimated	VV0	underestimate
+understand	NN	understand	VV0	understand
+understandable	JJ	understandable
+understandably	RB	understandably
+understanding	NN	understanding	VV0	understand
 understood	VV0	understand	VVD	understand
-unemployment	NN	unemployment
-unexpected	VV0	unexpected	VVD	unexpected
+unease	NN	unease
+uneasy	JJ	uneasy
+uneven	RB	uneven
+unexpected	JJ	unexpected	VVD	unexpected
+unfair	JJ	unfair
+unfamiliar	JJ	unfamiliar
 unforgettable	JJ	unforgettable
-unfortunate	JJ	unfortunate
-unique	JJ	unique	VV0	unique
-unity	JJ	unity
-unlocked	JJ	unlocked
-unlocks	NNS	unlocks
-unpredictable	JJ	unpredictable
-unquestionable	JJ	unquestionable
-unresponsive	VV0	unresponsive
-unshakeable	JJ	unshakeable
-unstable	JJ	unstable
-unsuccessful	JJ	unsuccessful
+unfounded	JJ	unfounded
+unharmed	JJ	unharmed
+uniformly	RB	uniformly
+uninteresting	VV0	uninteresting
+unique	JJ	unique
+unjust	JJ	unjust
+unlikely	JJ	unlikely
+unmanageable	JJ	unmanageable
+unnecessary	JJ	unnecessary
+unnerved	VVD	unnerve
+unorganized	VVD	unorganized
+unrealistic	JJ	unrealistic
+unreasonable	JJ	unreasonable
+unsafe	JJ	unsafe
+unsettled	JJ	unsettled	VVD	unsettle
+unsure	JJ	unsure	NN	unsure
+untidy	NN	untidy
+until	IN	until
+untrue	JJ	untrue
+untrustworthy	JJ	untrustworthy
+untruthful	JJ	untruthful
 unusual	JJ	unusual
-unverified	JJ	unverified
-unwavering	JJ	unwavering
-up	RB	up	RP	up
+up	IN	up	RB	up	RP	up
 upbeat	JJ	upbeat
-update	JJ	update	NN	update
-updated	VV0	update	VVD	update
-upgrade	JJ	upgrade	NN	upgrade
-upgraded	VV0	upgrade	VVD	upgrade
-upheld	VV0	uphold	VVD	uphold
+update	JJ	update
+updated	JJ	updated	VV0	update
+updates	VV0	update
+upgrade	NN	upgrade
+upgraded	VVD	upgrade
+upheld	JJ	upheld
 uplifting	VV0	uplift
-upload	JJ	upload
-uploaded	VVD	upload
 upon	IN	upon
-upset	VV0	upset
-upward	JJ	upward
-urgent	JJ	urgent	VVD	urgent
+uproar	NN	uproar
+upscale	JJ	upscale
+upset	IN	upset	VV0	upset	VVD	upset
+upstairs	NNS	upstairs
+urged	VVD	urge
+urgent	JJ	urgent
+urgently	RB	urgently
 us	PRP	u
 use	VV0	use
-used	VV0	use
-useful	VV0	useful
-user	JJ	user
-user-friendly	RB	user-friendly
-user‑friendly	RB	user‑friendly
+used	VV0	use	VVD	use
+useless	JJ	useless
 uses	VV0	use
 using	VV0	use
+usual	JJ	usual
+usually	RB	usually
+utmost	JJ	utmost
 vacation	NN	vacation
-validated	VV0	validate	VVD	validate
+vaccines	NNS	vaccine
+vain	NN	vain
+valid	JJ	valid
+validated	VVD	validate
+validation	NN	validation
 valley	NN	valley
 valuable	JJ	valuable
 value	NN	value
 valued	VVD	value
-vast	VVD	vast
+van	NN	van	VV0	van
+ve	JJ	ve	NN	ve	NNS	ve	RB	ve
 vehicle	NN	vehicle
+venture	NN	venture
+venue	NN	venue
 verdict	NN	verdict
+verification	NN	verification
 verified	VVD	verify
-verse	NN	verse
 very	RB	very
-viable	JJ	viable
-vibrant	JJ	vibrant	VV0	vibrant
+viable	JJ	viable	NN	viable
+vibrant	JJ	vibrant	NN	vibrant
 vibration	NN	vibration
+victorious	JJ	victorious
 victory	NN	victory
-video	NN	video
-videos	PDT	video
+videos	NNS	video
 view	NN	view
-viewed	VVD	view
 viewpoint	NN	viewpoint
 views	NNS	view
+vigorous	JJ	vigorous
 village	NN	village
-villain	NN	villain
 vintage	NN	vintage
-violent	VVD	violent
-virtue	NN	virtue
-vision	NN	vision
-visionary	JJ	visionary
+violated	VVD	violate
+viral	JJ	viral
 visit	VV0	visit
-visited	VVD	visit
-visitor	NN	visitor
+visited	VV0	visit	VVD	visit
+visiting	VV0	visit
 visual	JJ	visual
 visually	RB	visually
-vivid	IN	vivid
-volatile	JJ	volatile
-volume	NN	volume
-volumes	NNS	volume
-volunteer	VV0	volunteer
-volunteered	VVD	volunteer
-vulnerable	VV0	vulnerable
+vital	JJ	vital
+vivid	NN	vivid
+voice	NN	voice
+voiced	VVD	voice
+vote	NN	vote
+voters	NNS	voter
+vowed	VVD	vow
+wait	NN	wait	VV0	wait
+waiting	VV0	wait
 waits	NNS	wait
 walk	NN	walk
+walked	VVD	walk
 walking	JJ	walking	VV0	walk
 wall	NN	wall
-warm	JJ	warm	VV0	warm	VVD	warm
+wallet	NN	wallet
+wanted	VVD	want
+wanting	VV0	want
+warm	JJ	warm	NN	warm	VVD	warm
+warmed	VVD	warm
+warmth	NN	warmth
+warned	VVD	warn
 warning	NN	warning
-warrants	NNS	warrant
 was	VVD	be
-wasn	IN	wasn	JJ	wasn	NN	wasn	NNS	wasn	RB	wasn	VV0	wasn	VVD	wasn
+wasn	IN	wasn	JJ	wasn	NN	wasn	VV0	wasn	VVD	wasn
+waste	JJ	waste	NN	waste
+wasted	VV0	waste
 watch	NN	watch	VV0	watch
-watched	VVD	watch
+Watch	VV0	watch
+watched	VV0	watch	VVD	watch
+watching	VV0	watch
 water	NN	water
 watered	VVD	water
-wave	NN	wave
-We	PRP	We
+way	NN	way
+We	PRP	we
 we	PRP	we
 weak	JJ	weak
+weaknesses	NNS	weakness
+wealth	NN	wealth
+wear	IN	wear	NN	wear
+wearing	NN	wearing	VV0	wear
 wears	VV0	wear
 weather	NN	weather
-website	JJ	website	NN	website
 wedding	NN	wedding
 week	NN	week
 weekend	NN	weekend
 weekends	NNS	weekend
-welcomed	VVD	welcome
+weeks	NNS	week
+weighed	VV0	weigh	VVD	weigh
+weird	JJ	weird
+welcomed	VV0	welcome	VVD	welcome
 well	RB	well
-well-founded	JJ	well-founded
-well-organized	JJ	well-organized
-well-written	JJ	well-written
-well‑attended	VV0	well‑attended
-well‑developed	VV0	well‑developed
-well‑founded	VV0	well‑founded
-well‑kept	IN	well‑kept
-well‑known	IN	well‑known	VV0	well‑known
+well-acted	JJ	well-acted
+well-supported	JJ	well-supported
+well‑kept	JJ	well‑kept
+well‑known	JJ	well‑known
 well‑maintained	VV0	well‑maintained
-well‑structured	VV0	well‑structured
-well‑thought‑out	IN	well‑thought‑out
+went	VVD	go
 were	VVD	be
-weren	VV0	weren
-whisper	IN	whisper
+weren	NN	weren	VV0	weren
+what	PRP	what
+wheel	NN	wheel
+when	RB	when
+where	RB	where
+whether	IN	whether
+while	IN	while	NN	while
+whined	VVD	whine
+whining	VV0	whine
+whiteboard	NN	whiteboard
 who	PRP	who
+Who	PRP	who
+why	RB	why
 wide	JJ	wide
 widely	RB	widely
-widespread	JJ	widespread	VVD	widespread
-wild	JJ	wild
+wildlife	NN	wildlife
 will	MD	will
-win	JJ	win	VV0	win
+Will	MD	will
+win	VV0	win
 wind	NN	wind
 winding	VV0	wind
-window	NN	window
+window	NN	window	VV0	window
 winds	VV0	wind
-windy	VV0	windy
 wine	NN	wine
+winning	VV0	win
+wins	NNS	win
 winter	NN	winter
-wisdom	IN	wisdom	NN	wisdom	VV0	wisdom
+wiped	VV0	wipe
+wire	NN	wire
+wisdom	NN	wisdom
+wise	NN	wise
+wish	VV0	wish
+wished	VV0	wish	VVD	wish
 wishes	NNS	wish
+wishing	VV0	wish
 with	IN	with
 within	IN	within
+without	IN	without
 witnessed	VVD	witness
-witty	JJ	witty	VV0	witty
-won	VVD	win
+wolf	NN	wolf
+woman	NN	woman
+won	VV0	win	VVD	win
+wonder	VV0	wonder
+wondered	VVD	wonder
+wonderful	JJ	wonderful
+woodland	NN	woodland
+woods	NNS	wood
+word	NN	word
 words	NNS	word
 wore	VVD	wear
 work	NN	work	VV0	work
+worked	VVD	work
+workforce	NN	workforce
 working	VV0	work
 workout	NN	workout
-works	VV0	work
+works	NNS	work	VV0	work
 workshop	NN	workshop
-worried	VVD	worry
+workspace	NN	workspace
+worn	VV0	wear
+worried	JJ	worried	VVD	worry
+worries	NNS	worry
+worry	NN	worry
+worsen	VV0	worsen
+worsened	VVD	worsen
 would	MD	would
-wounds	NNS	wound
+wouldn	NN	wouldn	VV0	wouldn	VVD	wouldn
+wrap	NN	wrap	VV0	wrap
+wrench	NN	wrench
+wrestled	VVD	wrestle
+wrist	NN	wrist
 written	VV0	write
+wrong	JJ	wrong
+wrongly	RB	wrongly
 wrote	VVD	write
 year	NN	year
+years	NNS	year
+yes	NNS	yes
 yesterday	NN	yesterday
-yields	NNS	yield
 you	PRP	you
-’	JJ	’	NN	’	VV0	’
+younger	JJ	young
+youngster	NN	youngster
+youngsters	NNS	youngster
+your	PRP	your
+zoo	NN	zoo
+’	CC	’	JJ	’	MD	’	NN	’	VV0	’	VVD	’
 .	SENT	.
