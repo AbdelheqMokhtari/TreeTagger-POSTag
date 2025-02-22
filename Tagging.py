@@ -6,7 +6,7 @@ from nltk.stem import WordNetLemmatizer
 
 # Download required NLTK data packages
 nltk.download("punkt")
-nltk.download("averaged_perceptron_tagger_eng")  # use "averaged_perceptron_tagger_eng" if needed
+nltk.download("averaged_perceptron_tagger_eng") 
 nltk.download("wordnet")
 
 lemmatizer = WordNetLemmatizer()
@@ -25,11 +25,11 @@ def get_lemma(token, tag):
     elif tag.startswith('RB'):
         pos = wordnet.ADV
     elif tag.startswith('PRP') or tag.startswith('PRP$'):
-        pos = wordnet.NOUN  # Treat pronouns as nouns
+        pos = wordnet.NOUN 
     elif tag.startswith('DT') or tag.startswith('WDT'):
-        pos = wordnet.NOUN  # Treat determiners as nouns
+        pos = wordnet.NOUN  
     elif tag.startswith('IN'):
-        pos = wordnet.ADV  # Treat prepositions/conjunctions as adverbs
+        pos = wordnet.ADV 
     else:
         pos = wordnet.NOUN
     return lemmatizer.lemmatize(token.lower(), pos)
@@ -44,7 +44,7 @@ def map_tag(nltk_tag):
         "DT": "AT0",       # Determiner/article (CLAWS8 uses AT0 for articles)
         "EX": "EX",        # Existential there
         "FW": "FW",        # Foreign word
-        "IN": "II",        # Preposition or subordinating conjunction (may require disambiguation)
+        "IN": "II",        # Preposition or subordinating conjunction 
         "JJ": "AJ0",       # Adjective, positive degree
         "JJR": "AJC",      # Adjective, comparative
         "JJS": "AJS",      # Adjective, superlative
@@ -63,7 +63,7 @@ def map_tag(nltk_tag):
         "RBS": "RGS",      # Adverb, superlative
         "RP": "RP",        # Particle
         "SYM": "SYM",      # Symbol
-        "TO": "TO",        # To (infinitive marker)
+        "TO": "TO",        # To
         "UH": "UH",        # Interjection
         "VB": "VVB",       # Verb, base form
         "VBD": "VVD",      # Verb, past tense
@@ -87,7 +87,6 @@ def process_file(input_filename, output_filename, that_override_tag, lexicon):
     with open(input_filename, "r", encoding="utf-8") as infile:
         lines = infile.readlines()
 
-    # Consider each non-empty line as a sentence.
     sentences = [line.strip() for line in lines if line.strip()]
     processed_lines = []
     file_tags = set()
@@ -110,7 +109,7 @@ def process_file(input_filename, output_filename, that_override_tag, lexicon):
                 lexicon[word].add((custom_tag, lemma))
             else:
                 lexicon[word] = {(custom_tag, lemma)}
-        # Append a blank line between sentences.
+        
         processed_lines.append("")
 
     with open(output_filename, "w", encoding="utf-8") as outfile:
@@ -125,7 +124,7 @@ os.makedirs(output_dir, exist_ok=True)
 all_tags = set()
 global_lexicon = {}
 
-# List of files to process: (input_filename, output_filename, override tag for "that")
+# List of files to process
 files_to_process = [
     ("that_as_adverb.txt", "adverb_formatted.txt", "RA"),
     ("that_conjunction_noun.txt", "conjunction_noun_formatted.txt", "CST"),
@@ -141,7 +140,7 @@ for infile_name, outfile_name, override in files_to_process:
     tags = process_file(input_path, output_path, override, global_lexicon)
     all_tags.update(tags)
 
-# Write openCLs.txt containing all unique tags (sorted)
+# Write openCLs.txt containing all unique tags 
 opencls_path = os.path.join(output_dir, "openCLs.txt")
 with open(opencls_path, "w", encoding="utf-8") as tag_file:
     tag_file.write(" ".join(sorted(all_tags)))
@@ -165,6 +164,6 @@ with open(train_file_path, "w", encoding="utf-8") as train_file:
         with open(file_path, "r", encoding="utf-8") as infile:
             content = infile.read()
             train_file.write(content)
-            train_file.write("\n")  # Separate files with a newline
+            train_file.write("\n") 
 
 print("Processing complete. Files have been saved in the 'Training/' directory.")
